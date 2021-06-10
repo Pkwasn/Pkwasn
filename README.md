@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pkwasn. I'm a Computer Science Engineering Student at Bucknell University.
+- 👀 I’m interested in Cyber Security and Artificial Intelligence.
+- 🌱 I’m currently learning Cyber Security through various CTFs and futhering my Python knowledge. 
+- 📫 Look me up on Linkedin if interested, @Patrick Kwasniak

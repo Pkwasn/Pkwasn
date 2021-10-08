@@ -4,4 +4,4 @@ Avid CTF TryHackMe & HackTheBox player.
 
 Looking for Summer 2022 Internship!
 
-Languages: Python, C++, x86 Assembly, 
+Languages: Python, C++, x86 Assembly, R

@@ -1,0 +1,1346 @@
+Compiler Vs. Interpreter: 
+
+	Compiler:generally transforms code written in a high-level language into a 
+		low-level language in order to create an executable program
+	
+	Interpreter: directly executes statements in a scripting language without 
+		requiring them to have been assembled into machine language
+
+Python uses a compiler while C++ uses an interpreter, the issue is that you have to compile 
+c++ and then you can run it, unlike python which we can just run in an interpreter
+
+Include (Python's Import): ~ <-- start line of code (not actually in there)
+	Use: ~#include <libraryname> or "filename"
+	*<> are used for libraries or headers provided by the implementation
+	*"" are used for headers and files not provided by the implementation
+
+Important: 
+* C++ must have a main function which begins with int main(), the final line of the 
+  main C++ function typically returns 0.
+* You can alternatively return an integer error code represnenting a specific error
+* Code blocks are grouped together using curly braces "{}" since tabbing and whitespace
+  mostly have no inherent meaning in C++
+* Semi-colon must be used to conclude most statements in C++
+
+Comments in C++:
+* Single line comment: "//"
+* Multi-line comments: "/* */"  
+* Documentation blocks at the beinning of a class, program, or function: "/** */" (2 *s)
+
+End of 3/24/2021: 1.4.5. Standard Output
+
+3/25/2021
+
+The library <iostream> lets us input and ouput information to/from the console
+cout (console output) (like print) must be used with << (output operator), the << can also
+be used to concatenate ouput (just like +)
+
+Standard Input: cin  (console input) must be used with >> (input operator)
+
+Type Declarataions: All variables in C++ muts be declared before use (cannot change type)
+
+Ending for now at 10:45 AM, reason: Covid 19 Test + Food @ 1.7 Glossary
+
+C++ Datatypes:
+* int 
+* float 
+* double 
+* bool
+* char 
+* pointer
+
+Operators: "+, -. *, /, //(integer divison)
+
+Functions:
+
+	All functions except main must return something (when we use void, we are actually returning void)
+	
+	Main will always return 0 even if we don't explicitly write, return 0;
+
+Header Files:
+
+	#pragma once
+	#ifndef : not as likely to be seen as #pragma once but kinda does the same thing, not really sure
+
+	We make a header file (extension is .h) and include any methods that are available in another file in there, therefore
+	when we call a function which originates in another file, we are still able to use that function
+
+Conditionals:
+
+	No fucking difference
+
+Loops:
+
+	Same as java, for(int x = 0; x < 100; x++){}
+
+	While loops the same as Python, also do while loops (which is never really used)
+
+Control Flow:
+
+	Same shit, return, break, continue
+
+Pointers:
+
+	Most simple pointer: void* ptr = nullptr; <-- null pointer
+
+	All a pointer does is refernce the location in memory
+
+	We can write data to the location in memory with: *PTR_NAME = VALUE; 
+		# As long as the PTR has the same data type as value, it should work.
+		# Basically saying, we can't write a 10 into that location in memory if the
+		# pointer is a void for example
+
+	Must use a & when referencing a variable
+
+	Example: int a = 5; int* b = &a; 
+
+References:
+
+	Similar to Pointers but cannot be null, must reference a variable
+
+	syntax: int a = 5; int& ref = a;
+
+	We're not creating another variable by making a reference, we're just referencing the variable.
+	If we change the reference, we change the original variable. 
+
+	Cool example:
+	
+		using namespace std; 
+
+		void Increment(int& value){
+			value++;
+		}
+
+		int main() {
+			int a = 5;
+			Increment(a);
+
+			cout << a << endl;
+		}
+
+	In this example, we are using references to increment a variable, instead of returning the variable, we are just
+	referencing it, so when this runs, it will print out 6. This is done because there is a '&' in the int parameter in
+	the Increment function.
+
+	You cannot reference two objects, similarly a reference has to be assigned to something
+
+Classes:
+
+	Class variables by default are private (can only be accessed by class methods)
+
+	Syntax: class class_name { 
+		int var1 = 5; //private variable 
+
+	}
+
+	Then we can place a method (function inside class) inside the class brackets, we can directly reference the variables 
+	inside the class 
+
+Class vs Struct:
+
+	Almost no difference except for the fact that class variables are initially private while struct variables are initially public.
+
+	Never use inheritance with structs
+
+Static:
+
+	A static variable outside of a class will only be accessable in the scope of it's file, functions and variables can share their
+	name between files aslong as one is static.
+
+	Static inside a class or struct:
+
+		Member variable share the same instance between the same type objects
+		We can refer to a static variable with the following:
+
+			Class_name::var_name = value; // We can also call static methods the same way
+
+			Instead of
+
+			Object_name.variable_name = value;
+
+			Since all objects have the same value for static members
+
+		Static methods cannot access not static variables
+
+Arrays:
+
+	int example[5]; //initiallizing an array
+
+	Arrays are just pointers, so we can reference the same array using the following:
+
+		int* ptr = example;
+		*(ptr + 2) = 6; //same as the following// 
+		example[2] = 6;
+
+	If we cast the pointer to a data type which is only one byte long for example (char), we can access the second index 
+	with the following:
+
+		*((int*)(char*)ptr + 8) = 6; //this works since the int type is 4 bytes long, and when we cast to char adding 8 
+		is the equivalent of 2 int bytes. 
+
+	initiallizing an array with on the heap:
+
+		int* another = new int[5]; //We have to delete this on the heap, it won't be done automatically 
+		delete[] another; //deleting
+
+	The difference between using the new keyword and normally initiallizing an array is the lifetime of the memory.
+	initiallizing on the heap also means that in memmory, our array 
+
+	We can figure out the count of the array with the following:
+
+		int count = sizeof(array) / sizeof(type) //array being the array name, and type being int for example
+
+		//This only works with stack allocated arrays
+	
+	C++ 11 Built in Array datatype:
+
+		Syntax: std::array
+
+Multidimensional Arrays:
+
+	Important to understand: int** means a pointer to a integer pointer
+
+	Example:
+
+		int main() //2d Array Example
+		{
+			int** 2dArray = new int*[50]; //allocating 200 bytes of integer pointers
+			for (int i = 0; i < 50; i++)
+				2dArray[i] = new int[50];
+		}
+
+	How to delete a Multidimensional Array:
+
+		We cannot simply just delete the array, we have to iterate throguh the array and delete each one
+
+		Deletion Example: (pretend above example is included)
+
+		for (int i = 0; i < 50; i++)
+			delete[] a2d[i]; //delete all pointers in a2d
+		delete[] a2d; //delete a2d (which stored all the pointers)
+
+Enum:
+
+	Syntax: enum enum_name{ var_name, var_name2, var_name3, ...}
+
+	By default, enum is type int which starts at 0 (unless var_name) is initialized as another integer.
+	In our case, the above code, var_name has a value of 0, var_name2 has a value of 1, and var_name3 has a int value of 2.
+
+	If var_name = 5 for example, var_name2 would equal 6, and var_name3 would equal 7.
+
+	We can also asign the type of the enum with a ":" and then the type (before braces)
+
+	Cannot be of type float
+
+	The enum_name actually really doesn't do much, except when assigning a value, we don't have to specify the type, look at 
+	the following example:
+
+		enum level
+		{
+			Error, Warning, Info
+		}
+
+		level log_level = Info // log_level would have a value of 2, even though we don't specify log_level as an int
+
+	We can access the enum outside of its scope (lets say in a class) by doing the following:
+
+		log::Error // using the same names as the last example
+
+	It is good practice to prefix the enum variables with the enum class name:
+
+		enum level
+		{
+			LevelError, LevelWarning, LevelInfo
+		}
+
+Const:
+
+	Its pretty much a promise, we are saying that a variable is unchanging, but we can technically still change it.
+
+	syntax example:
+
+		const int MIN_AGE = 21; 
+
+	Weird shit that is kinda hard to explain:
+
+		int main()
+		{
+			const int MAX_AGE = 90;
+
+			const int* a = new int; // In this format, this is the same as int const* a = new int; 
+
+			*a = 2; // Won't work with current const setup 
+			a = (int*)&MAX_AGE;
+
+		}
+
+		Can't change the contents but can change where the pointer is pointing
+
+		// Different code
+
+		int main()
+		{
+			const int MIN_AGE = 21;
+
+			int* const a = new int;
+
+			*a = 2; // Will work
+			a = (int*)&MIN_AGE; // Will not work
+		}
+
+		Can change the content but can't change where the pointer is pointer to
+
+		// Different code
+
+		int main()
+		{
+			const int MAX_AGE = 95;
+
+			const int* const a = new int;
+
+			*a = 2; //does not work
+			a = (int*)&MAX_AGE; // does not work 
+			a = nullptr; // does not work
+		}
+
+		Cannot change the contents nor change the where the pointer is pointing
+
+	const in a class/method context:
+
+		class Entity
+		{
+			private:
+				int m_X, m_Y;
+			public:
+				int GetX() const
+				{
+					m_X = 5; // Will not work
+					return m_X;
+				}
+		}
+
+	In this situation, GetX() will never be able to modify m_X
+
+	Brainfuck situation:
+
+		class Entity
+		{
+			private:
+				int m_X, m_Y;
+			public:
+				const int* const GetX() const
+				{
+					return m_X;
+				}
+		}
+
+	What does this brainfuck do?
+
+		const int* const means that we are returning a pointer that can't be modified, and the contents can't be modified.
+		Then the last const, means we can't modify anything in the Entity class.
+
+	Side note on pointers:
+
+		private: 
+			int* m_X, m_Y; //This only makes m_X a pointer, we need to do the following so both are pointers: int* m_X, *m_Y;
+
+	Other:
+
+		const int* const is the same as int const * const
+
+		if we read from right to left it is a bit easier to understand, constant pointer to a constant integer
+
+Mutable:
+
+	Means we can change the variable, if we have a const method, we can still edit mutable variables (Normally, variables cannot be changed
+	in a mutable variable)
+
+String:
+
+	syntax:
+
+		const char* name = "Patrick"
+
+		//const becasue strings are immutable, we can't for example do name[2] = 'a';
+		//In memory, there will be a null bit which signifies the end of the string, this is represented by 00 or /0
+
+	We could do the same with an array of characters
+	sytax:
+	
+		char name2[7] = {'P', 'A', 'T', 'R', 'I', 'C', 'K'}
+
+		//if we cout name2 we will get extra data because C++ doesn't see the termination null bit, so we have to add
+		0 or '/0'
+		
+	C++ Standard Library String:
+
+		#include <string>
+
+		int main()
+		{
+			std::string name = "Patrick";
+			std::cout << name << std::endl;
+		}
+
+	We have alot of methods because string is a data structure.
+
+	Adding to a string:
+
+		std::string name = "Patrick" + "Kwasniak" //Doesn't work
+
+		std::string name = std::string("Patrick") + " Kwasniak"; //Works
+			or
+		std::string name = "Patrick";
+		name += " Kwasniak";
+
+	Checking if a string contains certain characters:
+
+		bool contains = name.find("ck") != std::string::npos;
+
+	Printing a string:
+
+		void printString(std::string string)
+		{
+			std::cout << string << std::endl; 
+		}
+
+		// This is kinda bad practice since we are creating an entirely new string object, allocating it memory, and copying 
+		// over the original string
+
+		//better practice 
+
+		void printString(const std::string& string)
+		{
+			std::cout << string << std::end1;
+		}
+
+		// Here we are referencing the string instead of creating another string object, saving memory and not wasting time.
+
+	More about strings:
+
+		http://www.cplusplus.com/reference/string/string/
+
+String Literals:
+
+Constructors:
+
+	We can make a constructor for a class by having a method in the class with no return type with the same name 
+	as the class. 
+
+Destructor:
+
+	Runs when we destroy an object.
+
+	Syntax:
+
+		class Entity
+		{
+			public:
+				float X, Y;
+
+				Entity() //Constructor
+				{
+					X = 0.0f;
+					Y = 0.0f;
+				}
+
+				~Entity() //Destructor
+				{
+
+				}
+		};
+
+	We can call it explicitly if we want to (not very common) by using hte .~Entity() on the object
+
+Inheritance:
+
+	class Entity
+	{
+	public:
+		float X, Y;
+
+		void Move(float xa, ya)
+		{
+			X += xa;
+			Y += ya;
+		}
+	};
+
+	class Player : public Entity 
+	{
+	public:
+		const char* Name;
+	}
+
+Virtual Functions:
+
+	In a class which is inherititing methods from another class, we have the option to override some of the functionality 
+	of the parent class to better suit our needs.
+
+	We have to use the virutal keyword and the override keyword to override the function, the virtual keyword goes before the
+	parent method and the override goes before the child method, the override isn't necessary but it helps us see that the function 
+	is being overwriting, etc. (Unsure about override being unncessary)
+
+Pure Virtual Function:
+
+	A class which serves as an interface. It is usally a parent class which provides methods to child classes, however, in the
+	actual parent class, the method is undefined, this is done by setting the method equal to 0.
+	This means that the child classes must define the function in order to operate correctly.
+
+	Additionally, we cannot create a object out of the class if it is an interface 
+
+Visibility in C++:
+
+	Private, Protected, Public
+
+	 private: only class code can access these variables/methods
+	 protected: only class code and children can access these varibles/methods
+	 public: access for all
+
+	Does not actually affect performance, a visual thing for the developer
+
+Arrow Operator:
+
+	If we have a pointer for a class object, we don't have to dereference the object inorder to preform class methods on the object.
+	Instead we can just use the -> operator on the pointer to preform the class method.
+
+	Example:
+
+		class Entity
+		{
+			public:
+				void Print() const
+				{
+					std::cout << "Statement" std::endl;
+				}
+		}
+
+		int main()
+		{
+			Entity e;
+			e.Print();
+
+			Entity* ptr = &e; 
+
+			ptr->Print(); //We didn't have to dereference the variable ptr (which is just a numeric value storing the location in memory)
+						  // since we used the -> operator 
+
+						  //Otherwise we would have to do the following
+
+			(*ptr).Print(); //This is just slightly less clean than the arrow operator
+		}
+
+	Wierd Piece of Code I feel is useful but idk why:
+
+		struct Vector3
+		{
+			float x, y, z;
+		};
+
+		int main()
+		{
+			int offset = (int)&((Vector3*)nullptr)->z;
+			std::cout << offset << std::endl;
+
+			//Prints the offset of the bytes, z will print 8, y will print 4, x will print 0
+			//Don't understand it but whatever
+		}
+
+Member Initializer Lists:
+
+	Example:
+
+		class Entity
+		{
+			private:
+				std::string m_Name;
+				int m_score;
+			public:
+				Entity()
+					: m_Name("Unknown), m_Score(0) //Must be in the same order of the variables
+				{	//Above code is technically the same as m_Name = "Unknown"; or m_Score = 0;
+				}
+
+				Entity(const std::string& name)
+					: m_Name(name)
+				{
+					std::cout << m_name << std::endl;
+				}
+		}
+
+	Basically a tool to keep constructor code cleaner and it improves performance, the reason for this is,
+	when we do it the "normal" way we first create the variable, then create another variable and assign it to the value.
+	On the other hand, when we use Member Initalizer Lists, the variable is assigned and created at the same time.
+
+	TDLR: 2 Objects = More Memory = Less Efficient
+
+Ternary Operators:
+
+	 Basically we can shorten if statements
+
+	 Example:
+
+		if (Level > 5)
+			Speed = 10;
+		else
+			Speed = 5;
+
+		//We can simplify this to
+
+		Speed = Level > 5 ? 10 : 5; 
+
+	We can technically nest these but its slightly confusing:
+
+		Speed = Level > 5 ? Level > 10 ? 15 : 10 : 5; //If level is greater than 10, speed = 15, less than 10 and greater than 5, speed = 10, etc.
+
+New Keyword:
+
+	When we make an object or primative data type using the new keyword, we allocate that data onto the heap. The variable assigned 
+	using the new keyword will always be a pointer.
+
+	Example:
+
+		int* b = new int; //b is a pointer 
+
+	The new keyword calls the consturctor of the object
+
+	If we allocate an array with the new operator (int* b = new int[50]; //for example), we have to use the delete[] b; (delete
+	with square brackets) to delete the array.
+
+Implicit Conversion:
+
+	 Example:
+
+	class Entity
+	{
+		private: 
+			std::string m_Name;
+			int m_Age;
+		public:
+			Entity(const std::string& name)
+				: m_Name(name), m_Age(22) {}
+			
+			Entity(int age)
+				: m_Name("Unknown"), m_Age(age) {}
+	};
+
+	void PrintEntity(const Entity& entity)
+	{
+		//printing something
+	}
+
+	int main()
+	{
+		PrintEntity(22);
+		Entity a = "Patrick"; //All are examples of implicit conversion
+		Entity b = 19; 
+		
+
+		PrintEntity("Patrick"); //Will not actually work since the constructor in Entity takes in a std::string and not a const char[]
+		PrintEntity(std::string("Patrick")); //Alternatively PrintEntity(Entity("Patrick")) also works
+	}
+
+	Since our Entity class has a constructor which can take either a std::string object or a int object create an entity object
+	using: Entity c = "Example"; 
+
+	Explicit:
+
+		No implicit conversions (what is above), goes in front of constructor methods
+
+Operator and Operator Overloading:
+
+	https://en.cppreference.com/w/cpp/language/operators //Operators
+
+	Example:
+
+	#include <iostream>
+
+	struct Vector2
+	{
+		float m_X, m_Y;
+
+		Vector2(float x, float y)
+			: m_X(x), m_Y(y) {}
+
+		Vector2 operator+(const Vector2& other) const
+		{
+			return Vector2(m_X + other.m_X, m_Y + other.m_Y);
+		}
+
+		bool operator==(const Vector2& other) const
+		{
+			return m_X == other.m_X && m_Y == other.m_Y;
+		}
+
+	};
+
+	std::ostream& operator<<(std::ostream& stream, const Vector2& other)
+	{
+		stream << other.m_X << ", " << other.m_Y;
+		return stream;
+	}
+
+	int main()
+	{
+		Vector2 position(2.0f, 3.5f);
+		Vector2 speed(0.5f, 0.75f);
+
+		Vector2 result = position + speed;
+
+		if (position == speed)
+			std::cout << "Success" << std::endl;
+		else
+			std::cout << "Failure" << std::endl;
+
+	}
+	
+"This" Keyword:
+
+	the "this" pointer is only valid inside a class
+
+	equivalent to having a pointer of the object, therefore it can reference itself easily
+
+	Example:
+
+		#include <iostream>
+
+		class Entity
+		{
+			int x,y;   
+		public: 
+			Entity(int x, int y)
+			{
+				this->x = x;
+				this->y = y;   
+			}
+
+		void print() const
+		{
+			std::cout << this->x << ", " << this->y << std::endl;
+			
+		}
+		};
+
+		int main()
+		{
+			Entity e(1, 10);
+			e.print();
+		}
+
+Object Lifetime:
+
+	If we have a function that is for example returning an array, we must initialize it on the heap, as when the function 
+	terminates, a stack based variable will run out of scope and terminate itself.
+
+	Example:
+
+	int* CreateArray()
+	{
+		int array[50]; //will not work if we assign a variable to this in main, the second we get out of scope, the array object terminates 
+		int* array = new int[50]; //will work since we allocate this array on the heap, it will not get destroyed until we delete it
+		return array;
+	}
+
+Smart Pointers:
+
+	A wrapper around a real pointer which calls new and allocates memory amd automatically frees it
+
+	library: #include <memory>
+
+	unique_ptr:
+
+		cannot copy unique pointers since it is automatically freed when it goes out of scope
+
+		syntax:
+
+			std::unique_ptr<Entity> entity =  std::make_unique<Entity>();
+
+			std::unique_ptr<Entity> entity(new Entity()); // technically correct but can lead to some issues
+
+	shared_ptr:
+
+		we track how many pointers are tracking the pointer, so once we get 0 pointers, the shared_ptr is automatically deleted
+
+		syntax:
+
+			std::shared_ptr<Entity> sharedEntity(new Entity()); // may lead to some issues
+
+			std::shared_ptr<Entity> sharedEntity = std::make_shared<Entity>(); // "best practice"
+
+		std::shared_ptr<Entity> e0 = sharedEntity; //works perfectly fine
+
+		When all of the references are gone, then the entity gets deleted
+
+	weak_ptr:
+
+		when we assign a shared_ptr to a weak_ptr we do not increase the reference size of the shared_ptr
+
+std::vector/Dynamic Arrays:
+
+	an array that can resize (done by good old classic, creating a new array and copying the elements over)
+
+	syntax:
+
+		#include <vector>
+
+		int main()
+		{
+			std::vector<class_name> vertices; // we can also pass in a primative type into class_name
+			
+		}
+
+	to add elements to the vector "array" we can use the .push_back() method
+
+	to see the number of elements, we can use the .size() method
+
+	to index the array, simply use []
+
+	to clear the array. we can use the .clear method
+
+	to erase an index, we can use the .erase method 
+
+	Using .erase():
+
+		vec_name.erase(vec_mame.begin() + 1); // erasing the second index in the array
+
+	Looping:
+
+		With vector we can do normal looping (for (int i = 0; i < name.size; i++))
+		or with the other style of looping (for (class name i : object name))
+
+		With the second style of looping, we are actually copying the object unless we specify the reference operator
+
+	Make sure to pass with reference to avoid copying the data
+
+Optimizing std::vector:
+
+	When we push an object onto the vector, we are not creating that object in the vector, we are 
+	creating it in main on the stack and then copying it onto the vector. That means we are
+	unnecessairly creating an object. To optimize we can create the variable directly on the vector
+
+	This is done by:
+
+		std::vector<Vertex> vertices;
+		vertices.emplace_back(1, 2, 3); // Using emplace_back instead of push_back | implicitly creating a Vertex object, so we don't need
+										// to actually specify the Vertex object in the emplace_back parameter
+
+	Another way to optimize vector is by giving it a size, this way we are not recopying and allocating more 
+	memory for the vector, we can set the size to something that fits our function, therefore we don't waste time copying 
+	objects over
+
+	This is done by:
+
+		std::vector<Vertex> vertices;
+		vertices.reserve(3); // <---- 
+
+		std::vector<Vertex> vertices(3); // not valid, creates 3 vertex object
+
+Using Libraries in C++:
+
+	...
+
+Dynamic Libraries:
+
+	Unlike static linking, Dynamic linking occurs at run-time
+
+	
+
+Static Arrays:
+
+	Must: #include <array> 
+
+	By static, we're saying that the array is allocated at compile time and the size is fixed. 
+
+	syntax:
+
+		std::array<type, num of indicies> name;
+
+	methods:
+
+		.size(); // since we have the .size method for the array, we can easily iterate through the array in a function
+				 // with normal c++ arrays, we do not know the size
+				 // the .size method is made with a template, so it actually doesn't store the size (taking up memory),
+				 // instead it just returns the size as an integer which was supplied by the template
+
+		to be continued
+
+Templates:
+
+	The compiler can run a function based on a set of rules
+
+	1 reason we may want to create a template is if we want to create a function which is the same but we might want to take in 
+	multiple types
+
+	Example:
+
+		#include <iostream>
+		#include <string>
+
+		void Print(int value)
+		{
+			std::cout << value << std::endl;
+		}
+
+		void Print(std::string value)
+		{
+			std::cout << value << std::endl;
+		}
+
+		int main()
+		{
+			Print(5);
+			Print("Hello"); // what if we want to use the Print function with a bunch of different types
+		}
+
+	This is an exmaple, of why we could use a template
+
+	Example:
+
+		#include <iostream> 
+		#include <string>
+
+		template<typename T> // class works instead of typename also
+		void Print(T value)
+		{
+			std::cout << value << std::endl;
+		}
+
+		int main()
+		{
+			print<int>(5); //we can specify the type for the type using the <> symbols
+		}
+		
+	Its important to understand that C++ does not actually compile the template function unless if it evoked (called in main for example).
+	If it is not called, it is not generated, this means that we could potentially have errors and not know it in the template class
+
+	Using Templates for classes:
+
+		template<int N>
+		class Array 
+		{
+		private:
+			int m_Array[N]; //templates work in compile time, normally, this would have to be defined, templates being evaluted
+							//at compile time means that the variable is defined (even though it isnt technically) (defined by template)
+		public:
+			int GetSize() const 
+			{ 
+				return N; 
+			}
+		}
+
+	Where should we use templates: (according to cherno daddy)
+
+		The templates should not be complex, we can build immense systems with templates, however, this can lead to unncessary
+		complications. Using templates for generating redundant functions is an excellent use, however, using it to automate 
+		complex behavior is where we question the usage of templates
+
+Multiple Return Values:
+
+	We can only return one type in a function, however, if we want to return multiple types or multiple objects, there are ways we
+	can do that. One way is to create a struct or class which contains multiple pieces of data that we want. This way we can return
+	the data structure which contains the multiple variables.
+
+	Another way to deal with multiple retrun types is to not return anything at all, instead we can pass in a pointer or reference to 
+	a variable in the parameters for the function. This way, we can do "work" on the pointers/references without having to return
+	anything but still changing memory. 
+
+	Another way to pass multiple types is to use an array, this way we can return an array which contains multiple values for the 
+	things we need.
+
+	We can also use tuples:
+
+		Tuple: 
+
+			class which can contain x amount of variables of all types
+
+			includes:
+
+				<tuple>
+
+			syntax:
+
+				std::tuple<data_type1, data_type2> 
+
+			getting data out of tuple:
+
+				std::get<index>(tuple_name); //Kinda fucking ass 
+
+"Auto" Keyword:
+
+	Will automatically assign the variable type 
+
+	Useful for when we have a long variable type
+
+	Useful in templates where we actually have no clue what the variable could be
+
+Casting:
+
+	There are two types of casting, implicit and explicit. 
+
+	Implicit describes when we cast between for exmaple an int and a double, C++ knows how to handle that kind of operation
+	so we don't need to specify it with a pair of paranthesis.
+
+	C Style Cast: double a = (int)(var_name) + 5.75; 
+	C++ Cast: double s = static_cast<int> var_name;
+
+	The C++ cast doesn't do anything different than the C style cast except adding "Syntax Sugar" aka making the code "Easier"
+	to read. There is some extra functionality worth looking at. It is also worth consdidering that the c++ style casts are easier
+	to search for.
+
+	Different types of C++ Casts:
+
+		static_cast:
+
+			Generally used for casting from like int to double. 
+
+			syntax example: double b = static_cast<double> (10)/20
+
+		const_cast:
+
+			Used for taking away const
+
+			syntax example: const int a = 10; int *b = const_cast<int*>(&a); // works well  
+
+		dynamic_cast:
+
+			Results in a valid pointer if works correctly, otherwise it returns null
+
+Function Pointers: 
+
+	Example:
+
+		void HelloWorld()
+		{
+			std::cout << "HelloWorld" << std::endl;
+		}
+		 
+		int main()
+		{
+			auto function = &Helloworld; // Example of a function pointer (technically we don't have to use the '&' symbol)
+
+			function(); // Same as HelloWorld();
+		}
+
+	What type is function? (Since we are using auto?)
+
+	Function is of type: void(*function)();
+	So instead of using auto, we can jut do: void(*Example_func)() = HelloWorld;
+
+	Another alternative:
+
+		typedef void(*Func_name)();
+
+		Func_name function = HelloWorld; 
+
+	What if HelloWorld() had a parameter?
+
+		typedef int(*Func_name)(int);
+
+		Func_name function = HelloWorld;
+
+		function(5); // Use of a parameter
+
+	Where is this useful? 
+
+		void PrintValue(int value)
+		{
+			std::cout << value << std::endl;
+		}
+
+		void ForEach(const std::vector<int>& values, void(*func)(int))
+		{
+			for(int value : values)
+				func(value);
+		}
+
+		int main()
+		{
+			std::vector<int> values = {1, 2, 3, 4, 5};
+			ForEach(values, PrintValue); // Passing in the PrintValue function
+		}
+
+	We can reduce this code significantly (since it is not "proper" to have a function that is only called inside another function)
+	by using a Lambda, which we will cover in the following section.
+
+Lambdas:
+
+	Now, lets repalce the example above from function pointers using a Lambda
+
+	[] are known as a capture method
+
+	int main()
+	{
+		std::vector<int> values = {1,2,3,4,5};
+		ForEach(values, [](int value) { std::cout << "Value: " << value << std::endl;})
+	}
+
+Timing:
+
+	Library: https://en.cppreference.com/w/cpp/chrono
+	
+	Include: <chrono> 
+
+	current time: auto start = std::chrono::high_resolution_clock::now();
+
+	So, if we use the above code twice with two variables, we have two times. Subtracting this yields the time between each now().
+	To do this, use the following, as we can't just subtract normally.
+
+	std::chrono::duration<float> duration = start - end; //assuming start and end are the now() variables
+	std::cout < duration.count() << "s" << std::endl;
+	
+	For 99% of cases, we'll be using the chrono library, unless we want better performance in relation to the operating system and cpu,
+	in that case, we would use the OS library to time.
+
+	Now this isn't the most efficient way to do this, so we can create a timer struct to "automate" the process.
+
+	Timing Struct:
+
+		struct Timer
+		{
+			std::chrono::time_point<std::chrono::steady_clock> start, end;
+			std::chrono::duration<float>
+
+			Timer()
+			{
+				start = std::chrono::high_resolution_clock::now();
+			}
+
+			~Timer()
+			{
+				end = std::chrono::high_resolution_clock::now();
+				duration = end - start;
+
+				float ms = duration.count() * 1000.0f; 
+
+				std::cout << "Timer took " ms << "ms " << std::endl;
+			}
+		};
+
+Namespaces:
+
+	Namespaces are used to avoid name conflicts, this is useful when we are using multiple libraries with similar/the exact same function name.
+	Namespaces allow us to differenciate between functions.
+
+	Syntax:
+
+		namespace name_of_namespace{
+			//functions and other code
+		}
+
+	We can nest namespaces btw
+
+	When we do: using namespace namespace_name; we are just takind away the namespace_name from our code base, so we don't need to run it. 
+
+	Similarly we can do: using namespace_name::function_name; which gives us direct access to the function but not the entire namespace.
+
+	Similarly we can do: namespace a = apple; which allows us to do a::function_name which is the equivalent of apple:function_name;
+
+	Try to confine the above tip in the smallest possible scope.
+	Never use namespaces in header files
+
+"::" Operator (Scope Resolution Operator):
+
+	"::" is known as the scope resolution operator, which allows you to statically traverse scopes such as namespaces and classes
+	in order to reference the identifier you want.
+
+Unions:
+
+	A union is a special class type that can hold only one of its non-static data members at a time. A union is only as beg
+	as necessary to hold its largest data member. The other data members are allocated in the same bytes as the largest member.
+
+	Anonymous Unions:
+
+		an unnamed union that does not simultaneously define any variables. They cannot have member functions, cannot have static
+		data members, and all their data must be public.  
+
+Virtual Destructors:
+
+	We understand both words, Virtual and Destrcutor in a C++ context, essentially, this is very useful for polymorphism.
+	When working with multiple classes which enherit off eachother, the base class must has its destructor set as virtual,
+	as if we set up a child object of parent type only the child destructor will be called instead of both, possibly resulting 
+	in a memory leak.
+
+	child_type name = new parent_type; //if an improper destructor is written, we can possibly get a memory leak
+
+Singletons:
+
+	This is not a C++ feature but rather a design pattern.
+
+	Essentially, a Singleton is a class which will only ever really be initialized once, used often for initiallizing
+	global variables and containing static methods. 
+
+Macros:
+
+	Macros are somewhat like a find and replace system in a text editor, we can replace certain parts of our code, with
+	other text to "simplify" the code
+
+	syntax example:
+
+		#define WAIT std::cin.get() 
+
+		int main(){WAIT;} // equivalent to: int main(){std::cin.get();}
+
+	actually useful exmaple:
+
+		#define LOG(x) std::cout << x << std::endl;
+
+		int main(){LOG("Hello")}
+
+	Using macros we can very easily move our code from a debug mode to a release mode
+
+	Debug/Release Example:
+
+		#define PR_DEBUG = 1	// By making this value either 1 or 0, we can change the functionality of our code significantly
+
+		#if PR_DEBUG == 1
+		#define LOG(x) std::cout << x << std::endl;
+		#else
+		#define LOG(x)			// LOG(x) = nothing
+		#endif 
+
+Sorting:
+
+	include: <algorithm>  
+
+	include: <functional> // If we want some sorting methods
+
+	example:
+
+		std::vector<int> values = {3, 5, 4, 2, 1};
+		std::sort(values.begin(), values.end(), <sorting method>) #if we leave sorting method blank, we get a sort from least to greatest
+
+	sorting methods:
+
+		std::greater<int>() // Greatest to least
+
+		We can also define our own lambdas in the sorting method parameter (more on this)
+
+Making Strings Faster:
+
+	Performing string operations suc as substring allocates unncessary memory, we can reduce those allocations by doing the following:
+
+		Instead of copying data/creating new variables with for example a substring, instead we can use a c++ 17 class called string_view.
+		String_view works by taking a pointer to a string and a size, which would allow us to see the memory in those specific areas
+		without actually copying or creating another variable.
+
+	Example:
+
+		int main()
+		{
+			std::string name = "Patrick Kwasniak";
+
+			std::string firstName = name.substr(0, 7);
+			std::string lastName = name.substr(8, 12)
+
+			std::string_view firstName(name.c_str(), 7); //Example of string_view  
+			std::string_view lastName(name.c_str() + 8, 12);
+		}
+
+		Using the later method reduces our alloations from 3 allocations to only 1. However, we can also just make name a 
+		const char*, this way we go from 1 heap allocation to 0. Now, this is only useful if name is constant and we never want
+		to perform methods on it.
+
+Structured Bindings (C++ 17):
+
+	Structured Bindings are used when we want to return multiple values, like we mentioned before, but in a more
+	efficient/clean manor. 
+
+	Complicated Old Code:
+
+		#include <iostream> #include <string> #include <tuple>
+
+		std::tuple<std::string, int> CreatePerson()
+		{
+			return {"Patrick", 19};
+		}
+
+		int main()
+		{
+			std::tuple<std::string, int> person = CreatePerson(); //alternatively just use auto instead of the whole function tag
+			std::string& name = std::get<0>(person); // return "Patrick"
+			int age = std::get<1>(person); // return 19
+
+			Alternatively 
+
+			std::string name;
+			itn age;
+			std::tie(name, age) = CreatePerson(); 
+		}
+
+		Both of these are ugly, with Structured Bindings, we can reduce the total amount of code 
+
+	Better Code:
+
+		std::tuple<std::string, int> CreatePerson()
+		{
+			return {"Patrick, 19};
+		}
+
+		int main()
+		{
+			auto[name, age] = CreatePerson(); // New Structured Bindings
+		}
+
+Constexpr: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Typedef Specifier:
+
+	When used in a declaration, specifies that the declaration is a typedef declaration rather than a variable or function or
+	function declaration. Typefdef declaration does not introduce a distinct type, it only establishes a synonym for an
+	exisitng type.
+
+	Example:
+
+		typedef int int_t; // int_t is a alias for the type int
+		int_t a = 5;
+
+	Useful when we want to declare something as type: std::uint8_t and don't want to write that out every single time, when we 
+	want our code to be clearer/better docummented, and when we don't want to use auto for sake of code clarity
+
+lvalues & rvalues:
+
+Reading & Writing to files:
+
+	#include <fstream>
+	#inlcude <string>
+
+	Example of Reading:
+
+	using namespace std;
+
+		int main() {
+
+			ifstream <name>;
+			<name>.open(" <file_name.ext> "); 
+
+			if (<name>.fail())
+			{
+				cerr << "Error Opening File" <<< endl;
+				exit(1) 
+			}
+
+			int x, y; //assuming our file has numbers
+
+			infile >> x >> y; 
+
+			//alternative
+
+			string item;
+			int count = 0;
+
+			while(!<name>.eof()){
+				<name> >> item;
+				count++; 
+			}
+
+		} 
+
+	Exampe of Writing:
+
+		ofstream <name>
+
+		<name>.open(<file_name>) //will create a file if needed
+
+		<name> << "what u want to be put into the file" << 5 << endl; 
+
+	** Must always close the file at the end ** 

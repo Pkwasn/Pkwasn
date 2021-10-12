@@ -1,0 +1,201 @@
+ASM Notes:
+
+	To store a hex value in a register, write 0, and then write the value and append a "h" to the end
+
+	To add a for example 15 and 20, we first move 15 onto eax, then add 20 to eax, then we get 23 in the register
+	Now, 23 might seem a little odd, but that is the same value as 35 but as a hex number. To confirm 23h = 35,
+	we can do:
+
+		2*16^1 + 3^16^0 = 35 (decimal)
+
+	CMP, JMP, and JE:
+
+		CMP: The instruction to compare 2 numbers
+		* If the register equals the value, the flag ZF is set to 1
+		* If the register does not equal the value, the flag ZF is set to 0
+
+		JE: The instruction goes to other code if zf = 1, otherwise it will run code before the other code
+		* Example:
+
+			mov eax, 5 ;move 5 onto eax
+			cmp eax, 5 ;compare eax with 5
+			je L1 ;goto L1 if zf = 1
+				mov eax, 6 ;move 6 to eax
+			L1:
+				mov eax, 7
+			invoke ExitProcess, 0
+
+		* After level we must have a colon (LI:) line
+		* Checks zf (zero flag) to be 0 or 1, if 1 we jmp to the level, otherwise it will run the other code
+		* It will always execute the instructions at L1, no matter if zf is 0 or 1, (eax = 7 with above example)
+
+		JMP: The instruction is similar to JE, except for the fact it will always jump instead of based on zf
+		* Does not check any condition
+
+	INC and DEC:
+
+		INC: Instruction to increment a register by 1
+
+		DEC: Instruction to decrement a register by 1
+
+
+	LOOP:
+
+		ECX - 32 bits
+		* Lower 16 Bits is used for another register known as ECX
+		* Lower 8 Bit
+
+		EAX - 32 bits
+		* Lower 16 Bits is known as AX
+		* Lower 8 Bits is known as AL
+
+		If CX is 0, we go out of the loop, otherwise we goto label
+
+		* Example:
+
+			.code
+			main proc
+				mov eax, 0
+				mov ecx, 5
+				L1:
+					inc eax
+					loop LI
+
+				invoke ExitProcess
+
+		* Whenever we reach the loop, we decrement cx by 0 (In our case, ecx will decrease from 5 to 0 over the lifetime of our application)
+		* We must increment eax, otherwise we instantly go from 5 to 0 and we don't loop (from testing, not 100%)
+
+	Variables:
+
+		Syntax: variable_name variable_type variable
+		* Must be declared in the .data section
+
+		Variable Types:
+
+			dword = 32 bits
+			word = 16 bits
+			byte = 8 bits
+
+		* Since the Registers are partitioned into specific sizes (one section is 32 bits, one is 16, and one is 8)
+		we can move variables into specific sub-registers
+
+		Signed Values:
+		*We can prepend an s to the beginning of the variable types to make it a signed type
+		* Example: sword = signed dword
+
+		Arrays:
+
+			Syntax: array array_type var1, var2, varX
+
+			* Example:
+
+			.data
+			array byte 01d, 02d, 03d, 04d
+			.code
+			main proc
+				mov eax, 0
+				mov al,[array +1]
+
+				invoke ExitProcess,0
+			main endp
+			end main
+
+
+	Negative Numbers:
+
+		How to represent a negative number in binary
+
+		1. Represent value in Binary
+		2. FLIP all values and add 1
+		3. FF would be a negative 1 in byte
+
+	MOVZX:
+
+		Used with unsigned integers.
+		0 Extends the rest of the reigster (fills register with 0 for all other values)
+
+	MOVSX:
+
+		Used with signed integers
+		F Extends the rest of the register
+
+	XCHG:
+
+		Exchanges (SWAPS) the contents of a register or variable/memory
+
+	ESI:
+
+		ESI is a pointer register
+
+		* Example:
+			.data
+			var byte 05d
+
+			.code
+			main proc
+				mov eax,0
+
+				mov esi, offset var
+				mov al,[esi]
+
+
+		* The square brackets is the dereference operator
+
+	PTR Operator:
+
+		We can use the PTR operator to override the declared size of an operand.
+
+	LENGTHOF & SIZEOF:
+
+		Sizeof returns the memory space required to store an array
+		Lengthof returns the number of elements in an array
+
+	FUNCTIONS:
+
+		PROC : function
+		RET : return
+		CALL : call a function
+
+		syntax: func_name proc:
+			ret ___
+
+		We write functions below "main endp" (at the end of the program)
+
+	MUL/Imul (multiplication):
+
+		syntax; mult register, mem/register | mult register
+
+		Mul is for unsigned numbers, while Imul multiplies signed numbers
+		One factor must always be in the accumulator register (eax)(but can be of any size [al,ah,ax,eax])
+		The other instruction may be in any register or memory operand
+		The result always overwrites the accumulator register
+
+	JE, JG, JGE, JLE, JL:
+
+		JG : Jump greater than
+		JGE : Jump greater than or equal
+		JLE : Jump less than or equal
+		JL : Jump less than
+
+	Irvine Library:
+
+		https://csc.csudh.edu/mmccullough/asm/help/
+
+		* * must have library included * *
+
+		WriteDec : Writes an unsigned 32-bit decimal number to standard output with no leading zeros
+
+		WriteString : Writes a null-terminated string to standard output
+			* .data : prompt byte "Enter your name: ", 0
+			* mov edx, offset prompt
+
+		ReadDec : Reads a 32-bit unsigned decimal from standard input, stopping when Enter key is pressed
+
+		ReadChar : Reads a single character from standard input, and returns the character in the AL register
+
+		WriteChar : Reads a single character from al and writes it to standard output
+
+        Crlf : Equivalent of '\n'
+
+

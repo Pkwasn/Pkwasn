@@ -195,8 +195,48 @@ ASM Notes:
 		ReadChar : Reads a single character from standard input, and returns the character in the AL register
 
 		WriteChar : Reads a single character from al and writes it to standard output
+		
+		Str_copy: Copies a null-terminated string from a source location to target location
+			* we need a source and target variable of the same size
+			* syntax: Invoke Str_copy, ADDR source, ADDR target 
+			
+		Str_trim: Removes all occurrences of a trailing character
+			* we need a byte variable of the trailing character to remove
+			* syntax: Invoke Str_trim, ADDR string, char
+			
+		Str_ucase: Coverts a string to all uppercase characters
+			* syntax: Invoke Str_ucase 
+			
+		StrLength: Returns the length of a null terminated string in EAX
+			* EDX = offset of the string
+			* syntax: call StrLength
 
         Crlf : Equivalent of '\n'
+	
+	Writing Structs in ASM:
+		
+		Code:
+			
+			point STRUCT
+				x DWORD ?
+				y DWORD ?
+				point ENDS
+			.data
+				p point <0,0>
+				
+			.code
+			main proc
+				mov p.x, 1
+				mov p.y, 2
+				
+				mov eax, p.x
+				mWrite "X axis: "
+				call WriteDec
+				call Crlf
+				mov eax, p.y
+				mWrite "Y axis: "
+				call WriteDec
+				call Crlf
 
     File Handeling:
 

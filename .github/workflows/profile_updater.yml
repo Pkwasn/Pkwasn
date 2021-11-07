@@ -1,5 +1,4 @@
 name: Profile Updater
 
-on:
-  schedule:
-    - cron: 
+on: push
+   

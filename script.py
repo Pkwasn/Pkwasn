@@ -1,15 +1,16 @@
 import requests
 from bs4 import BeautifulSoup
 
+
+
 URL = "https://inciweb.nwcg.gov/accessible-view/"
 
 def main():
 
     data = get_data()
     fires = parse_document(data)
-    fires.sort(key=lambda x: int(x[3][:len(x)-4]), reverse=True)
 
-    markdown = "Top 10 Largest Fires by Acreage in the Past 2 Weeks\n\n | Incident Name | Acres | Location | Date and Time |\n|:---|:---|:---|:---|\n"
+    markdown = "20 Latest Fires in Past 2 Weeks (US)\n\n | Incident Name | Acres | State | Date and Time |\n|:---|:---|:---|:---|\n"
 
     for fire in fires[:10]:
         markdown += f"| [{fire[0]}]({fire[1]}) | {fire[3]} | {fire[2]} | {fire[4]} |\n"

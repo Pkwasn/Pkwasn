@@ -1,6 +1,6 @@
 This is automatically generated every 12 hours with Github Actions!
 
-20 Latest Wildfires in United States)
+20 Latest Wildfires in United States
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|

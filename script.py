@@ -1,8 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 
-
-
 URL = "https://inciweb.nwcg.gov/accessible-view/"
 
 def main():

@@ -8,9 +8,9 @@ def main():
     data = get_data()
     fires = parse_document(data)
 
-    markdown = "20 Latest Fires in Past 2 Weeks (US)\n\n | Incident Name | Acres | State | Date and Time |\n|:---|:---|:---|:---|\n"
+    markdown = "This is automatically generated every 12 hours with Github Actions!\n20 Latest Fires in Past 2 Weeks (US)\n\n | Incident Name | Acres | State | Date and Time |\n|:---|:---|:---|:---|\n"
 
-    for fire in fires[:10]:
+    for fire in fires[:20]:
         markdown += f"| [{fire[0]}]({fire[1]}) | {fire[3]} | {fire[2]} | {fire[4]} |\n"
 
     open("./README.md", "w", encoding="utf-8").write(markdown)

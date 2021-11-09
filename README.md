@@ -4,6 +4,9 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Alisal Fire](https://inciweb.nwcg.gov/incident/7862/) | 16970 Acres | California, USA | 2021-11-08 22:53:51 |
+| [Alisal Post-Fire BAER](https://inciweb.nwcg.gov/incident/7873/) | 0 Acres | California, USA | 2021-11-08 22:52:44 |
+| [Klamath NF Fall/Winter '21 Rx Burning](https://inciweb.nwcg.gov/incident/7889/) | 0 Acres | California, USA | 2021-11-08 19:50:42 |
 | [Big Mountain Prescribed Burn](https://inciweb.nwcg.gov/incident/7888/) | 257 Acres | West Virginia, USA | 2021-11-08 16:37:57 |
 | [Prescribed Fire Projects 2021](https://inciweb.nwcg.gov/incident/7426/) | 0 Acres | Oregon, USA | 2021-11-08 12:34:51 |
 | [Windy Fire](https://inciweb.nwcg.gov/incident/7841/) | 97528 Acres | California, USA | 2021-11-08 12:03:03 |
@@ -21,6 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [Hamilton Fire](https://inciweb.nwcg.gov/incident/7882/) | 627 Acres | Texas, USA | 2021-11-02 08:12:05 |
 | [Monument Fire](https://inciweb.nwcg.gov/incident/7750/) | 223124 Acres | California, USA | 2021-11-01 15:46:46 |
 | [Dixie Fire (CA)](https://inciweb.nwcg.gov/incident/7690/) | 963309 Acres | California, USA | 2021-11-01 00:29:25 |
-| [Monument-Knob Post-Fire BAER](https://inciweb.nwcg.gov/incident/7851/) | 0 Acres | California, USA | 2021-10-30 23:21:31 |
-| [French Post-Fire BAER](https://inciweb.nwcg.gov/incident/7854/) | 0 Acres | California, USA | 2021-10-30 23:07:08 |
-| [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2021-10-29 16:46:31 |

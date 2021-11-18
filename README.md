@@ -4,6 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Rustlers Creek](https://inciweb.nwcg.gov/incident/7894/) | 350 Acres | Texas, USA | 2021-11-17 20:41:16 |
 | [Caldor Fire](https://inciweb.nwcg.gov/incident/7801/) | 221835 Acres | California, USA | 2021-11-17 14:59:44 |
 | [Valle Vidal Hart Canyon Prescribed Burn](https://inciweb.nwcg.gov/incident/7893/) | 6529 Acres | New Mexico, USA | 2021-11-17 13:03:16 |
 | [Alisal Post-Fire BAER](https://inciweb.nwcg.gov/incident/7873/) | 0 Acres | California, USA | 2021-11-15 18:20:39 |
@@ -23,4 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [McCash Post-Fire BAER](https://inciweb.nwcg.gov/incident/7870/) | 0 Acres | California, USA | 2021-11-05 20:41:02 |
 | [River Complex Post-Fire BAER](https://inciweb.nwcg.gov/incident/7868/) | 0 Acres | California, USA | 2021-11-05 20:20:18 |
 | [Indiana Dunes Fall 2021 Prescribed Fire](https://inciweb.nwcg.gov/incident/7885/) | 689 Acres | Indiana, USA | 2021-11-05 18:50:40 |
-| [North Complex](https://inciweb.nwcg.gov/incident/6997/) | 318935 Acres | California, USA | 2021-11-05 15:23:07 |

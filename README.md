@@ -4,8 +4,8 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Kruger Rock Fire](https://inciweb.nwcg.gov/incident/7895/) | 147 Acres | Colorado, USA | 2021-11-19 20:54:46 |
 | [KNP Complex ](https://inciweb.nwcg.gov/incident/7838/) | 88307 Acres | California, USA | 2021-11-19 16:04:10 |
-| [Kruger Rock Fire](https://inciweb.nwcg.gov/incident/7895/) | 147 Acres | Colorado, USA | 2021-11-19 13:38:44 |
 | [Rustlers Creek](https://inciweb.nwcg.gov/incident/7894/) | 551 Acres | Texas, USA | 2021-11-19 12:41:58 |
 | [Crown Mountain Fire](https://inciweb.nwcg.gov/incident/7859/) | 1379 Acres | Montana, USA | 2021-11-18 16:02:40 |
 | [Klamath NF Fall/Winter '21 Rx Burning](https://inciweb.nwcg.gov/incident/7889/) | 0 Acres | California, USA | 2021-11-18 14:24:53 |

@@ -4,10 +4,10 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Kruger Rock Fire](https://inciweb.nwcg.gov/incident/7895/) | 147 Acres | Colorado, USA | 2021-11-20 18:29:13 |
+| [Kruger Rock Fire](https://inciweb.nwcg.gov/incident/7895/) | 147 Acres | Colorado, USA | 2021-11-21 09:33:33 |
+| [Rustlers Creek](https://inciweb.nwcg.gov/incident/7894/) | 551 Acres | Texas, USA | 2021-11-21 08:50:25 |
 | [Alisal Fire](https://inciweb.nwcg.gov/incident/7862/) | 16970 Acres | California, USA | 2021-11-20 13:30:37 |
 | [KNP Complex ](https://inciweb.nwcg.gov/incident/7838/) | 88307 Acres | California, USA | 2021-11-19 16:04:10 |
-| [Rustlers Creek](https://inciweb.nwcg.gov/incident/7894/) | 551 Acres | Texas, USA | 2021-11-19 12:41:58 |
 | [Crown Mountain Fire](https://inciweb.nwcg.gov/incident/7859/) | 1379 Acres | Montana, USA | 2021-11-18 16:02:40 |
 | [Klamath NF Fall/Winter '21 Rx Burning](https://inciweb.nwcg.gov/incident/7889/) | 0 Acres | California, USA | 2021-11-18 14:24:53 |
 | [Valle Vidal Hart Canyon Prescribed Burn](https://inciweb.nwcg.gov/incident/7893/) | 6529 Acres | New Mexico, USA | 2021-11-18 13:28:06 |

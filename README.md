@@ -4,7 +4,13 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Kruger Rock Fire](https://inciweb.nwcg.gov/incident/7895/) | 147 Acres | Colorado, USA | 2021-11-21 20:09:38 |
+| [Kruger Rock Fire](https://inciweb.nwcg.gov/incident/7895/) | 147 Acres | Colorado, USA | 2021-11-22 17:33:08 |
+| [Big Mountain Prescribed Burn](https://inciweb.nwcg.gov/incident/7888/) | 257 Acres | West Virginia, USA | 2021-11-22 15:11:35 |
+| [North Fork Prescribed Burn](https://inciweb.nwcg.gov/incident/7892/) | 318 Acres | West Virginia, USA | 2021-11-22 15:08:23 |
+| [County Line Prescribed Burn](https://inciweb.nwcg.gov/incident/7890/) | 435 Acres | West Virginia, USA | 2021-11-22 15:06:48 |
+| [Bull Complex ](https://inciweb.nwcg.gov/incident/7773/) | 24894 Acres | Oregon, USA | 2021-11-22 13:32:24 |
+| [Pleasant Valley Prescribed Burn](https://inciweb.nwcg.gov/incident/7896/) | 0 Acres | Arizona, USA | 2021-11-22 12:46:57 |
+| [Dry Cabin](https://inciweb.nwcg.gov/incident/7660/) | 3735 Acres | Montana, USA | 2021-11-22 10:35:09 |
 | [Rustlers Creek](https://inciweb.nwcg.gov/incident/7894/) | 551 Acres | Texas, USA | 2021-11-21 08:50:25 |
 | [Alisal Fire](https://inciweb.nwcg.gov/incident/7862/) | 16970 Acres | California, USA | 2021-11-20 13:30:37 |
 | [KNP Complex ](https://inciweb.nwcg.gov/incident/7838/) | 88307 Acres | California, USA | 2021-11-19 16:04:10 |
@@ -15,12 +21,6 @@ This is automatically generated every 12 hours with Github Actions!
 | [Windy Fire](https://inciweb.nwcg.gov/incident/7841/) | 97528 Acres | California, USA | 2021-11-18 09:13:05 |
 | [Caldor Fire](https://inciweb.nwcg.gov/incident/7801/) | 221835 Acres | California, USA | 2021-11-17 14:59:44 |
 | [Alisal Post-Fire BAER](https://inciweb.nwcg.gov/incident/7873/) | 0 Acres | California, USA | 2021-11-15 18:20:39 |
-| [County Line Prescribed Burn](https://inciweb.nwcg.gov/incident/7890/) | 435 Acres | West Virginia, USA | 2021-11-15 11:08:26 |
-| [North Fork Prescribed Burn](https://inciweb.nwcg.gov/incident/7892/) | 318 Acres | West Virginia, USA | 2021-11-12 09:48:26 |
 | [Hoosier National Forest Prescribed Fire ](https://inciweb.nwcg.gov/incident/7887/) | 0 Acres | Indiana, USA | 2021-11-12 09:46:26 |
 | [Schneider Springs BAER](https://inciweb.nwcg.gov/incident/7860/) | 107322 Acres | Washington, USA | 2021-11-10 15:04:44 |
 | [Twentyfive Mile BAER](https://inciweb.nwcg.gov/incident/7846/) | 22117 Acres | Washington, USA | 2021-11-09 18:26:10 |
-| [Big Mountain Prescribed Burn](https://inciweb.nwcg.gov/incident/7888/) | 257 Acres | West Virginia, USA | 2021-11-09 15:57:03 |
-| [KRRD Prescribed Fire 2021/22](https://inciweb.nwcg.gov/incident/7891/) | 0 Acres | California, USA | 2021-11-09 15:53:15 |
-| [Prescribed Fire Projects 2021](https://inciweb.nwcg.gov/incident/7426/) | 0 Acres | Oregon, USA | 2021-11-08 12:34:51 |
-| [McCash Post-Fire BAER](https://inciweb.nwcg.gov/incident/7870/) | 0 Acres | California, USA | 2021-11-05 20:41:02 |

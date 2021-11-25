@@ -4,8 +4,9 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [KNP Complex ](https://inciweb.nwcg.gov/incident/7838/) | 88307 Acres | California, USA | 2021-11-24 12:20:57 |
+| [Kruger Rock Fire](https://inciweb.nwcg.gov/incident/7895/) | 147 Acres | Colorado, USA | 2021-11-24 11:03:40 |
 | [Indiana Dunes Fall 2021 Prescribed Fire](https://inciweb.nwcg.gov/incident/7885/) | 689 Acres | Indiana, USA | 2021-11-23 17:17:00 |
-| [Kruger Rock Fire](https://inciweb.nwcg.gov/incident/7895/) | 147 Acres | Colorado, USA | 2021-11-23 15:33:15 |
 | [Prescribed Fire Projects 2021](https://inciweb.nwcg.gov/incident/7426/) | 0 Acres | Oregon, USA | 2021-11-23 13:50:03 |
 | [Valle Vidal Hart Canyon Prescribed Burn](https://inciweb.nwcg.gov/incident/7893/) | 5600 Acres | New Mexico, USA | 2021-11-23 10:45:59 |
 | [Big Mountain Prescribed Burn](https://inciweb.nwcg.gov/incident/7888/) | 257 Acres | West Virginia, USA | 2021-11-22 15:11:35 |
@@ -16,7 +17,6 @@ This is automatically generated every 12 hours with Github Actions!
 | [Dry Cabin](https://inciweb.nwcg.gov/incident/7660/) | 3735 Acres | Montana, USA | 2021-11-22 10:35:09 |
 | [Rustlers Creek](https://inciweb.nwcg.gov/incident/7894/) | 551 Acres | Texas, USA | 2021-11-21 08:50:25 |
 | [Alisal Fire](https://inciweb.nwcg.gov/incident/7862/) | 16970 Acres | California, USA | 2021-11-20 13:30:37 |
-| [KNP Complex ](https://inciweb.nwcg.gov/incident/7838/) | 88307 Acres | California, USA | 2021-11-19 16:04:10 |
 | [Crown Mountain Fire](https://inciweb.nwcg.gov/incident/7859/) | 1379 Acres | Montana, USA | 2021-11-18 16:02:40 |
 | [Klamath NF Fall/Winter '21 Rx Burning](https://inciweb.nwcg.gov/incident/7889/) | 0 Acres | California, USA | 2021-11-18 14:24:53 |
 | [Kaibab NF South Zone Rx Fire](https://inciweb.nwcg.gov/incident/5922/) | 760 Acres | Arizona, USA | 2021-11-18 11:51:13 |

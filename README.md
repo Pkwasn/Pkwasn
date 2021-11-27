@@ -4,9 +4,9 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Indiana Dunes Fall 2021 Prescribed Fire](https://inciweb.nwcg.gov/incident/7885/) | 689 Acres | Indiana, USA | 2021-11-26 09:33:09 |
+| [Kruger Rock Fire](https://inciweb.nwcg.gov/incident/7895/) | 147 Acres | Colorado, USA | 2021-11-26 08:18:54 |
 | [KNP Complex ](https://inciweb.nwcg.gov/incident/7838/) | 88307 Acres | California, USA | 2021-11-24 12:20:57 |
-| [Kruger Rock Fire](https://inciweb.nwcg.gov/incident/7895/) | 147 Acres | Colorado, USA | 2021-11-24 11:03:40 |
-| [Indiana Dunes Fall 2021 Prescribed Fire](https://inciweb.nwcg.gov/incident/7885/) | 689 Acres | Indiana, USA | 2021-11-23 17:17:00 |
 | [Prescribed Fire Projects 2021](https://inciweb.nwcg.gov/incident/7426/) | 0 Acres | Oregon, USA | 2021-11-23 13:50:03 |
 | [Valle Vidal Hart Canyon Prescribed Burn](https://inciweb.nwcg.gov/incident/7893/) | 5600 Acres | New Mexico, USA | 2021-11-23 10:45:59 |
 | [Big Mountain Prescribed Burn](https://inciweb.nwcg.gov/incident/7888/) | 257 Acres | West Virginia, USA | 2021-11-22 15:11:35 |

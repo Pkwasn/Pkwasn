@@ -4,7 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [West Wind](https://inciweb.nwcg.gov/incident/7897/) | 10644 Acres | Montana, USA | 2021-12-02 18:15:45 |
+| [West Wind](https://inciweb.nwcg.gov/incident/7897/) | 10644 Acres | Montana, USA | 2021-12-02 23:37:32 |
 | [Magic Feather Prescribed Burn](https://inciweb.nwcg.gov/incident/6403/) | 6329 Acres | Colorado, USA | 2021-12-02 14:24:42 |
 | [KNP Complex ](https://inciweb.nwcg.gov/incident/7838/) | 88307 Acres | California, USA | 2021-12-02 13:47:38 |
 | [Cub Creek 2 Fire](https://inciweb.nwcg.gov/incident/7675/) | 70186 Acres | Washington, USA | 2021-12-01 16:34:48 |

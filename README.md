@@ -4,6 +4,8 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Crater Ridge](https://inciweb.nwcg.gov/incident/7685/) | 7682 Acres | Wyoming, USA | 2021-12-06 16:54:14 |
+| [East Troublesome Post-Fire BAER](https://inciweb.nwcg.gov/incident/7267/) | 0 Acres | Colorado, USA | 2021-12-06 15:53:01 |
 | [West Wind](https://inciweb.nwcg.gov/incident/7897/) | 10644 Acres | Montana, USA | 2021-12-04 20:41:35 |
 | [Cub Creek 2 BAER](https://inciweb.nwcg.gov/incident/7830/) | 0 Acres | Washington, USA | 2021-12-03 14:36:41 |
 | [Cedar Creek BAER](https://inciweb.nwcg.gov/incident/7832/) | 0 Acres | Washington, USA | 2021-12-03 14:36:32 |
@@ -22,5 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [Pleasant Valley Prescribed Burn](https://inciweb.nwcg.gov/incident/7896/) | 0 Acres | Arizona, USA | 2021-11-22 12:46:57 |
 | [Dry Cabin](https://inciweb.nwcg.gov/incident/7660/) | 3735 Acres | Montana, USA | 2021-11-22 10:35:09 |
 | [Alisal Fire](https://inciweb.nwcg.gov/incident/7862/) | 16970 Acres | California, USA | 2021-11-20 13:30:37 |
-| [Crown Mountain Fire](https://inciweb.nwcg.gov/incident/7859/) | 1379 Acres | Montana, USA | 2021-11-18 16:02:40 |
-| [Klamath NF Fall/Winter '21 Rx Burning](https://inciweb.nwcg.gov/incident/7889/) | 0 Acres | California, USA | 2021-11-18 14:24:53 |

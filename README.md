@@ -4,7 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Crater Ridge](https://inciweb.nwcg.gov/incident/7685/) | 7682 Acres | Wyoming, USA | 2021-12-06 16:54:14 |
+| [Crater Ridge](https://inciweb.nwcg.gov/incident/7685/) | 7682 Acres | Wyoming, USA | 2021-12-07 14:21:04 |
 | [East Troublesome Post-Fire BAER](https://inciweb.nwcg.gov/incident/7267/) | 0 Acres | Colorado, USA | 2021-12-06 15:53:01 |
 | [West Wind](https://inciweb.nwcg.gov/incident/7897/) | 10644 Acres | Montana, USA | 2021-12-04 20:41:35 |
 | [Cub Creek 2 BAER](https://inciweb.nwcg.gov/incident/7830/) | 0 Acres | Washington, USA | 2021-12-03 14:36:41 |

@@ -4,6 +4,11 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [KNP Complex ](https://inciweb.nwcg.gov/incident/7838/) | 88307 Acres | California, USA | 2021-12-08 19:06:52 |
+| [Kaibab NF South Zone Rx Fire](https://inciweb.nwcg.gov/incident/5922/) | 500 Acres | Arizona, USA | 2021-12-08 17:14:37 |
+| [San Juan NF Prescribed Fire Program](https://inciweb.nwcg.gov/incident/6288/) | 0 Acres | Colorado, USA | 2021-12-08 15:58:47 |
+| [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2021-12-08 10:06:21 |
+| [Windy Fire](https://inciweb.nwcg.gov/incident/7841/) | 97528 Acres | California, USA | 2021-12-08 07:15:40 |
 | [Crater Ridge](https://inciweb.nwcg.gov/incident/7685/) | 7682 Acres | Wyoming, USA | 2021-12-07 14:21:04 |
 | [East Troublesome Post-Fire BAER](https://inciweb.nwcg.gov/incident/7267/) | 0 Acres | Colorado, USA | 2021-12-06 15:53:01 |
 | [West Wind](https://inciweb.nwcg.gov/incident/7897/) | 10644 Acres | Montana, USA | 2021-12-04 20:41:35 |
@@ -12,15 +17,10 @@ This is automatically generated every 12 hours with Github Actions!
 | [Twentyfive Mile BAER](https://inciweb.nwcg.gov/incident/7846/) | 22117 Acres | Washington, USA | 2021-12-03 14:36:19 |
 | [Schneider Springs BAER](https://inciweb.nwcg.gov/incident/7860/) | 107322 Acres | Washington, USA | 2021-12-03 14:36:06 |
 | [Magic Feather Prescribed Burn](https://inciweb.nwcg.gov/incident/6403/) | 6329 Acres | Colorado, USA | 2021-12-03 14:08:47 |
-| [Windy Fire](https://inciweb.nwcg.gov/incident/7841/) | 97528 Acres | California, USA | 2021-12-03 07:25:25 |
-| [KNP Complex ](https://inciweb.nwcg.gov/incident/7838/) | 88307 Acres | California, USA | 2021-12-02 13:47:38 |
 | [Cub Creek 2 Fire](https://inciweb.nwcg.gov/incident/7675/) | 70186 Acres | Washington, USA | 2021-12-01 16:34:48 |
 | [Cedar Creek](https://inciweb.nwcg.gov/incident/7655/) | 55572 Acres | Washington, USA | 2021-12-01 16:23:48 |
 | [Indiana Dunes Fall 2021 Prescribed Fire](https://inciweb.nwcg.gov/incident/7885/) | 689 Acres | Indiana, USA | 2021-12-01 14:15:06 |
-| [Kaibab NF South Zone Rx Fire](https://inciweb.nwcg.gov/incident/5922/) | 250 Acres | Arizona, USA | 2021-12-01 13:02:05 |
 | [Prescribed Fire Projects 2021](https://inciweb.nwcg.gov/incident/7426/) | 0 Acres | Oregon, USA | 2021-12-01 11:08:57 |
 | [Valle Vidal Hart Canyon Prescribed Burn](https://inciweb.nwcg.gov/incident/7893/) | 5600 Acres | New Mexico, USA | 2021-11-23 10:45:59 |
 | [Bull Complex ](https://inciweb.nwcg.gov/incident/7773/) | 24894 Acres | Oregon, USA | 2021-11-22 13:32:24 |
 | [Pleasant Valley Prescribed Burn](https://inciweb.nwcg.gov/incident/7896/) | 0 Acres | Arizona, USA | 2021-11-22 12:46:57 |
-| [Dry Cabin](https://inciweb.nwcg.gov/incident/7660/) | 3735 Acres | Montana, USA | 2021-11-22 10:35:09 |
-| [Alisal Fire](https://inciweb.nwcg.gov/incident/7862/) | 16970 Acres | California, USA | 2021-11-20 13:30:37 |

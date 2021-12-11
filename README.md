@@ -4,10 +4,11 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Judges Fire](https://inciweb.nwcg.gov/incident/7911/) | 600 Acres | Texas, USA | 2021-12-10 18:29:43 |
-| [Arrowhead Complex](https://inciweb.nwcg.gov/incident/7910/) | 7500 Acres | Texas, USA | 2021-12-10 18:13:33 |
-| [Electra Complex](https://inciweb.nwcg.gov/incident/7908/) | 2000 Acres | Texas, USA | 2021-12-10 17:14:30 |
-| [Live Fire](https://inciweb.nwcg.gov/incident/7909/) | 75 Acres | Texas, USA | 2021-12-10 16:46:29 |
+| [Judges Fire](https://inciweb.nwcg.gov/incident/7911/) | 600 Acres | Texas, USA | 2021-12-10 23:06:11 |
+| [Live Fire](https://inciweb.nwcg.gov/incident/7909/) | 400 Acres | Texas, USA | 2021-12-10 22:46:14 |
+| [Arrowhead Fire](https://inciweb.nwcg.gov/incident/7910/) | 7500 Acres | Texas, USA | 2021-12-10 21:59:18 |
+| [Electra Complex](https://inciweb.nwcg.gov/incident/7908/) | 2200 Acres | Texas, USA | 2021-12-10 21:53:09 |
+| [Twin Creek Fire](https://inciweb.nwcg.gov/incident/7912/) | 1000 Acres | Texas, USA | 2021-12-10 21:47:13 |
 | [KRRD Prescribed Fire 2021/22](https://inciweb.nwcg.gov/incident/7891/) | 200 Acres | California, USA | 2021-12-10 13:49:27 |
 | [West Wind](https://inciweb.nwcg.gov/incident/7897/) | 10644 Acres | Montana, USA | 2021-12-09 16:57:46 |
 | [Kaibab NF South Zone Rx Fire](https://inciweb.nwcg.gov/incident/5922/) | 500 Acres | Arizona, USA | 2021-12-09 16:12:09 |
@@ -23,4 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [Schneider Springs BAER](https://inciweb.nwcg.gov/incident/7860/) | 107322 Acres | Washington, USA | 2021-12-03 14:36:06 |
 | [Magic Feather Prescribed Burn](https://inciweb.nwcg.gov/incident/6403/) | 6329 Acres | Colorado, USA | 2021-12-03 14:08:47 |
 | [Cub Creek 2 Fire](https://inciweb.nwcg.gov/incident/7675/) | 70186 Acres | Washington, USA | 2021-12-01 16:34:48 |
-| [Cedar Creek](https://inciweb.nwcg.gov/incident/7655/) | 55572 Acres | Washington, USA | 2021-12-01 16:23:48 |

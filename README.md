@@ -4,6 +4,11 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Judges Fire](https://inciweb.nwcg.gov/incident/7911/) | 600 Acres | Texas, USA | 2021-12-10 18:29:43 |
+| [Arrowhead Complex](https://inciweb.nwcg.gov/incident/7910/) | 7500 Acres | Texas, USA | 2021-12-10 18:13:33 |
+| [Electra Complex](https://inciweb.nwcg.gov/incident/7908/) | 2000 Acres | Texas, USA | 2021-12-10 17:14:30 |
+| [Live Fire](https://inciweb.nwcg.gov/incident/7909/) | 75 Acres | Texas, USA | 2021-12-10 16:46:29 |
+| [KRRD Prescribed Fire 2021/22](https://inciweb.nwcg.gov/incident/7891/) | 200 Acres | California, USA | 2021-12-10 13:49:27 |
 | [West Wind](https://inciweb.nwcg.gov/incident/7897/) | 10644 Acres | Montana, USA | 2021-12-09 16:57:46 |
 | [Kaibab NF South Zone Rx Fire](https://inciweb.nwcg.gov/incident/5922/) | 500 Acres | Arizona, USA | 2021-12-09 16:12:09 |
 | [Slash Pile Burning 2021](https://inciweb.nwcg.gov/incident/4648/) | 0 Acres | Colorado, USA | 2021-12-09 10:04:45 |
@@ -11,7 +16,6 @@ This is automatically generated every 12 hours with Github Actions!
 | [KNP Complex ](https://inciweb.nwcg.gov/incident/7838/) | 88307 Acres | California, USA | 2021-12-08 19:06:52 |
 | [San Juan NF Prescribed Fire Program](https://inciweb.nwcg.gov/incident/6288/) | 0 Acres | Colorado, USA | 2021-12-08 15:58:47 |
 | [Windy Fire](https://inciweb.nwcg.gov/incident/7841/) | 97528 Acres | California, USA | 2021-12-08 07:15:40 |
-| [Crater Ridge](https://inciweb.nwcg.gov/incident/7685/) | 7682 Acres | Wyoming, USA | 2021-12-07 14:21:04 |
 | [East Troublesome Post-Fire BAER](https://inciweb.nwcg.gov/incident/7267/) | 0 Acres | Colorado, USA | 2021-12-06 15:53:01 |
 | [Cub Creek 2 BAER](https://inciweb.nwcg.gov/incident/7830/) | 0 Acres | Washington, USA | 2021-12-03 14:36:41 |
 | [Cedar Creek BAER](https://inciweb.nwcg.gov/incident/7832/) | 0 Acres | Washington, USA | 2021-12-03 14:36:32 |
@@ -20,7 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [Magic Feather Prescribed Burn](https://inciweb.nwcg.gov/incident/6403/) | 6329 Acres | Colorado, USA | 2021-12-03 14:08:47 |
 | [Cub Creek 2 Fire](https://inciweb.nwcg.gov/incident/7675/) | 70186 Acres | Washington, USA | 2021-12-01 16:34:48 |
 | [Cedar Creek](https://inciweb.nwcg.gov/incident/7655/) | 55572 Acres | Washington, USA | 2021-12-01 16:23:48 |
-| [Indiana Dunes Fall 2021 Prescribed Fire](https://inciweb.nwcg.gov/incident/7885/) | 689 Acres | Indiana, USA | 2021-12-01 14:15:06 |
-| [Prescribed Fire Projects 2021](https://inciweb.nwcg.gov/incident/7426/) | 0 Acres | Oregon, USA | 2021-12-01 11:08:57 |
-| [Valle Vidal Hart Canyon Prescribed Burn](https://inciweb.nwcg.gov/incident/7893/) | 5600 Acres | New Mexico, USA | 2021-11-23 10:45:59 |
-| [Bull Complex ](https://inciweb.nwcg.gov/incident/7773/) | 24894 Acres | Oregon, USA | 2021-11-22 13:32:24 |

@@ -4,11 +4,11 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Judges Fire](https://inciweb.nwcg.gov/incident/7911/) | 600 Acres | Texas, USA | 2021-12-10 23:06:11 |
-| [Live Fire](https://inciweb.nwcg.gov/incident/7909/) | 400 Acres | Texas, USA | 2021-12-10 22:46:14 |
-| [Arrowhead Fire](https://inciweb.nwcg.gov/incident/7910/) | 7500 Acres | Texas, USA | 2021-12-10 21:59:18 |
-| [Electra Complex](https://inciweb.nwcg.gov/incident/7908/) | 2200 Acres | Texas, USA | 2021-12-10 21:53:09 |
-| [Twin Creek Fire](https://inciweb.nwcg.gov/incident/7912/) | 1000 Acres | Texas, USA | 2021-12-10 21:47:13 |
+| [Electra Complex](https://inciweb.nwcg.gov/incident/7908/) | 2300 Acres | Texas, USA | 2021-12-11 17:41:10 |
+| [Arrowhead Fire](https://inciweb.nwcg.gov/incident/7910/) | 5300 Acres | Texas, USA | 2021-12-11 17:26:39 |
+| [Twin Creek Fire](https://inciweb.nwcg.gov/incident/7912/) | 3000 Acres | Texas, USA | 2021-12-11 15:00:28 |
+| [Judges Fire](https://inciweb.nwcg.gov/incident/7911/) | 509 Acres | Texas, USA | 2021-12-11 12:24:03 |
+| [Live Fire](https://inciweb.nwcg.gov/incident/7909/) | 890 Acres | Texas, USA | 2021-12-11 08:12:17 |
 | [KRRD Prescribed Fire 2021/22](https://inciweb.nwcg.gov/incident/7891/) | 200 Acres | California, USA | 2021-12-10 13:49:27 |
 | [West Wind](https://inciweb.nwcg.gov/incident/7897/) | 10644 Acres | Montana, USA | 2021-12-09 16:57:46 |
 | [Kaibab NF South Zone Rx Fire](https://inciweb.nwcg.gov/incident/5922/) | 500 Acres | Arizona, USA | 2021-12-09 16:12:09 |

@@ -4,9 +4,9 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Electra Complex](https://inciweb.nwcg.gov/incident/7908/) | 2300 Acres | Texas, USA | 2021-12-12 17:29:32 |
-| [Arrowhead Fire](https://inciweb.nwcg.gov/incident/7910/) | 6300 Acres | Texas, USA | 2021-12-12 10:55:24 |
-| [Twin Creek Fire](https://inciweb.nwcg.gov/incident/7912/) | 3601 Acres | Texas, USA | 2021-12-12 10:04:48 |
+| [Twin Creek Fire](https://inciweb.nwcg.gov/incident/7912/) | 3607 Acres | Texas, USA | 2021-12-12 20:28:11 |
+| [Arrowhead Fire](https://inciweb.nwcg.gov/incident/7910/) | 6300 Acres | Texas, USA | 2021-12-12 20:12:58 |
+| [Electra Complex](https://inciweb.nwcg.gov/incident/7908/) | 2300 Acres | Texas, USA | 2021-12-12 19:18:00 |
 | [Judges Fire](https://inciweb.nwcg.gov/incident/7911/) | 509 Acres | Texas, USA | 2021-12-11 12:24:03 |
 | [Live Fire](https://inciweb.nwcg.gov/incident/7909/) | 890 Acres | Texas, USA | 2021-12-11 08:12:17 |
 | [KRRD Prescribed Fire 2021/22](https://inciweb.nwcg.gov/incident/7891/) | 200 Acres | California, USA | 2021-12-10 13:49:27 |

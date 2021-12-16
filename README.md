@@ -4,7 +4,9 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [KRRD Prescribed Fire 2021/22](https://inciweb.nwcg.gov/incident/7891/) | 200 Acres | California, USA | 2021-12-14 13:52:59 |
+| [Belcher Complex](https://inciweb.nwcg.gov/incident/7916/) | 900 Acres | Texas, USA | 2021-12-15 17:25:12 |
+| [Parker Creek](https://inciweb.nwcg.gov/incident/7914/) | 3500 Acres | Texas, USA | 2021-12-15 15:24:28 |
+| [KRRD Prescribed Fire 2021/22](https://inciweb.nwcg.gov/incident/7891/) | 200 Acres | California, USA | 2021-12-15 12:06:40 |
 | [Twin Creek Fire](https://inciweb.nwcg.gov/incident/7912/) | 3607 Acres | Texas, USA | 2021-12-14 09:22:41 |
 | [Windy Fire](https://inciweb.nwcg.gov/incident/7841/) | 97528 Acres | California, USA | 2021-12-14 07:36:04 |
 | [KNP Complex ](https://inciweb.nwcg.gov/incident/7838/) | 88307 Acres | California, USA | 2021-12-13 18:21:10 |
@@ -22,5 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [Twentyfive Mile BAER](https://inciweb.nwcg.gov/incident/7846/) | 22117 Acres | Washington, USA | 2021-12-03 14:36:19 |
 | [Schneider Springs BAER](https://inciweb.nwcg.gov/incident/7860/) | 107322 Acres | Washington, USA | 2021-12-03 14:36:06 |
 | [Magic Feather Prescribed Burn](https://inciweb.nwcg.gov/incident/6403/) | 6329 Acres | Colorado, USA | 2021-12-03 14:08:47 |
-| [Cub Creek 2 Fire](https://inciweb.nwcg.gov/incident/7675/) | 70186 Acres | Washington, USA | 2021-12-01 16:34:48 |
-| [Cedar Creek](https://inciweb.nwcg.gov/incident/7655/) | 55572 Acres | Washington, USA | 2021-12-01 16:23:48 |

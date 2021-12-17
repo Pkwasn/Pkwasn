@@ -4,9 +4,9 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [North 207 Fire](https://inciweb.nwcg.gov/incident/7917/) | 23810 Acres | Texas, USA | 2021-12-16 14:38:33 |
+| [Parker Creek Fire](https://inciweb.nwcg.gov/incident/7914/) | 7000 Acres | Texas, USA | 2021-12-16 23:20:40 |
+| [North 207 Fire](https://inciweb.nwcg.gov/incident/7917/) | 23810 Acres | Texas, USA | 2021-12-16 20:50:06 |
 | [Belcher Complex](https://inciweb.nwcg.gov/incident/7916/) | 1119 Acres | Texas, USA | 2021-12-16 13:41:08 |
-| [Parker Creek Fire](https://inciweb.nwcg.gov/incident/7914/) | 7000 Acres | Texas, USA | 2021-12-16 12:14:44 |
 | [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2021-12-16 10:47:29 |
 | [KRRD Prescribed Fire 2021/22](https://inciweb.nwcg.gov/incident/7891/) | 200 Acres | California, USA | 2021-12-15 12:06:40 |
 | [Twin Creek Fire](https://inciweb.nwcg.gov/incident/7912/) | 3607 Acres | Texas, USA | 2021-12-14 09:22:41 |

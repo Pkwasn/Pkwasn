@@ -4,10 +4,10 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [North 207 Fire](https://inciweb.nwcg.gov/incident/7917/) | 23810 Acres | Texas, USA | 2021-12-18 14:11:19 |
+| [Parker Creek Fire](https://inciweb.nwcg.gov/incident/7914/) | 11067 Acres | Texas, USA | 2021-12-18 14:10:39 |
 | [KNP Complex ](https://inciweb.nwcg.gov/incident/7838/) | 88307 Acres | California, USA | 2021-12-17 15:03:30 |
 | [Arrowhead Fire](https://inciweb.nwcg.gov/incident/7910/) | 6300 Acres | Texas, USA | 2021-12-17 12:59:14 |
-| [Parker Creek Fire](https://inciweb.nwcg.gov/incident/7914/) | 11067 Acres | Texas, USA | 2021-12-17 09:25:31 |
-| [North 207 Fire](https://inciweb.nwcg.gov/incident/7917/) | 23810 Acres | Texas, USA | 2021-12-17 08:55:58 |
 | [Belcher Complex](https://inciweb.nwcg.gov/incident/7916/) | 1119 Acres | Texas, USA | 2021-12-16 13:41:08 |
 | [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2021-12-16 10:47:29 |
 | [KRRD Prescribed Fire 2021/22](https://inciweb.nwcg.gov/incident/7891/) | 200 Acres | California, USA | 2021-12-15 12:06:40 |

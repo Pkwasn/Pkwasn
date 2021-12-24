@@ -4,6 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Dixie Post-Fire BAER](https://inciweb.nwcg.gov/incident/7811/) | 0 Acres | California, USA | 2021-12-23 18:57:53 |
 | [KNP Complex ](https://inciweb.nwcg.gov/incident/7838/) | 88307 Acres | California, USA | 2021-12-21 16:28:26 |
 | [North 207 Fire](https://inciweb.nwcg.gov/incident/7917/) | 23810 Acres | Texas, USA | 2021-12-20 09:28:41 |
 | [Parker Creek Fire](https://inciweb.nwcg.gov/incident/7914/) | 11067 Acres | Texas, USA | 2021-12-18 14:10:39 |
@@ -23,4 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [Cub Creek 2 BAER](https://inciweb.nwcg.gov/incident/7830/) | 0 Acres | Washington, USA | 2021-12-03 14:36:41 |
 | [Cedar Creek BAER](https://inciweb.nwcg.gov/incident/7832/) | 0 Acres | Washington, USA | 2021-12-03 14:36:32 |
 | [Twentyfive Mile BAER](https://inciweb.nwcg.gov/incident/7846/) | 22117 Acres | Washington, USA | 2021-12-03 14:36:19 |
-| [Schneider Springs BAER](https://inciweb.nwcg.gov/incident/7860/) | 107322 Acres | Washington, USA | 2021-12-03 14:36:06 |

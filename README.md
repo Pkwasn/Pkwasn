@@ -4,6 +4,8 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-01-05 16:25:16 |
+| [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-01-05 15:55:37 |
 | [Kaibab NF South Zone Rx Fire](https://inciweb.nwcg.gov/incident/5922/) | 1100 Acres | Arizona, USA | 2022-01-03 12:37:03 |
 | [Dixie Post-Fire BAER](https://inciweb.nwcg.gov/incident/7811/) | 0 Acres | California, USA | 2021-12-23 18:57:53 |
 | [KNP Complex ](https://inciweb.nwcg.gov/incident/7838/) | 88307 Acres | California, USA | 2021-12-21 16:28:26 |
@@ -11,7 +13,6 @@ This is automatically generated every 12 hours with Github Actions!
 | [Parker Creek Fire](https://inciweb.nwcg.gov/incident/7914/) | 11067 Acres | Texas, USA | 2021-12-18 14:10:39 |
 | [Arrowhead Fire](https://inciweb.nwcg.gov/incident/7910/) | 6300 Acres | Texas, USA | 2021-12-17 12:59:14 |
 | [Belcher Complex](https://inciweb.nwcg.gov/incident/7916/) | 1119 Acres | Texas, USA | 2021-12-16 13:41:08 |
-| [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2021-12-16 10:47:29 |
 | [KRRD Prescribed Fire 2021/22](https://inciweb.nwcg.gov/incident/7891/) | 200 Acres | California, USA | 2021-12-15 12:06:40 |
 | [Twin Creek Fire](https://inciweb.nwcg.gov/incident/7912/) | 3607 Acres | Texas, USA | 2021-12-14 09:22:41 |
 | [Windy Fire](https://inciweb.nwcg.gov/incident/7841/) | 97528 Acres | California, USA | 2021-12-14 07:36:04 |
@@ -23,4 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [East Troublesome Post-Fire BAER](https://inciweb.nwcg.gov/incident/7267/) | 0 Acres | Colorado, USA | 2021-12-06 15:53:01 |
 | [Cub Creek 2 BAER](https://inciweb.nwcg.gov/incident/7830/) | 0 Acres | Washington, USA | 2021-12-03 14:36:41 |
 | [Cedar Creek BAER](https://inciweb.nwcg.gov/incident/7832/) | 0 Acres | Washington, USA | 2021-12-03 14:36:32 |
-| [Twentyfive Mile BAER](https://inciweb.nwcg.gov/incident/7846/) | 22117 Acres | Washington, USA | 2021-12-03 14:36:19 |

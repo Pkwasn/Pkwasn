@@ -4,7 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Beaver Pond Fire](https://inciweb.nwcg.gov/incident/7919/) | 420 Acres | Texas, USA | 2022-01-07 18:33:45 |
+| [Beaver Pond Fire](https://inciweb.nwcg.gov/incident/7919/) | 420 Acres | Texas, USA | 2022-01-07 18:38:13 |
 | [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-01-06 17:20:03 |
 | [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-01-06 17:10:48 |
 | [Cordovas Prescribed Pile Burn](https://inciweb.nwcg.gov/incident/7918/) | 157 Acres | New Mexico, USA | 2022-01-06 14:37:13 |

@@ -4,6 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Beaver Pond Fire](https://inciweb.nwcg.gov/incident/7919/) | 420 Acres | Texas, USA | 2022-01-07 18:33:45 |
 | [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-01-06 17:20:03 |
 | [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-01-06 17:10:48 |
 | [Cordovas Prescribed Pile Burn](https://inciweb.nwcg.gov/incident/7918/) | 157 Acres | New Mexico, USA | 2022-01-06 14:37:13 |
@@ -23,4 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [Cub Creek 2 BAER](https://inciweb.nwcg.gov/incident/7830/) | 0 Acres | Washington, USA | 2021-12-03 14:36:41 |
 | [Cedar Creek BAER](https://inciweb.nwcg.gov/incident/7832/) | 0 Acres | Washington, USA | 2021-12-03 14:36:32 |
 | [Twentyfive Mile BAER](https://inciweb.nwcg.gov/incident/7846/) | 22117 Acres | Washington, USA | 2021-12-03 14:36:19 |
-| [Schneider Springs BAER](https://inciweb.nwcg.gov/incident/7860/) | 107322 Acres | Washington, USA | 2021-12-03 14:36:06 |

@@ -4,10 +4,10 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-01-12 16:41:44 |
+| [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-01-12 10:48:37 |
 | [Pacheco Canyon Prescribed Pile Burn](https://inciweb.nwcg.gov/incident/7921/) | 443 Acres | New Mexico, USA | 2022-01-11 15:01:00 |
 | [Gallinas Canyon WUI Prescribed Pile Burn](https://inciweb.nwcg.gov/incident/7920/) | 374 Acres | New Mexico, USA | 2022-01-11 14:51:34 |
-| [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-01-11 13:50:03 |
-| [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-01-06 17:20:03 |
 | [Kaibab NF South Zone Rx Fire](https://inciweb.nwcg.gov/incident/5922/) | 1100 Acres | Arizona, USA | 2022-01-03 12:37:03 |
 | [Dixie Post-Fire BAER](https://inciweb.nwcg.gov/incident/7811/) | 0 Acres | California, USA | 2021-12-23 18:57:53 |
 | [KNP Complex ](https://inciweb.nwcg.gov/incident/7838/) | 88307 Acres | California, USA | 2021-12-21 16:28:26 |

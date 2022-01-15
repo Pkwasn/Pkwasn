@@ -4,11 +4,12 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Carbon Camp Fire](https://inciweb.nwcg.gov/incident/7922/) | 200 Acres | Texas, USA | 2022-01-14 17:26:48 |
+| [Cordovas Prescribed Pile Burn](https://inciweb.nwcg.gov/incident/7918/) | 157 Acres | New Mexico, USA | 2022-01-14 12:39:34 |
+| [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-01-14 11:18:42 |
 | [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-01-13 16:55:51 |
 | [Pacheco Canyon Prescribed Pile Burn](https://inciweb.nwcg.gov/incident/7921/) | 443 Acres | New Mexico, USA | 2022-01-13 11:12:51 |
 | [Slash Pile Burning 2021](https://inciweb.nwcg.gov/incident/4648/) | 0 Acres | Colorado, USA | 2022-01-13 10:13:52 |
-| [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-01-12 16:41:44 |
-| [Gallinas Canyon WUI Prescribed Pile Burn](https://inciweb.nwcg.gov/incident/7920/) | 374 Acres | New Mexico, USA | 2022-01-11 14:51:34 |
 | [Kaibab NF South Zone Rx Fire](https://inciweb.nwcg.gov/incident/5922/) | 1100 Acres | Arizona, USA | 2022-01-03 12:37:03 |
 | [Dixie Post-Fire BAER](https://inciweb.nwcg.gov/incident/7811/) | 0 Acres | California, USA | 2021-12-23 18:57:53 |
 | [KNP Complex ](https://inciweb.nwcg.gov/incident/7838/) | 88307 Acres | California, USA | 2021-12-21 16:28:26 |
@@ -23,4 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [Schneider Springs BAER](https://inciweb.nwcg.gov/incident/7860/) | 107322 Acres | Washington, USA | 2021-12-03 14:36:06 |
 | [Cub Creek 2 Fire](https://inciweb.nwcg.gov/incident/7675/) | 70186 Acres | Washington, USA | 2021-12-01 16:34:48 |
 | [Cedar Creek](https://inciweb.nwcg.gov/incident/7655/) | 55572 Acres | Washington, USA | 2021-12-01 16:23:48 |
-| [Prescribed Fire Projects 2021](https://inciweb.nwcg.gov/incident/7426/) | 0 Acres | Oregon, USA | 2021-12-01 11:08:57 |

@@ -4,9 +4,10 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Mill Creek Fire](https://inciweb.nwcg.gov/incident/7925/) | 1200 Acres | Texas, USA | 2022-01-15 15:55:19 |
+| [Carbon Camp Fire](https://inciweb.nwcg.gov/incident/7922/) | 177 Acres | Texas, USA | 2022-01-15 11:04:12 |
+| [Plum Bluff Fire](https://inciweb.nwcg.gov/incident/7924/) | 776 Acres | Texas, USA | 2022-01-15 09:22:12 |
 | [Douglas Fire](https://inciweb.nwcg.gov/incident/7923/) | 171 Acres | Texas, USA | 2022-01-15 01:08:50 |
-| [Plum Bluff Fire](https://inciweb.nwcg.gov/incident/7924/) | 400 Acres | Texas, USA | 2022-01-14 23:44:58 |
-| [Carbon Camp Fire](https://inciweb.nwcg.gov/incident/7922/) | 177 Acres | Texas, USA | 2022-01-14 21:56:02 |
 | [Cordovas Prescribed Pile Burn](https://inciweb.nwcg.gov/incident/7918/) | 157 Acres | New Mexico, USA | 2022-01-14 12:39:34 |
 | [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-01-14 11:18:42 |
 | [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-01-13 16:55:51 |
@@ -23,4 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [Cub Creek 2 BAER](https://inciweb.nwcg.gov/incident/7830/) | 0 Acres | Washington, USA | 2021-12-03 14:36:41 |
 | [Cedar Creek BAER](https://inciweb.nwcg.gov/incident/7832/) | 0 Acres | Washington, USA | 2021-12-03 14:36:32 |
 | [Twentyfive Mile BAER](https://inciweb.nwcg.gov/incident/7846/) | 22117 Acres | Washington, USA | 2021-12-03 14:36:19 |
-| [Schneider Springs BAER](https://inciweb.nwcg.gov/incident/7860/) | 107322 Acres | Washington, USA | 2021-12-03 14:36:06 |

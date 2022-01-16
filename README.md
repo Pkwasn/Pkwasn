@@ -4,7 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Mill Creek Fire](https://inciweb.nwcg.gov/incident/7925/) | 1200 Acres | Texas, USA | 2022-01-15 15:55:19 |
+| [Mill Creek Fire](https://inciweb.nwcg.gov/incident/7925/) | 1696 Acres | Texas, USA | 2022-01-15 20:49:59 |
 | [Carbon Camp Fire](https://inciweb.nwcg.gov/incident/7922/) | 177 Acres | Texas, USA | 2022-01-15 11:04:12 |
 | [Plum Bluff Fire](https://inciweb.nwcg.gov/incident/7924/) | 776 Acres | Texas, USA | 2022-01-15 09:22:12 |
 | [Douglas Fire](https://inciweb.nwcg.gov/incident/7923/) | 171 Acres | Texas, USA | 2022-01-15 01:08:50 |

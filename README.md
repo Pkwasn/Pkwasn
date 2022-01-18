@@ -6,7 +6,6 @@ This is automatically generated every 12 hours with Github Actions!
 |:---|:---|:---|:---|
 | [Martin Fire](https://inciweb.nwcg.gov/incident/7926/) | 787 Acres | Texas, USA | 2022-01-16 19:59:15 |
 | [Mill Creek Fire](https://inciweb.nwcg.gov/incident/7925/) | 1696 Acres | Texas, USA | 2022-01-15 20:49:59 |
-| [Carbon Camp Fire](https://inciweb.nwcg.gov/incident/7922/) | 177 Acres | Texas, USA | 2022-01-15 11:04:12 |
 | [Plum Bluff Fire](https://inciweb.nwcg.gov/incident/7924/) | 776 Acres | Texas, USA | 2022-01-15 09:22:12 |
 | [Douglas Fire](https://inciweb.nwcg.gov/incident/7923/) | 171 Acres | Texas, USA | 2022-01-15 01:08:50 |
 | [Cordovas Prescribed Pile Burn](https://inciweb.nwcg.gov/incident/7918/) | 157 Acres | New Mexico, USA | 2022-01-14 12:39:34 |
@@ -24,3 +23,4 @@ This is automatically generated every 12 hours with Github Actions!
 | [East Troublesome Post-Fire BAER](https://inciweb.nwcg.gov/incident/7267/) | 0 Acres | Colorado, USA | 2021-12-06 15:53:01 |
 | [Cub Creek 2 BAER](https://inciweb.nwcg.gov/incident/7830/) | 0 Acres | Washington, USA | 2021-12-03 14:36:41 |
 | [Cedar Creek BAER](https://inciweb.nwcg.gov/incident/7832/) | 0 Acres | Washington, USA | 2021-12-03 14:36:32 |
+| [Twentyfive Mile BAER](https://inciweb.nwcg.gov/incident/7846/) | 22117 Acres | Washington, USA | 2021-12-03 14:36:19 |

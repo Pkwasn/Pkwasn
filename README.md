@@ -4,7 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Rolling Pines Fire](https://inciweb.nwcg.gov/incident/7927/) | 150 Acres | Texas, USA | 2022-01-18 16:39:34 |
+| [Rolling Pines Fire](https://inciweb.nwcg.gov/incident/7927/) | 500 Acres | Texas, USA | 2022-01-18 22:16:43 |
 | [Martin Fire](https://inciweb.nwcg.gov/incident/7926/) | 787 Acres | Texas, USA | 2022-01-16 19:59:15 |
 | [Mill Creek Fire](https://inciweb.nwcg.gov/incident/7925/) | 1696 Acres | Texas, USA | 2022-01-15 20:49:59 |
 | [Plum Bluff Fire](https://inciweb.nwcg.gov/incident/7924/) | 776 Acres | Texas, USA | 2022-01-15 09:22:12 |

@@ -4,7 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Rolling Pines Fire](https://inciweb.nwcg.gov/incident/7927/) | 783 Acres | Texas, USA | 2022-01-19 17:39:55 |
+| [Rolling Pines Fire](https://inciweb.nwcg.gov/incident/7927/) | 783 Acres | Texas, USA | 2022-01-19 19:23:26 |
 | [San Juan NF Prescribed Fire Program](https://inciweb.nwcg.gov/incident/6288/) | 0 Acres | Colorado, USA | 2022-01-19 15:09:00 |
 | [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-01-19 12:33:04 |
 | [Martin Fire](https://inciweb.nwcg.gov/incident/7926/) | 787 Acres | Texas, USA | 2022-01-16 19:59:15 |

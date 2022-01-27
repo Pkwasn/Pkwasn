@@ -4,7 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-01-25 17:54:22 |
+| [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-01-26 17:38:56 |
 | [Davey Dogwood Park Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7933/) | 0 Acres | Texas, USA | 2022-01-25 15:56:14 |
 | [SHSU University Camp Prescribed Fire '22](https://inciweb.nwcg.gov/incident/7932/) | 0 Acres | Texas, USA | 2022-01-25 15:22:33 |
 | [McMillian Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7931/) | 0 Acres | Texas, USA | 2022-01-25 12:31:07 |

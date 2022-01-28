@@ -4,6 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Rolling Pines Fire](https://inciweb.nwcg.gov/incident/7927/) | 812 Acres | Texas, USA | 2022-01-27 20:48:21 |
 | [Fairchild State Forest Pres. Fires 2022](https://inciweb.nwcg.gov/incident/7935/) | 0 Acres | Texas, USA | 2022-01-27 17:19:51 |
 | [Lake Naconiche Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7934/) | 0 Acres | Texas, USA | 2022-01-27 16:52:16 |
 | [Baney Unit 3C RX Fire - Magdalena RD](https://inciweb.nwcg.gov/incident/7883/) | 291 Acres | New Mexico, USA | 2022-01-27 16:29:07 |
@@ -12,7 +13,6 @@ This is automatically generated every 12 hours with Github Actions!
 | [Davey Dogwood Park Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7933/) | 0 Acres | Texas, USA | 2022-01-25 15:56:14 |
 | [SHSU University Camp Prescribed Fire '22](https://inciweb.nwcg.gov/incident/7932/) | 0 Acres | Texas, USA | 2022-01-25 15:22:33 |
 | [McMillian Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7931/) | 0 Acres | Texas, USA | 2022-01-25 12:31:07 |
-| [Rolling Pines Fire](https://inciweb.nwcg.gov/incident/7927/) | 812 Acres | Texas, USA | 2022-01-25 10:54:51 |
 | [Kirby State Forest Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7930/) | 0 Acres | Texas, USA | 2022-01-25 09:18:57 |
 | [Fall 2021 Bastrop County Prescribed Burn](https://inciweb.nwcg.gov/incident/7867/) | 2800 Acres | Texas, USA | 2022-01-24 13:35:23 |
 | [San Juan NF Prescribed Fire Program](https://inciweb.nwcg.gov/incident/6288/) | 0 Acres | Colorado, USA | 2022-01-19 15:09:00 |

@@ -4,7 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Luccah Fire](https://inciweb.nwcg.gov/incident/7939/) | 500 Acres | Texas, USA | 2022-01-28 18:13:39 |
+| [Luccah Fire](https://inciweb.nwcg.gov/incident/7939/) | 2000 Acres | Texas, USA | 2022-01-29 00:46:14 |
 | [WG Jones State Forest Pres. Fire 2022](https://inciweb.nwcg.gov/incident/7938/) | 0 Acres | Texas, USA | 2022-01-28 16:36:57 |
 | [Brodbeck-Hooper GLO Prescribed Fires '22](https://inciweb.nwcg.gov/incident/7937/) | 0 Acres | Texas, USA | 2022-01-28 15:13:43 |
 | [McMillian Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7931/) | 0 Acres | Texas, USA | 2022-01-28 14:39:12 |

@@ -4,6 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Baney Unit 3C RX Fire - Magdalena RD](https://inciweb.nwcg.gov/incident/7883/) | 291 Acres | New Mexico, USA | 2022-01-30 12:00:46 |
 | [Luccah Fire](https://inciweb.nwcg.gov/incident/7939/) | 1640 Acres | Texas, USA | 2022-01-29 14:24:30 |
 | [WG Jones State Forest Pres. Fire 2022](https://inciweb.nwcg.gov/incident/7938/) | 0 Acres | Texas, USA | 2022-01-28 16:36:57 |
 | [Brodbeck-Hooper GLO Prescribed Fires '22](https://inciweb.nwcg.gov/incident/7937/) | 0 Acres | Texas, USA | 2022-01-28 15:13:43 |
@@ -15,7 +16,6 @@ This is automatically generated every 12 hours with Github Actions!
 | [Leona GLO Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7936/) | 0 Acres | Texas, USA | 2022-01-28 14:38:11 |
 | [Rolling Pines Fire](https://inciweb.nwcg.gov/incident/7927/) | 812 Acres | Texas, USA | 2022-01-27 20:48:21 |
 | [Lake Naconiche Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7934/) | 0 Acres | Texas, USA | 2022-01-27 16:52:16 |
-| [Baney Unit 3C RX Fire - Magdalena RD](https://inciweb.nwcg.gov/incident/7883/) | 291 Acres | New Mexico, USA | 2022-01-27 16:29:07 |
 | [Huron-Manistee NFs '22 Winter Rx Burning](https://inciweb.nwcg.gov/incident/7928/) | 0 Acres | Michigan, USA | 2022-01-27 10:53:24 |
 | [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-01-26 17:38:56 |
 | [Fall 2021 Bastrop County Prescribed Burn](https://inciweb.nwcg.gov/incident/7867/) | 2800 Acres | Texas, USA | 2022-01-24 13:35:23 |

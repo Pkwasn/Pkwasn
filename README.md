@@ -4,8 +4,8 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Huron-Manistee NFs '22 Winter Rx Burning](https://inciweb.nwcg.gov/incident/7928/) | 0 Acres | Michigan, USA | 2022-02-01 05:52:57 |
 | [Wright Patnam Lake Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7942/) | 0 Acres | Texas, USA | 2022-01-31 16:40:25 |
-| [Huron-Manistee NFs '22 Winter Rx Burning](https://inciweb.nwcg.gov/incident/7928/) | 0 Acres | Michigan, USA | 2022-01-31 14:43:25 |
 | [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-01-31 11:55:34 |
 | [Fairchild State Forest Rx Fires 2022](https://inciweb.nwcg.gov/incident/7935/) | 0 Acres | Texas, USA | 2022-01-31 11:53:05 |
 | [WG Jones State Forest Rx Fire 2022](https://inciweb.nwcg.gov/incident/7938/) | 0 Acres | Texas, USA | 2022-01-31 11:52:44 |

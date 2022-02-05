@@ -4,6 +4,8 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Pat Mayse Lake Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7947/) | 497 Acres | Texas, USA | 2022-02-04 12:48:31 |
+| [Camp Maxey Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7946/) | 1494 Acres | Texas, USA | 2022-02-04 12:34:15 |
 | [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-02-03 16:11:14 |
 | [National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-02-03 13:04:28 |
 | [Huron-Manistee NFs '22 Winter Rx Burning](https://inciweb.nwcg.gov/incident/7928/) | 0 Acres | Michigan, USA | 2022-02-03 08:56:02 |
@@ -22,5 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [McMillian Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7931/) | 110 Acres | Texas, USA | 2022-02-02 10:32:09 |
 | [SHSU University Camp Prescribed Fire '22](https://inciweb.nwcg.gov/incident/7932/) | 118 Acres | Texas, USA | 2022-02-02 10:31:59 |
 | [Davey Dogwood Park Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7933/) | 153 Acres | Texas, USA | 2022-02-02 10:31:32 |
-| [Lake Naconiche Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7934/) | 66 Acres | Texas, USA | 2022-02-02 10:31:23 |
-| [Fort Wolters Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7944/) | 1583 Acres | Texas, USA | 2022-02-02 10:31:13 |

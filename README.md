@@ -4,6 +4,9 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Palo Pinto Complex](https://inciweb.nwcg.gov/incident/7966/) | 596 Acres | Texas, USA | 2022-02-09 16:26:01 |
+| [E.O. Siecke State Forest Rx Fires 2022](https://inciweb.nwcg.gov/incident/7940/) | 640 Acres | Texas, USA | 2022-02-09 11:21:27 |
+| [Fairchild State Forest Rx Fires 2022](https://inciweb.nwcg.gov/incident/7935/) | 387 Acres | Texas, USA | 2022-02-09 11:19:30 |
 | [Capilla (Red Canyon) Rx](https://inciweb.nwcg.gov/incident/7949/) | 0 Acres | New Mexico, USA | 2022-02-08 15:29:03 |
 | [Sulphur Canyon & Hondo Canyon Pile Burns](https://inciweb.nwcg.gov/incident/7948/) | 0 Acres | New Mexico, USA | 2022-02-08 14:14:38 |
 | [Huron-Manistee NFs '22 Winter Rx Burning](https://inciweb.nwcg.gov/incident/7928/) | 0 Acres | Michigan, USA | 2022-02-08 07:04:22 |
@@ -15,12 +18,9 @@ This is automatically generated every 12 hours with Github Actions!
 | [Caldor Post-Fire BAER](https://inciweb.nwcg.gov/incident/7842/) | 0 Acres | California, USA | 2022-02-02 15:24:27 |
 | [Wright Patman Lake Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7942/) | 3316 Acres | Texas, USA | 2022-02-02 13:37:20 |
 | [San Juan NF Prescribed Fire Program](https://inciweb.nwcg.gov/incident/6288/) | 0 Acres | Colorado, USA | 2022-02-02 13:32:41 |
-| [Fairchild State Forest Rx Fires 2022](https://inciweb.nwcg.gov/incident/7935/) | 387 Acres | Texas, USA | 2022-02-02 10:48:27 |
 | [Leona GLO Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7936/) | 47 Acres | Texas, USA | 2022-02-02 10:33:44 |
 | [Kirby State Forest Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7930/) | 289 Acres | Texas, USA | 2022-02-02 10:33:35 |
 | [Masterson State Forest Rx Fires 2022](https://inciweb.nwcg.gov/incident/7941/) | 102 Acres | Texas, USA | 2022-02-02 10:33:20 |
 | [Camp Bowie Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7943/) | 2092 Acres | Texas, USA | 2022-02-02 10:33:11 |
 | [WG Jones State Forest Rx Fire 2022](https://inciweb.nwcg.gov/incident/7938/) | 80 Acres | Texas, USA | 2022-02-02 10:32:38 |
-| [E.O. Siecke State Forest Rx Fires 2022](https://inciweb.nwcg.gov/incident/7940/) | 640 Acres | Texas, USA | 2022-02-02 10:32:28 |
 | [Brodbeck-Hooper GLO Prescribed Fires '22](https://inciweb.nwcg.gov/incident/7937/) | 136 Acres | Texas, USA | 2022-02-02 10:32:20 |
-| [McMillian Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7931/) | 110 Acres | Texas, USA | 2022-02-02 10:32:09 |

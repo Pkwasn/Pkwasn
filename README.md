@@ -4,6 +4,9 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [WG Jones State Forest Rx Fire 2022](https://inciweb.nwcg.gov/incident/7938/) | 80 Acres | Texas, USA | 2022-02-13 15:57:53 |
+| [SHSU University Camp Prescribed Fire '22](https://inciweb.nwcg.gov/incident/7932/) | 118 Acres | Texas, USA | 2022-02-13 15:57:33 |
+| [Davey Dogwood Park Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7933/) | 153 Acres | Texas, USA | 2022-02-13 15:56:32 |
 | [Fort Wolters Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7944/) | 1583 Acres | Texas, USA | 2022-02-10 09:58:44 |
 | [E.O. Siecke State Forest Rx Fires 2022](https://inciweb.nwcg.gov/incident/7940/) | 640 Acres | Texas, USA | 2022-02-09 11:21:27 |
 | [Fairchild State Forest Rx Fires 2022](https://inciweb.nwcg.gov/incident/7935/) | 387 Acres | Texas, USA | 2022-02-09 11:19:30 |
@@ -21,6 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [Leona GLO Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7936/) | 47 Acres | Texas, USA | 2022-02-02 10:33:44 |
 | [Kirby State Forest Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7930/) | 289 Acres | Texas, USA | 2022-02-02 10:33:35 |
 | [Masterson State Forest Rx Fires 2022](https://inciweb.nwcg.gov/incident/7941/) | 102 Acres | Texas, USA | 2022-02-02 10:33:20 |
-| [Camp Bowie Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7943/) | 2092 Acres | Texas, USA | 2022-02-02 10:33:11 |
-| [WG Jones State Forest Rx Fire 2022](https://inciweb.nwcg.gov/incident/7938/) | 80 Acres | Texas, USA | 2022-02-02 10:32:38 |
-| [Brodbeck-Hooper GLO Prescribed Fires '22](https://inciweb.nwcg.gov/incident/7937/) | 136 Acres | Texas, USA | 2022-02-02 10:32:20 |

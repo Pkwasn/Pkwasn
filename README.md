@@ -4,7 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Valentines Day](https://inciweb.nwcg.gov/incident/7971/) | 100 Acres | Texas, USA | 2022-02-14 17:47:30 |
+| [Valentine's Day](https://inciweb.nwcg.gov/incident/7971/) | 265 Acres | Texas, USA | 2022-02-14 22:28:53 |
 | [Animas City Mountain Prescribed Burn](https://inciweb.nwcg.gov/incident/7688/) | 0 Acres | Colorado, USA | 2022-02-14 15:27:18 |
 | [Slash Pile Burning 2022](https://inciweb.nwcg.gov/incident/4648/) | 0 Acres | Colorado, USA | 2022-02-14 15:07:31 |
 | [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-02-14 13:07:55 |

@@ -4,12 +4,12 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [755 Fire](https://inciweb.nwcg.gov/incident/7977/) | 2000 Acres | Texas, USA | 2022-02-16 21:28:55 |
+| [755 Fire](https://inciweb.nwcg.gov/incident/7977/) | 2000 Acres | Texas, USA | 2022-02-17 15:23:15 |
+| [Experiment Station #1 Fire](https://inciweb.nwcg.gov/incident/7974/) | 434 Acres | Texas, USA | 2022-02-17 09:08:31 |
 | [Hawk Fire](https://inciweb.nwcg.gov/incident/7975/) | 104 Acres | Texas, USA | 2022-02-16 20:11:30 |
 | [Key Fire](https://inciweb.nwcg.gov/incident/7972/) | 842 Acres | Texas, USA | 2022-02-16 20:07:49 |
 | [Seep Draw Complex](https://inciweb.nwcg.gov/incident/7973/) | 539 Acres | Texas, USA | 2022-02-16 15:21:58 |
 | [735 Fire](https://inciweb.nwcg.gov/incident/7976/) | 480 Acres | Texas, USA | 2022-02-16 14:16:40 |
-| [Experiment Station #1 Fire](https://inciweb.nwcg.gov/incident/7974/) | 434 Acres | Texas, USA | 2022-02-16 09:50:27 |
 | [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-02-15 12:28:19 |
 | [Valentine's Day](https://inciweb.nwcg.gov/incident/7971/) | 265 Acres | Texas, USA | 2022-02-15 09:48:06 |
 | [Animas City Mountain Prescribed Burn](https://inciweb.nwcg.gov/incident/7688/) | 0 Acres | Colorado, USA | 2022-02-14 15:27:18 |

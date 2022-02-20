@@ -4,6 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Bowie 1606](https://inciweb.nwcg.gov/incident/7979/) | 142 Acres | Texas, USA | 2022-02-19 19:25:00 |
 | [Experiment Station #1 Fire](https://inciweb.nwcg.gov/incident/7974/) | 434 Acres | Texas, USA | 2022-02-17 09:08:31 |
 | [Hawk Fire](https://inciweb.nwcg.gov/incident/7975/) | 104 Acres | Texas, USA | 2022-02-16 20:11:30 |
 | [Key Fire](https://inciweb.nwcg.gov/incident/7972/) | 842 Acres | Texas, USA | 2022-02-16 20:07:49 |
@@ -23,4 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [Sulphur Canyon & Hondo Canyon Pile Burns](https://inciweb.nwcg.gov/incident/7948/) | 0 Acres | New Mexico, USA | 2022-02-08 14:14:38 |
 | [Huron-Manistee NFs '22 Winter Rx Burning](https://inciweb.nwcg.gov/incident/7928/) | 0 Acres | Michigan, USA | 2022-02-08 07:04:22 |
 | [Pat Mayse Lake Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7947/) | 497 Acres | Texas, USA | 2022-02-04 12:48:31 |
-| [Camp Maxey Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7946/) | 1494 Acres | Texas, USA | 2022-02-04 12:34:15 |

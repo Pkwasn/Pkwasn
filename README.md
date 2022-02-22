@@ -4,7 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Bowie 1606](https://inciweb.nwcg.gov/incident/7979/) | 142 Acres | Texas, USA | 2022-02-19 19:25:00 |
+| [Cadillac Fire](https://inciweb.nwcg.gov/incident/7980/) | 100 Acres | Texas, USA | 2022-02-21 18:04:25 |
 | [Experiment Station #1 Fire](https://inciweb.nwcg.gov/incident/7974/) | 434 Acres | Texas, USA | 2022-02-17 09:08:31 |
 | [Hawk Fire](https://inciweb.nwcg.gov/incident/7975/) | 104 Acres | Texas, USA | 2022-02-16 20:11:30 |
 | [Key Fire](https://inciweb.nwcg.gov/incident/7972/) | 842 Acres | Texas, USA | 2022-02-16 20:07:49 |

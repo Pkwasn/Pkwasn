@@ -4,8 +4,8 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-02-22 18:58:36 |
 | [Cadillac Fire](https://inciweb.nwcg.gov/incident/7980/) | 143 Acres | Texas, USA | 2022-02-22 13:04:21 |
-| [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-02-22 10:53:08 |
 | [Experiment Station #1 Fire](https://inciweb.nwcg.gov/incident/7974/) | 434 Acres | Texas, USA | 2022-02-17 09:08:31 |
 | [Hawk Fire](https://inciweb.nwcg.gov/incident/7975/) | 104 Acres | Texas, USA | 2022-02-16 20:11:30 |
 | [Key Fire](https://inciweb.nwcg.gov/incident/7972/) | 842 Acres | Texas, USA | 2022-02-16 20:07:49 |

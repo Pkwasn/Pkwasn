@@ -4,6 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-02-25 11:08:28 |
 | [Baney Unit 3C RX Fire - Magdalena RD](https://inciweb.nwcg.gov/incident/7883/) | 215 Acres | New Mexico, USA | 2022-02-24 13:33:58 |
 | [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-02-24 12:04:34 |
 | [Schulz Tract Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7985/) | 208 Acres | Texas, USA | 2022-02-24 10:00:38 |
@@ -22,5 +23,4 @@ This is automatically generated every 12 hours with Github Actions!
 | [Seep Draw Complex](https://inciweb.nwcg.gov/incident/7973/) | 539 Acres | Texas, USA | 2022-02-16 15:21:58 |
 | [Animas City Mountain Prescribed Burn](https://inciweb.nwcg.gov/incident/7688/) | 0 Acres | Colorado, USA | 2022-02-14 15:27:18 |
 | [Slash Pile Burning 2022](https://inciweb.nwcg.gov/incident/4648/) | 0 Acres | Colorado, USA | 2022-02-14 15:07:31 |
-| [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-02-14 13:07:55 |
 | [Davey Dogwood Park Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7933/) | 153 Acres | Texas, USA | 2022-02-14 11:58:32 |

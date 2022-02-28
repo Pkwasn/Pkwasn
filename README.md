@@ -4,6 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Cadillac Fire](https://inciweb.nwcg.gov/incident/7980/) | 143 Acres | Texas, USA | 2022-02-27 14:09:55 |
 | [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-02-25 11:08:28 |
 | [Baney Unit 3C RX Fire - Magdalena RD](https://inciweb.nwcg.gov/incident/7883/) | 215 Acres | New Mexico, USA | 2022-02-24 13:33:58 |
 | [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-02-24 12:04:34 |
@@ -15,7 +16,6 @@ This is automatically generated every 12 hours with Github Actions!
 | [Pat Mayse Lake Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7947/) | 1011 Acres | Texas, USA | 2022-02-24 09:04:03 |
 | [Leona GLO Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7936/) | 47 Acres | Texas, USA | 2022-02-24 08:49:00 |
 | [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-02-23 18:11:38 |
-| [Cadillac Fire](https://inciweb.nwcg.gov/incident/7980/) | 143 Acres | Texas, USA | 2022-02-23 13:27:18 |
 | [Sulphur Canyon & Hondo Canyon Pile Burns](https://inciweb.nwcg.gov/incident/7948/) | 0 Acres | New Mexico, USA | 2022-02-23 11:20:49 |
 | [Experiment Station #1 Fire](https://inciweb.nwcg.gov/incident/7974/) | 434 Acres | Texas, USA | 2022-02-17 09:08:31 |
 | [Hawk Fire](https://inciweb.nwcg.gov/incident/7975/) | 104 Acres | Texas, USA | 2022-02-16 20:11:30 |

@@ -4,6 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Hoosier National Forest Prescribed Fire ](https://inciweb.nwcg.gov/incident/7887/) | 0 Acres | Indiana, USA | 2022-03-01 07:20:56 |
 | [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-02-28 15:23:12 |
 | [Baney Unit 3C RX Fire - Magdalena RD](https://inciweb.nwcg.gov/incident/7883/) | 215 Acres | New Mexico, USA | 2022-02-28 13:01:35 |
 | [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-02-24 12:04:34 |
@@ -23,4 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [WG Jones State Forest Rx Fire 2022](https://inciweb.nwcg.gov/incident/7938/) | 80 Acres | Texas, USA | 2022-02-13 15:57:53 |
 | [SHSU University Camp Prescribed Fire '22](https://inciweb.nwcg.gov/incident/7932/) | 118 Acres | Texas, USA | 2022-02-13 15:57:33 |
 | [E.O. Siecke State Forest Rx Fires 2022](https://inciweb.nwcg.gov/incident/7940/) | 640 Acres | Texas, USA | 2022-02-09 11:21:27 |
-| [Fairchild State Forest Rx Fires 2022](https://inciweb.nwcg.gov/incident/7935/) | 387 Acres | Texas, USA | 2022-02-09 11:19:30 |

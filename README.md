@@ -4,8 +4,9 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Oak Mott Fire](https://inciweb.nwcg.gov/incident/7986/) | 512 Acres | Texas, USA | 2022-03-02 18:33:38 |
-| [Jim Fire](https://inciweb.nwcg.gov/incident/7987/) | 400 Acres | California, USA | 2022-03-02 17:27:36 |
+| [Oak Mott Fire](https://inciweb.nwcg.gov/incident/7986/) | 873 Acres | Texas, USA | 2022-03-02 22:00:16 |
+| [Jim Fire](https://inciweb.nwcg.gov/incident/7987/) | 500 Acres | California, USA | 2022-03-02 20:58:38 |
+| [Cleveland RX Burning 2022](https://inciweb.nwcg.gov/incident/7317/) | 0 Acres | California, USA | 2022-03-02 20:17:06 |
 | [Animas City Mountain Prescribed Burn](https://inciweb.nwcg.gov/incident/7688/) | 0 Acres | Colorado, USA | 2022-03-02 11:33:12 |
 | [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-03-02 09:17:41 |
 | [Hoosier National Forest Prescribed Fire ](https://inciweb.nwcg.gov/incident/7887/) | 0 Acres | Indiana, USA | 2022-03-02 08:48:13 |
@@ -23,4 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [Slash Pile Burning 2022](https://inciweb.nwcg.gov/incident/4648/) | 0 Acres | Colorado, USA | 2022-02-14 15:07:31 |
 | [Davey Dogwood Park Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7933/) | 153 Acres | Texas, USA | 2022-02-14 11:58:32 |
 | [Fort Wolters Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7944/) | 1583 Acres | Texas, USA | 2022-02-14 11:48:41 |
-| [WG Jones State Forest Rx Fire 2022](https://inciweb.nwcg.gov/incident/7938/) | 80 Acres | Texas, USA | 2022-02-13 15:57:53 |

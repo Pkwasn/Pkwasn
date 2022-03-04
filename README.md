@@ -4,9 +4,9 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Dalmatian Fire](https://inciweb.nwcg.gov/incident/7988/) | 1000 Acres | Texas, USA | 2022-03-03 17:49:25 |
+| [Jim Fire](https://inciweb.nwcg.gov/incident/7987/) | 553 Acres | California, USA | 2022-03-03 21:00:03 |
+| [Dalmatian Fire](https://inciweb.nwcg.gov/incident/7988/) | 1167 Acres | Texas, USA | 2022-03-03 19:48:59 |
 | [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-03-03 16:55:15 |
-| [Jim Fire](https://inciweb.nwcg.gov/incident/7987/) | 553 Acres | California, USA | 2022-03-03 12:46:54 |
 | [Oak Mott Fire](https://inciweb.nwcg.gov/incident/7986/) | 873 Acres | Texas, USA | 2022-03-03 12:12:35 |
 | [Cleveland RX Burning 2022](https://inciweb.nwcg.gov/incident/7317/) | 0 Acres | California, USA | 2022-03-03 12:07:42 |
 | [Animas City Mountain Prescribed Burn](https://inciweb.nwcg.gov/incident/7688/) | 0 Acres | Colorado, USA | 2022-03-02 11:33:12 |

@@ -4,8 +4,8 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Jim Fire](https://inciweb.nwcg.gov/incident/7987/) | 553 Acres | California, USA | 2022-03-05 19:47:27 |
 | [Miller Fire](https://inciweb.nwcg.gov/incident/7990/) | 271 Acres | Texas, USA | 2022-03-05 13:33:05 |
-| [Jim Fire](https://inciweb.nwcg.gov/incident/7987/) | 553 Acres | California, USA | 2022-03-05 11:39:01 |
 | [Dalmatian Fire](https://inciweb.nwcg.gov/incident/7988/) | 1167 Acres | Texas, USA | 2022-03-05 08:42:03 |
 | [Rest Stop Fire](https://inciweb.nwcg.gov/incident/7989/) | 107 Acres | Texas, USA | 2022-03-04 16:54:02 |
 | [Hoosier National Forest Prescribed Fire ](https://inciweb.nwcg.gov/incident/7887/) | 0 Acres | Indiana, USA | 2022-03-04 09:38:20 |

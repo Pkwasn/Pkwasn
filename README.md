@@ -4,7 +4,8 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Jim Fire](https://inciweb.nwcg.gov/incident/7987/) | 553 Acres | California, USA | 2022-03-08 12:16:08 |
+| [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-03-09 16:02:59 |
+| [Jim Fire](https://inciweb.nwcg.gov/incident/7987/) | 553 Acres | California, USA | 2022-03-09 11:32:57 |
 | [Miller Fire](https://inciweb.nwcg.gov/incident/7990/) | 271 Acres | Texas, USA | 2022-03-08 11:11:15 |
 | [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-03-08 10:00:40 |
 | [San Juan NF Prescribed Fire Program](https://inciweb.nwcg.gov/incident/6288/) | 0 Acres | Colorado, USA | 2022-03-07 14:43:50 |
@@ -21,6 +22,5 @@ This is automatically generated every 12 hours with Github Actions!
 | [Lake Waco Wetlands Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7982/) | 138 Acres | Texas, USA | 2022-02-24 09:16:18 |
 | [Pat Mayse Lake Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7947/) | 1011 Acres | Texas, USA | 2022-02-24 09:04:03 |
 | [Leona GLO Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7936/) | 47 Acres | Texas, USA | 2022-02-24 08:49:00 |
-| [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-02-23 18:11:38 |
 | [Sulphur Canyon & Hondo Canyon Pile Burns](https://inciweb.nwcg.gov/incident/7948/) | 0 Acres | New Mexico, USA | 2022-02-23 11:20:49 |
 | [Slash Pile Burning 2022](https://inciweb.nwcg.gov/incident/4648/) | 0 Acres | Colorado, USA | 2022-02-14 15:07:31 |

@@ -4,7 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-03-09 16:02:59 |
+| [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-03-09 18:56:58 |
 | [Jim Fire](https://inciweb.nwcg.gov/incident/7987/) | 553 Acres | California, USA | 2022-03-09 11:32:57 |
 | [Miller Fire](https://inciweb.nwcg.gov/incident/7990/) | 271 Acres | Texas, USA | 2022-03-08 11:11:15 |
 | [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-03-08 10:00:40 |

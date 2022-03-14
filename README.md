@@ -4,9 +4,8 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Hippy Ridge](https://inciweb.nwcg.gov/incident/7994/) | 20 Acres | Texas, USA | 2022-03-13 19:39:59 |
-| [Hippy Ridge](https://inciweb.nwcg.gov/incident/7995/) | 0 Acres | Texas, USA | 2022-03-13 19:38:29 |
-| [Calvin Fire](https://inciweb.nwcg.gov/incident/7993/) | 300 Acres | Texas, USA | 2022-03-13 18:31:51 |
+| [Hippy Ridge](https://inciweb.nwcg.gov/incident/7994/) | 47 Acres | Texas, USA | 2022-03-13 23:02:06 |
+| [Calvin Fire](https://inciweb.nwcg.gov/incident/7993/) | 566 Acres | Texas, USA | 2022-03-13 22:03:12 |
 | [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-03-11 16:59:10 |
 | [Spring 2022 Prescribed Fire](https://inciweb.nwcg.gov/incident/7992/) | 0 Acres | Colorado, USA | 2022-03-11 10:57:51 |
 | [Jim Fire](https://inciweb.nwcg.gov/incident/7987/) | 553 Acres | California, USA | 2022-03-10 21:05:50 |
@@ -24,3 +23,4 @@ This is automatically generated every 12 hours with Github Actions!
 | [Pine Park Prescribed Fire 2022](https://inciweb.nwcg.gov/incident/7983/) | 0 Acres | Texas, USA | 2022-02-24 09:27:34 |
 | [Cyclone Hill GLO Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7981/) | 110 Acres | Texas, USA | 2022-02-24 09:22:34 |
 | [Lake Waco Wetlands Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7982/) | 138 Acres | Texas, USA | 2022-02-24 09:16:18 |
+| [Pat Mayse Lake Prescribed Fires 2022](https://inciweb.nwcg.gov/incident/7947/) | 1011 Acres | Texas, USA | 2022-02-24 09:04:03 |

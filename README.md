@@ -4,10 +4,10 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Jim Post-Fire BAER](https://inciweb.nwcg.gov/incident/8000/) | 0 Acres | California, USA | 2022-03-15 19:41:00 |
-| [3 Oaks Fire](https://inciweb.nwcg.gov/incident/7998/) | 3500 Acres | Texas, USA | 2022-03-15 19:21:45 |
+| [Crews Gap](https://inciweb.nwcg.gov/incident/7997/) | 7000 Acres | Texas, USA | 2022-03-15 23:52:25 |
+| [3 Oaks Fire](https://inciweb.nwcg.gov/incident/7998/) | 3500 Acres | Texas, USA | 2022-03-15 20:54:33 |
+| [Jim Post-Fire BAER](https://inciweb.nwcg.gov/incident/8000/) | 0 Acres | California, USA | 2022-03-15 20:11:09 |
 | [Christine Fire](https://inciweb.nwcg.gov/incident/8002/) | 2500 Acres | Texas, USA | 2022-03-15 19:21:32 |
-| [Crews Gap](https://inciweb.nwcg.gov/incident/7997/) | 7000 Acres | Texas, USA | 2022-03-15 16:43:07 |
 | [Buddy Fire](https://inciweb.nwcg.gov/incident/7996/) | 1456 Acres | Texas, USA | 2022-03-15 16:27:25 |
 | [Indiana Dunes NP Spring 2022](https://inciweb.nwcg.gov/incident/8001/) | 0 Acres | Indiana, USA | 2022-03-15 14:58:56 |
 | [Hippy Ridge Fire](https://inciweb.nwcg.gov/incident/7994/) | 68 Acres | Texas, USA | 2022-03-15 13:24:08 |

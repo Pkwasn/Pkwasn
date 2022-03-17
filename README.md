@@ -4,11 +4,11 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Walling Fire](https://inciweb.nwcg.gov/incident/8003/) | 250 Acres | Texas, USA | 2022-03-16 19:24:12 |
-| [Christine Fire](https://inciweb.nwcg.gov/incident/8002/) | 2900 Acres | Texas, USA | 2022-03-16 14:30:23 |
+| [Walling Fire](https://inciweb.nwcg.gov/incident/8003/) | 375 Acres | Texas, USA | 2022-03-16 20:54:10 |
+| [3 Oaks Fire](https://inciweb.nwcg.gov/incident/7998/) | 3375 Acres | Texas, USA | 2022-03-16 20:17:37 |
+| [Christine Fire](https://inciweb.nwcg.gov/incident/8002/) | 2900 Acres | Texas, USA | 2022-03-16 20:01:51 |
 | [Lake Shore Garden Fire](https://inciweb.nwcg.gov/incident/7999/) | 200 Acres | Texas, USA | 2022-03-16 13:34:00 |
 | [Jim Fire](https://inciweb.nwcg.gov/incident/7987/) | 538 Acres | California, USA | 2022-03-16 11:07:35 |
-| [3 Oaks Fire](https://inciweb.nwcg.gov/incident/7998/) | 3500 Acres | Texas, USA | 2022-03-16 10:41:08 |
 | [Indiana Dunes NP Spring 2022](https://inciweb.nwcg.gov/incident/8001/) | 0 Acres | Indiana, USA | 2022-03-16 08:51:11 |
 | [Hoosier National Forest Prescribed Fire ](https://inciweb.nwcg.gov/incident/7887/) | 0 Acres | Indiana, USA | 2022-03-16 08:50:44 |
 | [Buddy Fire](https://inciweb.nwcg.gov/incident/7996/) | 1469 Acres | Texas, USA | 2022-03-16 08:41:53 |

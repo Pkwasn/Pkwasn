@@ -4,8 +4,8 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Eastland Complex](https://inciweb.nwcg.gov/incident/8010/) | 54015 Acres | Texas, USA | 2022-03-19 21:49:31 |
 | [Crews Gap](https://inciweb.nwcg.gov/incident/7997/) | 8100 Acres | Texas, USA | 2022-03-19 19:32:36 |
-| [Eastland Complex](https://inciweb.nwcg.gov/incident/8010/) | 45383 Acres | Texas, USA | 2022-03-19 12:41:42 |
 | [Chico Lane Fire](https://inciweb.nwcg.gov/incident/8005/) | 8000 Acres | Texas, USA | 2022-03-18 20:23:44 |
 | [Jim Fire](https://inciweb.nwcg.gov/incident/7987/) | 551 Acres | California, USA | 2022-03-18 17:07:31 |
 | [Edmunson Fire](https://inciweb.nwcg.gov/incident/8006/) | 3861 Acres | Texas, USA | 2022-03-18 16:31:07 |

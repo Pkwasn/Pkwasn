@@ -4,13 +4,12 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Big L Fire](https://inciweb.nwcg.gov/incident/8016/) | 6000 Acres | Texas, USA | 2022-03-20 19:37:01 |
+| [Cedar Mountain](https://inciweb.nwcg.gov/incident/8015/) | 250 Acres | Texas, USA | 2022-03-20 20:42:43 |
+| [Big L Fire](https://inciweb.nwcg.gov/incident/8016/) | 6000 Acres | Texas, USA | 2022-03-20 20:42:41 |
+| [Blowing Basin](https://inciweb.nwcg.gov/incident/8013/) | 250 Acres | Texas, USA | 2022-03-20 20:41:29 |
+| [Three Sections Fire](https://inciweb.nwcg.gov/incident/8017/) | 300 Acres | Texas, USA | 2022-03-20 20:00:16 |
 | [Wells 2](https://inciweb.nwcg.gov/incident/8019/) | 500 Acres | Texas, USA | 2022-03-20 19:15:13 |
 | [Birdwell Fire](https://inciweb.nwcg.gov/incident/8014/) | 28 Acres | Texas, USA | 2022-03-20 18:59:24 |
-| [Big L Fire](https://inciweb.nwcg.gov/incident/8018/) | 0 Acres | Texas, USA | 2022-03-20 18:49:42 |
-| [Blowing Basin](https://inciweb.nwcg.gov/incident/8013/) | 250 Acres | Texas, USA | 2022-03-20 18:18:58 |
-| [Cedar Mountain](https://inciweb.nwcg.gov/incident/8015/) | 250 Acres | Texas, USA | 2022-03-20 18:12:18 |
-| [Three Sections Fire](https://inciweb.nwcg.gov/incident/8017/) | 300 Acres | Texas, USA | 2022-03-20 16:59:25 |
 | [Crews Gap Fire](https://inciweb.nwcg.gov/incident/7997/) | 8100 Acres | Texas, USA | 2022-03-20 13:26:55 |
 | [Eastland Complex](https://inciweb.nwcg.gov/incident/8010/) | 54015 Acres | Texas, USA | 2022-03-20 12:13:00 |
 | [Jim Fire](https://inciweb.nwcg.gov/incident/7987/) | 551 Acres | California, USA | 2022-03-18 17:07:31 |
@@ -24,3 +23,4 @@ This is automatically generated every 12 hours with Github Actions!
 | [San Juan NF Prescribed Fire Program](https://inciweb.nwcg.gov/incident/6288/) | 0 Acres | Colorado, USA | 2022-03-07 14:43:50 |
 | [Cleveland RX Burning 2022](https://inciweb.nwcg.gov/incident/7317/) | 0 Acres | California, USA | 2022-03-03 12:07:42 |
 | [Animas City Mountain Prescribed Burn](https://inciweb.nwcg.gov/incident/7688/) | 0 Acres | Colorado, USA | 2022-03-02 11:33:12 |
+| [Baney Unit 3C RX Fire - Magdalena RD](https://inciweb.nwcg.gov/incident/7883/) | 215 Acres | New Mexico, USA | 2022-02-28 13:01:35 |

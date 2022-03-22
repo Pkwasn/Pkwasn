@@ -4,8 +4,9 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Loma East Fire](https://inciweb.nwcg.gov/incident/8025/) | 461 Acres | Texas, USA | 2022-03-22 01:10:32 |
+| [Big L Fire](https://inciweb.nwcg.gov/incident/8016/) | 10366 Acres | Texas, USA | 2022-03-21 22:50:19 |
 | [Eastland Complex](https://inciweb.nwcg.gov/incident/8010/) | 54463 Acres | Texas, USA | 2022-03-21 19:37:20 |
-| [Loma East Fire](https://inciweb.nwcg.gov/incident/8025/) | 461 Acres | Texas, USA | 2022-03-21 19:32:45 |
 | [Birdwell Fire](https://inciweb.nwcg.gov/incident/8014/) | 28 Acres | Texas, USA | 2022-03-21 18:43:20 |
 | [Ramsey Fire](https://inciweb.nwcg.gov/incident/8020/) | 1800 Acres | Texas, USA | 2022-03-21 18:36:24 |
 | [Cleveland RX Burning 2022](https://inciweb.nwcg.gov/incident/7317/) | 0 Acres | California, USA | 2022-03-21 18:24:00 |
@@ -17,7 +18,6 @@ This is automatically generated every 12 hours with Github Actions!
 | [Lick Mountain Prescribed Burn](https://inciweb.nwcg.gov/incident/8022/) | 0 Acres | West Virginia, USA | 2022-03-21 14:53:32 |
 | [Peach Orchard Prescribed Burn](https://inciweb.nwcg.gov/incident/8021/) | 0 Acres | West Virginia, USA | 2022-03-21 14:51:07 |
 | [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-03-21 14:04:18 |
-| [Big L Fire](https://inciweb.nwcg.gov/incident/8016/) | 10366 Acres | Texas, USA | 2022-03-21 12:56:05 |
 | [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-03-21 12:53:39 |
 | [Three Sections Fire](https://inciweb.nwcg.gov/incident/8017/) | 687 Acres | Texas, USA | 2022-03-21 07:20:20 |
 | [Crews Gap Fire](https://inciweb.nwcg.gov/incident/7997/) | 8100 Acres | Texas, USA | 2022-03-20 13:26:55 |

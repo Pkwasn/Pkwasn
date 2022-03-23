@@ -4,8 +4,9 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Crews Gap Fire](https://inciweb.nwcg.gov/incident/7997/) | 8100 Acres | Texas, USA | 2022-03-22 21:18:12 |
+| [Ramsey Fire](https://inciweb.nwcg.gov/incident/8020/) | 2090 Acres | Texas, USA | 2022-03-22 21:13:39 |
 | [Eastland Complex](https://inciweb.nwcg.gov/incident/8010/) | 54463 Acres | Texas, USA | 2022-03-22 19:35:42 |
-| [Crews Gap Fire](https://inciweb.nwcg.gov/incident/7997/) | 8100 Acres | Texas, USA | 2022-03-22 18:27:45 |
 | [Veterans Lake Fire](https://inciweb.nwcg.gov/incident/8023/) | 1000 Acres | Oklahoma, USA | 2022-03-22 18:02:06 |
 | [Hualapai Mountains Prescribed Burn ](https://inciweb.nwcg.gov/incident/8028/) | 2500 Acres | Arizona, USA | 2022-03-22 17:37:48 |
 | [Lick Mountain Prescribed Burn](https://inciweb.nwcg.gov/incident/8022/) | 0 Acres | West Virginia, USA | 2022-03-22 17:31:30 |
@@ -16,7 +17,6 @@ This is automatically generated every 12 hours with Github Actions!
 | [Loma East Fire](https://inciweb.nwcg.gov/incident/8025/) | 461 Acres | Texas, USA | 2022-03-22 01:10:32 |
 | [Big L Fire](https://inciweb.nwcg.gov/incident/8016/) | 10366 Acres | Texas, USA | 2022-03-21 22:50:19 |
 | [Birdwell Fire](https://inciweb.nwcg.gov/incident/8014/) | 28 Acres | Texas, USA | 2022-03-21 18:43:20 |
-| [Ramsey Fire](https://inciweb.nwcg.gov/incident/8020/) | 1800 Acres | Texas, USA | 2022-03-21 18:36:24 |
 | [Cleveland RX Burning 2022](https://inciweb.nwcg.gov/incident/7317/) | 0 Acres | California, USA | 2022-03-21 18:24:00 |
 | [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-03-21 18:22:22 |
 | [Jim Fire](https://inciweb.nwcg.gov/incident/7987/) | 551 Acres | California, USA | 2022-03-21 18:14:52 |

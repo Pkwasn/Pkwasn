@@ -4,7 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Hualapai Mountains Prescribed Burn ](https://inciweb.nwcg.gov/incident/8028/) | 2500 Acres | Arizona, USA | 2022-03-23 17:04:26 |
+| [Hualapai Mountains Prescribed Burn ](https://inciweb.nwcg.gov/incident/8028/) | 2500 Acres | Arizona, USA | 2022-03-23 22:50:31 |
 | [Eastland Complex](https://inciweb.nwcg.gov/incident/8010/) | 54513 Acres | Texas, USA | 2022-03-23 16:19:35 |
 | [Kiowa Rita Blanca Multi Unit RX](https://inciweb.nwcg.gov/incident/8029/) | 0 Acres | New Mexico, USA | 2022-03-23 15:32:30 |
 | [Ramsey Fire](https://inciweb.nwcg.gov/incident/8020/) | 2090 Acres | Texas, USA | 2022-03-23 15:02:46 |

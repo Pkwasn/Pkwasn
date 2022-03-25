@@ -4,9 +4,9 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Eastland Complex](https://inciweb.nwcg.gov/incident/8010/) | 54513 Acres | Texas, USA | 2022-03-24 20:01:25 |
 | [Bitterroot Spring RX Fire 2022](https://inciweb.nwcg.gov/incident/8024/) | 0 Acres | Montana, USA | 2022-03-24 16:52:59 |
 | [Hualapai Mountains Prescribed Burn ](https://inciweb.nwcg.gov/incident/8028/) | 2500 Acres | Arizona, USA | 2022-03-24 14:45:29 |
-| [Eastland Complex](https://inciweb.nwcg.gov/incident/8010/) | 54513 Acres | Texas, USA | 2022-03-24 12:19:55 |
 | [Ramsey Fire](https://inciweb.nwcg.gov/incident/8020/) | 2090 Acres | Texas, USA | 2022-03-24 08:29:42 |
 | [Kiowa Rita Blanca Multi Unit RX](https://inciweb.nwcg.gov/incident/8029/) | 0 Acres | New Mexico, USA | 2022-03-23 15:32:30 |
 | [Big L Fire](https://inciweb.nwcg.gov/incident/8016/) | 10177 Acres | Texas, USA | 2022-03-23 11:17:20 |

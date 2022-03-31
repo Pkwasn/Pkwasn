@@ -4,16 +4,16 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Borrega Fire](https://inciweb.nwcg.gov/incident/8043/) | 2500 Acres | Texas, USA | 2022-03-30 19:15:21 |
+| [Eastland Complex](https://inciweb.nwcg.gov/incident/8010/) | 54513 Acres | Texas, USA | 2022-03-31 07:16:47 |
+| [Los Angeles Fire](https://inciweb.nwcg.gov/incident/8042/) | 4000 Acres | Texas, USA | 2022-03-31 07:04:21 |
+| [Borrega Fire](https://inciweb.nwcg.gov/incident/8043/) | 60000 Acres | Texas, USA | 2022-03-31 07:00:50 |
+| [Presumido Peak Fire](https://inciweb.nwcg.gov/incident/8036/) | 2591 Acres | Arizona, USA | 2022-03-30 22:21:55 |
 | [Nunn Fire](https://inciweb.nwcg.gov/incident/8038/) | 1121 Acres | Texas, USA | 2022-03-30 19:01:23 |
-| [Los Angeles Fire](https://inciweb.nwcg.gov/incident/8042/) | 350 Acres | Texas, USA | 2022-03-30 18:59:40 |
-| [Eastland Complex](https://inciweb.nwcg.gov/incident/8010/) | 54513 Acres | Texas, USA | 2022-03-30 18:28:51 |
 | [Das Goat Fire](https://inciweb.nwcg.gov/incident/8030/) | 1092 Acres | Texas, USA | 2022-03-30 18:05:44 |
 | [Bosque River Fire](https://inciweb.nwcg.gov/incident/8034/) | 700 Acres | Texas, USA | 2022-03-30 17:39:17 |
 | [West Nueces](https://inciweb.nwcg.gov/incident/8039/) | 1750 Acres | Texas, USA | 2022-03-30 17:08:43 |
 | [Canadian River Bottom Fire](https://inciweb.nwcg.gov/incident/8041/) | 30000 Acres | Texas, USA | 2022-03-30 16:15:42 |
 | [Jim Fire](https://inciweb.nwcg.gov/incident/7987/) | 553 Acres | California, USA | 2022-03-30 16:11:53 |
-| [Presumido Peak Fire](https://inciweb.nwcg.gov/incident/8036/) | 4000 Acres | Arizona, USA | 2022-03-30 16:09:06 |
 | [Crittenberg Complex](https://inciweb.nwcg.gov/incident/8033/) | 33175 Acres | Texas, USA | 2022-03-30 16:05:14 |
 | [Dean Fire](https://inciweb.nwcg.gov/incident/8040/) | 663 Acres | Texas, USA | 2022-03-30 15:57:29 |
 | [Doe Fire](https://inciweb.nwcg.gov/incident/8037/) | 1583 Acres | Texas, USA | 2022-03-30 11:38:13 |

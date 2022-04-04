@@ -4,13 +4,13 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-04-04 06:47:45 |
 | [Borrega Fire](https://inciweb.nwcg.gov/incident/8043/) | 51566 Acres | Texas, USA | 2022-04-03 11:15:34 |
 | [Double Barrel Fire](https://inciweb.nwcg.gov/incident/8045/) | 984 Acres | Texas, USA | 2022-04-03 10:43:24 |
 | [Adrian Fire](https://inciweb.nwcg.gov/incident/8047/) | 530 Acres | Texas, USA | 2022-04-03 08:23:40 |
 | [Presumido Peak Fire](https://inciweb.nwcg.gov/incident/8036/) | 2591 Acres | Arizona, USA | 2022-04-02 22:36:50 |
 | [Das Goat Fire](https://inciweb.nwcg.gov/incident/8030/) | 1092 Acres | Texas, USA | 2022-04-02 20:02:11 |
 | [Red Mud Fire](https://inciweb.nwcg.gov/incident/8046/) | 2033 Acres | Texas, USA | 2022-04-02 19:58:43 |
-| [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-04-02 17:56:40 |
 | [Canadian River Bottom Fire](https://inciweb.nwcg.gov/incident/8041/) | 39568 Acres | Texas, USA | 2022-04-02 17:54:33 |
 | [Ramsey Fire](https://inciweb.nwcg.gov/incident/8020/) | 3456 Acres | Texas, USA | 2022-04-02 09:42:50 |
 | [Crittenberg Complex](https://inciweb.nwcg.gov/incident/8033/) | 33175 Acres | Texas, USA | 2022-04-02 09:42:02 |

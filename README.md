@@ -4,6 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 0 Acres | New Mexico, USA | 2022-04-06 21:36:14 |
 | [Daniel's Ranch RX](https://inciweb.nwcg.gov/incident/8048/) | 33 Acres | Texas, USA | 2022-04-06 13:06:38 |
 | [Borrega Fire](https://inciweb.nwcg.gov/incident/8043/) | 51566 Acres | Texas, USA | 2022-04-06 08:58:03 |
 | [Adrian Fire](https://inciweb.nwcg.gov/incident/8047/) | 530 Acres | Texas, USA | 2022-04-06 08:31:17 |
@@ -23,4 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [Jim Fire](https://inciweb.nwcg.gov/incident/7987/) | 553 Acres | California, USA | 2022-03-30 16:11:53 |
 | [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-03-29 14:16:35 |
 | [San Juan NF Prescribed Fire Program](https://inciweb.nwcg.gov/incident/6288/) | 0 Acres | Colorado, USA | 2022-03-29 10:46:18 |
-| [Jim Post-Fire BAER](https://inciweb.nwcg.gov/incident/8000/) | 0 Acres | California, USA | 2022-03-28 18:51:09 |

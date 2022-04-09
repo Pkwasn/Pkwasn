@@ -4,9 +4,9 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-04-08 19:42:10 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 350 Acres | New Mexico, USA | 2022-04-08 21:10:23 |
+| [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-04-08 19:53:33 |
 | [Bitterroot Spring RX Fire 2022](https://inciweb.nwcg.gov/incident/8024/) | 0 Acres | Montana, USA | 2022-04-08 19:25:41 |
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 350 Acres | New Mexico, USA | 2022-04-08 19:07:40 |
 | [Spring 2022 Prescribed Fire](https://inciweb.nwcg.gov/incident/7992/) | 0 Acres | Colorado, USA | 2022-04-08 12:36:22 |
 | [Britt Fire](https://inciweb.nwcg.gov/incident/8051/) | 8152 Acres | Texas, USA | 2022-04-08 10:15:30 |
 | [Singing Yucca](https://inciweb.nwcg.gov/incident/8050/) | 701 Acres | Texas, USA | 2022-04-07 19:23:26 |

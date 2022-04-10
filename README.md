@@ -4,14 +4,14 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Training Area 23 Fire](https://inciweb.nwcg.gov/incident/8057/) | 1500 Acres | Texas, USA | 2022-04-09 19:19:51 |
+| [Training Area 23 Fire](https://inciweb.nwcg.gov/incident/8057/) | 4000 Acres | Texas, USA | 2022-04-10 02:52:25 |
+| [Britt Fire](https://inciweb.nwcg.gov/incident/8051/) | 8000 Acres | Texas, USA | 2022-04-09 23:22:55 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 384 Acres | New Mexico, USA | 2022-04-09 22:46:09 |
+| [Bull Creek](https://inciweb.nwcg.gov/incident/8056/) | 500 Acres | Texas, USA | 2022-04-09 21:55:19 |
+| [Benavidez Fire](https://inciweb.nwcg.gov/incident/8054/) | 50 Acres | Texas, USA | 2022-04-09 19:46:20 |
 | [Overflow Fire](https://inciweb.nwcg.gov/incident/8053/) | 1900 Acres | New Mexico, USA | 2022-04-09 19:10:35 |
 | [Bitterroot Spring RX Fire 2022](https://inciweb.nwcg.gov/incident/8024/) | 0 Acres | Montana, USA | 2022-04-09 19:00:36 |
-| [Bull Creek](https://inciweb.nwcg.gov/incident/8056/) | 500 Acres | Texas, USA | 2022-04-09 18:53:09 |
 | [Cashew Fire ](https://inciweb.nwcg.gov/incident/8055/) | 130 Acres | Texas, USA | 2022-04-09 16:46:34 |
-| [Benavidez Fire](https://inciweb.nwcg.gov/incident/8054/) | 45 Acres | Texas, USA | 2022-04-09 15:59:24 |
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 350 Acres | New Mexico, USA | 2022-04-09 15:02:34 |
-| [Britt Fire](https://inciweb.nwcg.gov/incident/8051/) | 8152 Acres | Texas, USA | 2022-04-09 10:02:35 |
 | [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-04-08 19:53:33 |
 | [Spring 2022 Prescribed Fire](https://inciweb.nwcg.gov/incident/7992/) | 0 Acres | Colorado, USA | 2022-04-08 12:36:22 |
 | [Singing Yucca](https://inciweb.nwcg.gov/incident/8050/) | 701 Acres | Texas, USA | 2022-04-07 19:23:26 |

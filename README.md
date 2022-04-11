@@ -4,8 +4,8 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 540 Acres | New Mexico, USA | 2022-04-10 19:44:07 |
-| [Training Area 23 Fire](https://inciweb.nwcg.gov/incident/8057/) | 2803 Acres | Texas, USA | 2022-04-10 18:22:14 |
+| [Training Area 23 Fire](https://inciweb.nwcg.gov/incident/8057/) | 2803 Acres | Texas, USA | 2022-04-10 21:23:02 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 540 Acres | New Mexico, USA | 2022-04-10 19:53:23 |
 | [Cashew Fire ](https://inciweb.nwcg.gov/incident/8055/) | 650 Acres | Texas, USA | 2022-04-10 17:15:40 |
 | [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-04-10 16:28:56 |
 | [Overflow Fire](https://inciweb.nwcg.gov/incident/8053/) | 1900 Acres | New Mexico, USA | 2022-04-10 11:39:18 |

@@ -4,8 +4,8 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Big Hole Fire](https://inciweb.nwcg.gov/incident/8059/) | 300 Acres | New Mexico, USA | 2022-04-11 23:37:23 |
 | [Burke Fire](https://inciweb.nwcg.gov/incident/8058/) | 400 Acres | Texas, USA | 2022-04-11 19:26:55 |
-| [Big Hole Fire](https://inciweb.nwcg.gov/incident/8059/) | 60 Acres | New Mexico, USA | 2022-04-11 17:21:38 |
 | [Training Area 23 Fire](https://inciweb.nwcg.gov/incident/8057/) | 3005 Acres | Texas, USA | 2022-04-11 15:31:50 |
 | [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 748 Acres | New Mexico, USA | 2022-04-11 14:52:35 |
 | [Overflow Fire](https://inciweb.nwcg.gov/incident/8053/) | 1900 Acres | New Mexico, USA | 2022-04-11 12:10:13 |

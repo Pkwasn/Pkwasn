@@ -4,13 +4,17 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Big Hole Fire](https://inciweb.nwcg.gov/incident/8059/) | 300 Acres | New Mexico, USA | 2022-04-11 23:37:23 |
-| [Burke Fire](https://inciweb.nwcg.gov/incident/8058/) | 400 Acres | Texas, USA | 2022-04-11 19:26:55 |
-| [Training Area 23 Fire](https://inciweb.nwcg.gov/incident/8057/) | 3005 Acres | Texas, USA | 2022-04-11 15:31:50 |
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 748 Acres | New Mexico, USA | 2022-04-11 14:52:35 |
-| [Overflow Fire](https://inciweb.nwcg.gov/incident/8053/) | 1900 Acres | New Mexico, USA | 2022-04-11 12:10:13 |
+| [Nogal Canyon Fire](https://inciweb.nwcg.gov/incident/8062/) | 100 Acres | New Mexico, USA | 2022-04-12 19:48:13 |
+| [McBride Fire](https://inciweb.nwcg.gov/incident/8061/) | 3000 Acres | New Mexico, USA | 2022-04-12 19:30:58 |
+| [Research Fire](https://inciweb.nwcg.gov/incident/8060/) | 50 Acres | Texas, USA | 2022-04-12 16:46:48 |
+| [Overflow Fire](https://inciweb.nwcg.gov/incident/8053/) | 1900 Acres | New Mexico, USA | 2022-04-12 16:30:18 |
+| [Big Hole Fire](https://inciweb.nwcg.gov/incident/8059/) | 850 Acres | New Mexico, USA | 2022-04-12 15:10:07 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 1280 Acres | New Mexico, USA | 2022-04-12 14:51:45 |
+| [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-04-12 14:43:46 |
+| [Burke Fire](https://inciweb.nwcg.gov/incident/8058/) | 400 Acres | Texas, USA | 2022-04-12 14:30:22 |
+| [Training Area 23 Fire](https://inciweb.nwcg.gov/incident/8057/) | 3005 Acres | Texas, USA | 2022-04-12 12:02:29 |
+| [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-04-12 11:26:51 |
 | [Cashew Fire ](https://inciweb.nwcg.gov/incident/8055/) | 650 Acres | Texas, USA | 2022-04-10 17:15:40 |
-| [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-04-10 16:28:56 |
 | [Britt Fire](https://inciweb.nwcg.gov/incident/8051/) | 8000 Acres | Texas, USA | 2022-04-09 23:22:55 |
 | [Bull Creek](https://inciweb.nwcg.gov/incident/8056/) | 500 Acres | Texas, USA | 2022-04-09 21:55:19 |
 | [Benavidez Fire](https://inciweb.nwcg.gov/incident/8054/) | 50 Acres | Texas, USA | 2022-04-09 19:46:20 |
@@ -20,7 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [Borrega Fire](https://inciweb.nwcg.gov/incident/8043/) | 51566 Acres | Texas, USA | 2022-04-06 08:58:03 |
 | [Adrian Fire](https://inciweb.nwcg.gov/incident/8047/) | 530 Acres | Texas, USA | 2022-04-06 08:31:17 |
 | [Presumido Peak Fire](https://inciweb.nwcg.gov/incident/8036/) | 2591 Acres | Arizona, USA | 2022-04-05 11:48:47 |
-| [Das Goat Fire](https://inciweb.nwcg.gov/incident/8030/) | 1092 Acres | Texas, USA | 2022-04-02 20:02:11 |
-| [Ramsey Fire](https://inciweb.nwcg.gov/incident/8020/) | 3456 Acres | Texas, USA | 2022-04-02 09:42:50 |
-| [Kaibab NF South Zone Rx Fire](https://inciweb.nwcg.gov/incident/5922/) | 0 Acres | Arizona, USA | 2022-04-01 17:18:52 |
-| [Nunn Fire](https://inciweb.nwcg.gov/incident/8038/) | 1121 Acres | Texas, USA | 2022-03-31 17:41:11 |

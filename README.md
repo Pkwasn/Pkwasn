@@ -4,10 +4,10 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Nogal Canyon Fire](https://inciweb.nwcg.gov/incident/8062/) | 354 Acres | New Mexico, USA | 2022-04-13 18:58:54 |
-| [Side Oats](https://inciweb.nwcg.gov/incident/8063/) | 800 Acres | Texas, USA | 2022-04-13 18:58:29 |
+| [Nogal Canyon Fire](https://inciweb.nwcg.gov/incident/8062/) | 354 Acres | New Mexico, USA | 2022-04-13 23:42:10 |
+| [McBride Fire](https://inciweb.nwcg.gov/incident/8061/) | 4132 Acres | New Mexico, USA | 2022-04-13 22:23:29 |
+| [Side Oats](https://inciweb.nwcg.gov/incident/8063/) | 1477 Acres | Texas, USA | 2022-04-13 20:56:50 |
 | [Animas City Mountain Prescribed Burn](https://inciweb.nwcg.gov/incident/7688/) | 0 Acres | Colorado, USA | 2022-04-13 18:55:21 |
-| [McBride Fire](https://inciweb.nwcg.gov/incident/8061/) | 4132 Acres | New Mexico, USA | 2022-04-13 18:18:15 |
 | [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 6276 Acres | New Mexico, USA | 2022-04-13 17:45:14 |
 | [Big Hole Fire](https://inciweb.nwcg.gov/incident/8059/) | 900 Acres | New Mexico, USA | 2022-04-13 14:55:08 |
 | [Research Fire](https://inciweb.nwcg.gov/incident/8060/) | 61 Acres | Texas, USA | 2022-04-13 13:32:44 |

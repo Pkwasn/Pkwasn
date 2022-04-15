@@ -4,15 +4,15 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Nogal Canyon Fire](https://inciweb.nwcg.gov/incident/8062/) | 354 Acres | New Mexico, USA | 2022-04-13 23:42:10 |
-| [McBride Fire](https://inciweb.nwcg.gov/incident/8061/) | 4132 Acres | New Mexico, USA | 2022-04-13 22:23:29 |
+| [Big Hole Fire](https://inciweb.nwcg.gov/incident/8059/) | 890 Acres | New Mexico, USA | 2022-04-14 19:03:51 |
+| [Nogal Canyon Fire](https://inciweb.nwcg.gov/incident/8062/) | 394 Acres | New Mexico, USA | 2022-04-14 18:35:09 |
+| [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-04-14 17:49:33 |
+| [McBride Fire](https://inciweb.nwcg.gov/incident/8061/) | 5736 Acres | New Mexico, USA | 2022-04-14 13:45:43 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 7077 Acres | New Mexico, USA | 2022-04-14 13:39:41 |
 | [Side Oats](https://inciweb.nwcg.gov/incident/8063/) | 1477 Acres | Texas, USA | 2022-04-13 20:56:50 |
 | [Animas City Mountain Prescribed Burn](https://inciweb.nwcg.gov/incident/7688/) | 0 Acres | Colorado, USA | 2022-04-13 18:55:21 |
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 6276 Acres | New Mexico, USA | 2022-04-13 17:45:14 |
-| [Big Hole Fire](https://inciweb.nwcg.gov/incident/8059/) | 900 Acres | New Mexico, USA | 2022-04-13 14:55:08 |
 | [Research Fire](https://inciweb.nwcg.gov/incident/8060/) | 61 Acres | Texas, USA | 2022-04-13 13:32:44 |
 | [Overflow Fire](https://inciweb.nwcg.gov/incident/8053/) | 1900 Acres | New Mexico, USA | 2022-04-13 11:15:59 |
-| [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-04-12 14:43:46 |
 | [Burke Fire](https://inciweb.nwcg.gov/incident/8058/) | 400 Acres | Texas, USA | 2022-04-12 14:30:22 |
 | [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-04-12 11:26:51 |
 | [Cashew Fire ](https://inciweb.nwcg.gov/incident/8055/) | 650 Acres | Texas, USA | 2022-04-10 17:15:40 |

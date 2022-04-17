@@ -4,10 +4,10 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Nogal Canyon Fire](https://inciweb.nwcg.gov/incident/8062/) | 433 Acres | New Mexico, USA | 2022-04-15 22:35:40 |
-| [McBride Fire](https://inciweb.nwcg.gov/incident/8061/) | 6185 Acres | New Mexico, USA | 2022-04-15 22:29:24 |
-| [Big Hole Fire](https://inciweb.nwcg.gov/incident/8059/) | 890 Acres | New Mexico, USA | 2022-04-15 19:54:14 |
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 7081 Acres | New Mexico, USA | 2022-04-15 16:02:10 |
+| [McBride Fire](https://inciweb.nwcg.gov/incident/8061/) | 6185 Acres | New Mexico, USA | 2022-04-16 19:49:59 |
+| [Nogal Canyon Fire](https://inciweb.nwcg.gov/incident/8062/) | 433 Acres | New Mexico, USA | 2022-04-16 19:30:35 |
+| [Big Hole Fire](https://inciweb.nwcg.gov/incident/8059/) | 890 Acres | New Mexico, USA | 2022-04-16 17:59:48 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 7381 Acres | New Mexico, USA | 2022-04-16 16:52:32 |
 | [Mesa Re-Entry Rx Fire](https://inciweb.nwcg.gov/incident/8064/) | 0 Acres | Arizona, USA | 2022-04-15 10:50:35 |
 | [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-04-15 06:26:48 |
 | [Side Oats](https://inciweb.nwcg.gov/incident/8063/) | 1477 Acres | Texas, USA | 2022-04-13 20:56:50 |

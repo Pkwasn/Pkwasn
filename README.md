@@ -4,8 +4,8 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Nogal Canyon Fire](https://inciweb.nwcg.gov/incident/8062/) | 433 Acres | New Mexico, USA | 2022-04-17 14:12:39 |
-| [McBride Fire](https://inciweb.nwcg.gov/incident/8061/) | 6185 Acres | New Mexico, USA | 2022-04-17 14:07:29 |
+| [McBride Fire](https://inciweb.nwcg.gov/incident/8061/) | 6159 Acres | New Mexico, USA | 2022-04-17 21:29:54 |
+| [Nogal Canyon Fire](https://inciweb.nwcg.gov/incident/8062/) | 412 Acres | New Mexico, USA | 2022-04-17 21:09:58 |
 | [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 7514 Acres | New Mexico, USA | 2022-04-17 12:09:43 |
 | [Big Hole Fire](https://inciweb.nwcg.gov/incident/8059/) | 890 Acres | New Mexico, USA | 2022-04-17 10:06:06 |
 | [Mesa Re-Entry Rx Fire](https://inciweb.nwcg.gov/incident/8064/) | 0 Acres | Arizona, USA | 2022-04-15 10:50:35 |

@@ -4,7 +4,7 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 0 Acres | Arizona, USA | 2022-04-18 19:54:41 |
+| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 500 Acres | Arizona, USA | 2022-04-18 23:08:39 |
 | [Tiger Fire](https://inciweb.nwcg.gov/incident/7595/) | 16278 Acres | Arizona, USA | 2022-04-18 19:51:36 |
 | [McBride Fire](https://inciweb.nwcg.gov/incident/8061/) | 6159 Acres | New Mexico, USA | 2022-04-18 19:43:30 |
 | [Nogal Canyon Fire](https://inciweb.nwcg.gov/incident/8062/) | 412 Acres | New Mexico, USA | 2022-04-18 19:11:15 |

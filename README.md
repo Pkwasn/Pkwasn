@@ -4,15 +4,15 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 500 Acres | Arizona, USA | 2022-04-18 23:08:39 |
+| [Tunnel Fire](https://inciweb.nwcg.gov/incident/8068/) | 6000 Acres | Arizona, USA | 2022-04-19 19:05:44 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 7581 Acres | New Mexico, USA | 2022-04-19 18:38:46 |
+| [Nina Lucia Fire](https://inciweb.nwcg.gov/incident/8065/) | 564 Acres | Texas, USA | 2022-04-19 15:24:26 |
+| [Nogal Canyon Fire](https://inciweb.nwcg.gov/incident/8062/) | 412 Acres | New Mexico, USA | 2022-04-19 13:13:59 |
+| [McBride Fire](https://inciweb.nwcg.gov/incident/8061/) | 6159 Acres | New Mexico, USA | 2022-04-19 13:13:08 |
+| [Big Hole Fire](https://inciweb.nwcg.gov/incident/8059/) | 890 Acres | New Mexico, USA | 2022-04-19 12:54:00 |
+| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 2209 Acres | New Mexico, USA | 2022-04-19 12:51:21 |
+| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 600 Acres | Arizona, USA | 2022-04-19 12:21:47 |
 | [Tiger Fire](https://inciweb.nwcg.gov/incident/7595/) | 16278 Acres | Arizona, USA | 2022-04-18 19:51:36 |
-| [McBride Fire](https://inciweb.nwcg.gov/incident/8061/) | 6159 Acres | New Mexico, USA | 2022-04-18 19:43:30 |
-| [Nogal Canyon Fire](https://inciweb.nwcg.gov/incident/8062/) | 412 Acres | New Mexico, USA | 2022-04-18 19:11:15 |
-| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 2209 Acres | New Mexico, USA | 2022-04-18 18:00:33 |
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 7545 Acres | New Mexico, USA | 2022-04-18 11:47:36 |
-| [Nina Lucia Fire](https://inciweb.nwcg.gov/incident/8065/) | 650 Acres | Texas, USA | 2022-04-18 10:55:40 |
-| [Big Hole Fire](https://inciweb.nwcg.gov/incident/8059/) | 890 Acres | New Mexico, USA | 2022-04-17 10:06:06 |
-| [Mesa Re-Entry Rx Fire](https://inciweb.nwcg.gov/incident/8064/) | 0 Acres | Arizona, USA | 2022-04-15 10:50:35 |
 | [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-04-15 06:26:48 |
 | [Side Oats](https://inciweb.nwcg.gov/incident/8063/) | 1477 Acres | Texas, USA | 2022-04-13 20:56:50 |
 | [Animas City Mountain Prescribed Burn](https://inciweb.nwcg.gov/incident/7688/) | 0 Acres | Colorado, USA | 2022-04-13 18:55:21 |

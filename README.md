@@ -4,14 +4,15 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Tunnel Fire](https://inciweb.nwcg.gov/incident/8068/) | 6000 Acres | Arizona, USA | 2022-04-19 19:05:44 |
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 7581 Acres | New Mexico, USA | 2022-04-19 18:38:46 |
+| [Tunnel Fire](https://inciweb.nwcg.gov/incident/8068/) | 6000 Acres | Arizona, USA | 2022-04-20 01:55:52 |
+| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 1600 Acres | Arizona, USA | 2022-04-20 00:18:08 |
+| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 3500 Acres | New Mexico, USA | 2022-04-19 23:16:24 |
+| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 300 Acres | New Mexico, USA | 2022-04-19 22:45:20 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 7581 Acres | New Mexico, USA | 2022-04-19 22:42:52 |
 | [Nina Lucia Fire](https://inciweb.nwcg.gov/incident/8065/) | 564 Acres | Texas, USA | 2022-04-19 15:24:26 |
 | [Nogal Canyon Fire](https://inciweb.nwcg.gov/incident/8062/) | 412 Acres | New Mexico, USA | 2022-04-19 13:13:59 |
 | [McBride Fire](https://inciweb.nwcg.gov/incident/8061/) | 6159 Acres | New Mexico, USA | 2022-04-19 13:13:08 |
 | [Big Hole Fire](https://inciweb.nwcg.gov/incident/8059/) | 890 Acres | New Mexico, USA | 2022-04-19 12:54:00 |
-| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 2209 Acres | New Mexico, USA | 2022-04-19 12:51:21 |
-| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 600 Acres | Arizona, USA | 2022-04-19 12:21:47 |
 | [Tiger Fire](https://inciweb.nwcg.gov/incident/7595/) | 16278 Acres | Arizona, USA | 2022-04-18 19:51:36 |
 | [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-04-15 06:26:48 |
 | [Side Oats](https://inciweb.nwcg.gov/incident/8063/) | 1477 Acres | Texas, USA | 2022-04-13 20:56:50 |
@@ -23,4 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [Bitterroot Spring RX Fire 2022](https://inciweb.nwcg.gov/incident/8024/) | 0 Acres | Montana, USA | 2022-04-09 19:00:36 |
 | [Daniel's Ranch RX](https://inciweb.nwcg.gov/incident/8048/) | 33 Acres | Texas, USA | 2022-04-06 13:06:38 |
 | [Presumido Peak Fire](https://inciweb.nwcg.gov/incident/8036/) | 2591 Acres | Arizona, USA | 2022-04-05 11:48:47 |
-| [Kaibab NF South Zone Rx Fire](https://inciweb.nwcg.gov/incident/5922/) | 0 Acres | Arizona, USA | 2022-04-01 17:18:52 |

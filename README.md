@@ -4,14 +4,14 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 7573 Acres | New Mexico, USA | 2022-04-21 18:47:19 |
-| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 123 Acres | New Mexico, USA | 2022-04-21 18:43:58 |
-| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 2000 Acres | Arizona, USA | 2022-04-21 18:13:42 |
+| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 21200 Acres | New Mexico, USA | 2022-04-21 23:20:20 |
+| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 3000 Acres | New Mexico, USA | 2022-04-21 23:18:17 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 7573 Acres | New Mexico, USA | 2022-04-21 23:16:27 |
+| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 2356 Acres | Arizona, USA | 2022-04-21 22:17:11 |
+| [Horseshoe Fire](https://inciweb.nwcg.gov/incident/8071/) | 400 Acres | Texas, USA | 2022-04-21 22:05:26 |
+| [Tunnel Fire](https://inciweb.nwcg.gov/incident/8068/) | 20198 Acres | Arizona, USA | 2022-04-21 22:02:53 |
 | [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-04-21 17:01:22 |
 | [Animas City Mountain Prescribed Burn](https://inciweb.nwcg.gov/incident/7688/) | 0 Acres | Colorado, USA | 2022-04-21 17:00:45 |
-| [Tunnel Fire](https://inciweb.nwcg.gov/incident/8068/) | 20511 Acres | Arizona, USA | 2022-04-21 15:29:20 |
-| [Horseshoe Fire](https://inciweb.nwcg.gov/incident/8071/) | 400 Acres | Texas, USA | 2022-04-21 15:19:48 |
-| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 21200 Acres | New Mexico, USA | 2022-04-21 14:38:38 |
 | [South Rim Too](https://inciweb.nwcg.gov/incident/8070/) | 30 Acres | Texas, USA | 2022-04-21 14:24:26 |
 | [Nina Lucia Fire](https://inciweb.nwcg.gov/incident/8065/) | 564 Acres | Texas, USA | 2022-04-21 08:39:57 |
 | [Nogal Canyon Fire](https://inciweb.nwcg.gov/incident/8062/) | 412 Acres | New Mexico, USA | 2022-04-20 21:47:56 |

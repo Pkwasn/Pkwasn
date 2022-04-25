@@ -4,14 +4,14 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Little Highline Fire](https://inciweb.nwcg.gov/incident/8079/) | 27000 Acres | Texas, USA | 2022-04-24 18:38:44 |
-| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 48672 Acres | New Mexico, USA | 2022-04-24 18:33:41 |
-| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 3091 Acres | Arizona, USA | 2022-04-24 18:23:26 |
+| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 4688 Acres | New Mexico, USA | 2022-04-25 07:12:26 |
+| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 3914 Acres | Arizona, USA | 2022-04-24 23:10:41 |
+| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 51982 Acres | New Mexico, USA | 2022-04-24 22:10:43 |
+| [Little Highline Fire](https://inciweb.nwcg.gov/incident/8079/) | 25609 Acres | Texas, USA | 2022-04-24 20:39:24 |
 | [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 54004 Acres | New Mexico, USA | 2022-04-24 17:56:56 |
 | [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 54004 Acres | New Mexico, USA | 2022-04-24 17:55:49 |
 | [Mitchell Fire](https://inciweb.nwcg.gov/incident/8077/) | 25000 Acres | New Mexico, USA | 2022-04-24 15:37:58 |
 | [McBride Fire](https://inciweb.nwcg.gov/incident/8061/) | 6159 Acres | New Mexico, USA | 2022-04-24 14:37:49 |
-| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 3445 Acres | New Mexico, USA | 2022-04-24 14:08:52 |
 | [Tunnel Fire](https://inciweb.nwcg.gov/incident/8068/) | 21164 Acres | Arizona, USA | 2022-04-24 11:47:23 |
 | [Simona Fire](https://inciweb.nwcg.gov/incident/8078/) | 165 Acres | New Mexico, USA | 2022-04-24 11:28:10 |
 | [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-04-24 10:17:01 |

@@ -4,13 +4,13 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 5485 Acres | New Mexico, USA | 2022-04-27 06:16:56 |
+| [Tunnel Fire](https://inciweb.nwcg.gov/incident/8068/) | 19344 Acres | Arizona, USA | 2022-04-26 23:37:16 |
+| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 8018 Acres | Arizona, USA | 2022-04-26 23:07:44 |
+| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 55172 Acres | New Mexico, USA | 2022-04-26 21:07:19 |
+| [Nogal Canyon Post-Fire BAER](https://inciweb.nwcg.gov/incident/8072/) | 0 Acres | New Mexico, USA | 2022-04-26 20:29:25 |
 | [Locklin Fire](https://inciweb.nwcg.gov/incident/8083/) | 106 Acres | Arizona, USA | 2022-04-26 19:40:59 |
-| [Tunnel Fire](https://inciweb.nwcg.gov/incident/8068/) | 21215 Acres | Arizona, USA | 2022-04-26 19:02:55 |
 | [Road 702 Fire](https://inciweb.nwcg.gov/incident/8081/) | 41448 Acres | Nebraska, USA | 2022-04-26 18:28:30 |
-| [Nogal Canyon Post-Fire BAER](https://inciweb.nwcg.gov/incident/8072/) | 0 Acres | New Mexico, USA | 2022-04-26 18:13:23 |
-| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 5485 Acres | New Mexico, USA | 2022-04-26 18:12:13 |
-| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 6454 Acres | Arizona, USA | 2022-04-26 17:48:51 |
-| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 54021 Acres | New Mexico, USA | 2022-04-26 16:53:23 |
 | [Horseshoe Fire](https://inciweb.nwcg.gov/incident/8071/) | 553 Acres | Texas, USA | 2022-04-26 16:52:09 |
 | [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 60173 Acres | New Mexico, USA | 2022-04-26 16:29:02 |
 | [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 60173 Acres | New Mexico, USA | 2022-04-26 15:52:03 |

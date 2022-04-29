@@ -4,14 +4,14 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Tunnel Fire](https://inciweb.nwcg.gov/incident/8068/) | 19075 Acres | Arizona, USA | 2022-04-28 19:47:26 |
-| [McBride Post-Fire BAER](https://inciweb.nwcg.gov/incident/8080/) | 0 Acres | New Mexico, USA | 2022-04-28 19:43:31 |
-| [Road 702 Fire](https://inciweb.nwcg.gov/incident/8081/) | 44024 Acres | Nebraska, USA | 2022-04-28 18:39:23 |
-| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 55199 Acres | New Mexico, USA | 2022-04-28 18:14:17 |
-| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 63720 Acres | New Mexico, USA | 2022-04-28 17:31:15 |
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 63720 Acres | New Mexico, USA | 2022-04-28 17:30:38 |
-| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 9014 Acres | Arizona, USA | 2022-04-28 16:03:43 |
-| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 6119 Acres | New Mexico, USA | 2022-04-28 15:54:53 |
+| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 6119 Acres | New Mexico, USA | 2022-04-29 07:15:30 |
+| [Tunnel Fire](https://inciweb.nwcg.gov/incident/8068/) | 19075 Acres | Arizona, USA | 2022-04-28 23:22:30 |
+| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 55931 Acres | New Mexico, USA | 2022-04-28 22:37:57 |
+| [Road 702 Fire](https://inciweb.nwcg.gov/incident/8081/) | 44024 Acres | Nebraska, USA | 2022-04-28 21:58:11 |
+| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 63720 Acres | New Mexico, USA | 2022-04-28 21:31:05 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 63720 Acres | New Mexico, USA | 2022-04-28 21:01:57 |
+| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 9196 Acres | Arizona, USA | 2022-04-28 20:57:38 |
+| [McBride Post-Fire BAER](https://inciweb.nwcg.gov/incident/8080/) | 0 Acres | New Mexico, USA | 2022-04-28 20:44:49 |
 | [Nogal Canyon Post-Fire BAER](https://inciweb.nwcg.gov/incident/8072/) | 0 Acres | New Mexico, USA | 2022-04-28 15:48:13 |
 | [Locklin Fire](https://inciweb.nwcg.gov/incident/8083/) | 112 Acres | Arizona, USA | 2022-04-28 11:39:40 |
 | [Buckaloons Prescribed Burn](https://inciweb.nwcg.gov/incident/8085/) | 78 Acres | Pennsylvania, USA | 2022-04-28 10:38:32 |

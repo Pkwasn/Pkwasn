@@ -4,16 +4,16 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Bear Trap Fire](https://inciweb.nwcg.gov/incident/8093/) | 1209 Acres | New Mexico, USA | 2022-05-02 19:27:20 |
-| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 17885 Acres | New Mexico, USA | 2022-05-02 17:55:07 |
+| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 17885 Acres | New Mexico, USA | 2022-05-03 07:15:26 |
+| [Tunnel Fire](https://inciweb.nwcg.gov/incident/8068/) | 19075 Acres | Arizona, USA | 2022-05-02 21:45:23 |
+| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 59076 Acres | New Mexico, USA | 2022-05-02 21:06:44 |
+| [Bear Trap Fire - Magdalena Ranger Distri](https://inciweb.nwcg.gov/incident/8093/) | 1209 Acres | New Mexico, USA | 2022-05-02 20:13:59 |
 | [Skiles 429 Fire](https://inciweb.nwcg.gov/incident/8092/) | 1312 Acres | New Mexico, USA | 2022-05-02 16:42:39 |
 | [Tunnel Fire BAER](https://inciweb.nwcg.gov/incident/8088/) | 19075 Acres | Arizona, USA | 2022-05-02 15:37:36 |
 | [Nogal Canyon Fire](https://inciweb.nwcg.gov/incident/8062/) | 412 Acres | New Mexico, USA | 2022-05-02 15:11:57 |
 | [Water Fire](https://inciweb.nwcg.gov/incident/8089/) | 765 Acres | New Mexico, USA | 2022-05-02 13:15:17 |
 | [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 120653 Acres | New Mexico, USA | 2022-05-02 13:09:52 |
 | [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 120653 Acres | New Mexico, USA | 2022-05-02 12:56:15 |
-| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 59065 Acres | New Mexico, USA | 2022-05-02 12:45:39 |
-| [Tunnel Fire](https://inciweb.nwcg.gov/incident/8068/) | 19075 Acres | Arizona, USA | 2022-05-02 12:02:55 |
 | [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 9402 Acres | Arizona, USA | 2022-05-02 11:43:17 |
 | [Locklin Fire](https://inciweb.nwcg.gov/incident/8083/) | 112 Acres | Arizona, USA | 2022-04-30 18:08:18 |
 | [Big Mountain Unit 1 Prescribed Burn](https://inciweb.nwcg.gov/incident/8082/) | 0 Acres | West Virginia, USA | 2022-04-30 16:32:16 |

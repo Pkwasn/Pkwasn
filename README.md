@@ -4,18 +4,18 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 59359 Acres | New Mexico, USA | 2022-05-04 19:46:28 |
+| [Bear Trap Fire - Magdalena Ranger Distri](https://inciweb.nwcg.gov/incident/8093/) | 2309 Acres | New Mexico, USA | 2022-05-05 06:28:51 |
+| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 59359 Acres | New Mexico, USA | 2022-05-04 22:50:43 |
+| [Smoke Stack Lightning Fire](https://inciweb.nwcg.gov/incident/8094/) | 14898 Acres | Texas, USA | 2022-05-04 22:15:07 |
+| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 160104 Acres | New Mexico, USA | 2022-05-04 22:06:26 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 160104 Acres | New Mexico, USA | 2022-05-04 21:43:49 |
+| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 9402 Acres | Arizona, USA | 2022-05-04 20:12:17 |
 | [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 26927 Acres | New Mexico, USA | 2022-05-04 19:37:20 |
 | [GWJ National Forest Prescribed Burns](https://inciweb.nwcg.gov/incident/7945/) | 0 Acres | Virginia, USA | 2022-05-04 18:27:04 |
 | [Tunnel Fire BAER](https://inciweb.nwcg.gov/incident/8088/) | 19060 Acres | Arizona, USA | 2022-05-04 18:24:41 |
-| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 160104 Acres | New Mexico, USA | 2022-05-04 17:49:32 |
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 160104 Acres | New Mexico, USA | 2022-05-04 17:48:42 |
 | [Water Fire](https://inciweb.nwcg.gov/incident/8089/) | 765 Acres | New Mexico, USA | 2022-05-04 15:31:18 |
-| [Bear Trap Fire - Magdalena Ranger Distri](https://inciweb.nwcg.gov/incident/8093/) | 2309 Acres | New Mexico, USA | 2022-05-04 13:10:44 |
-| [Smoke Stack Lightning Fire](https://inciweb.nwcg.gov/incident/8094/) | 14500 Acres | Texas, USA | 2022-05-04 13:08:40 |
 | [Tunnel Fire](https://inciweb.nwcg.gov/incident/8068/) | 19075 Acres | Arizona, USA | 2022-05-04 12:54:02 |
 | [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-05-04 12:32:47 |
-| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 9402 Acres | Arizona, USA | 2022-05-04 11:14:50 |
 | [Izenbrown Corners Prescribed Burn 2022](https://inciweb.nwcg.gov/incident/8087/) | 519 Acres | Pennsylvania, USA | 2022-05-03 14:30:54 |
 | [Nogal Canyon Post-Fire BAER](https://inciweb.nwcg.gov/incident/8072/) | 0 Acres | New Mexico, USA | 2022-05-03 14:17:55 |
 | [McBride Post-Fire BAER](https://inciweb.nwcg.gov/incident/8080/) | 0 Acres | New Mexico, USA | 2022-05-03 13:48:56 |

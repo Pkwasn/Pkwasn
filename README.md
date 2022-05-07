@@ -4,13 +4,13 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 168009 Acres | New Mexico, USA | 2022-05-06 19:49:37 |
-| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 168009 Acres | New Mexico, USA | 2022-05-06 19:48:49 |
-| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 59359 Acres | New Mexico, USA | 2022-05-06 19:43:56 |
-| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 32121 Acres | New Mexico, USA | 2022-05-06 16:11:05 |
+| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 33163 Acres | New Mexico, USA | 2022-05-07 07:02:22 |
+| [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 59359 Acres | New Mexico, USA | 2022-05-06 21:45:00 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 168009 Acres | New Mexico, USA | 2022-05-06 20:31:35 |
+| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 168009 Acres | New Mexico, USA | 2022-05-06 20:29:00 |
+| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 9402 Acres | Arizona, USA | 2022-05-06 20:05:51 |
 | [Bear Trap Fire - Magdalena Ranger Distri](https://inciweb.nwcg.gov/incident/8093/) | 3237 Acres | New Mexico, USA | 2022-05-06 12:06:11 |
 | [Fenced Units Prescribed Fires](https://inciweb.nwcg.gov/incident/8098/) | 0 Acres | Pennsylvania, USA | 2022-05-06 11:10:02 |
-| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 9402 Acres | Arizona, USA | 2022-05-06 10:13:33 |
 | [Tunnel Fire BAER](https://inciweb.nwcg.gov/incident/8088/) | 19060 Acres | Arizona, USA | 2022-05-06 09:49:10 |
 | [Smoke Stack Lightning Fire](https://inciweb.nwcg.gov/incident/8094/) | 14898 Acres | Texas, USA | 2022-05-05 19:10:24 |
 | [Tunnel Fire](https://inciweb.nwcg.gov/incident/8068/) | 19060 Acres | Arizona, USA | 2022-05-05 13:11:03 |

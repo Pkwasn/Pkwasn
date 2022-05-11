@@ -4,14 +4,14 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 203920 Acres | New Mexico, USA | 2022-05-10 18:49:54 |
-| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 203920 Acres | New Mexico, USA | 2022-05-10 18:49:44 |
-| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 42491 Acres | New Mexico, USA | 2022-05-10 17:21:43 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 203920 Acres | New Mexico, USA | 2022-05-10 21:59:03 |
+| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 203920 Acres | New Mexico, USA | 2022-05-10 21:58:54 |
+| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 42491 Acres | New Mexico, USA | 2022-05-10 21:27:40 |
+| [Bear Trap Fire - Magdalena Ranger Distri](https://inciweb.nwcg.gov/incident/8093/) | 6655 Acres | New Mexico, USA | 2022-05-10 20:09:48 |
 | [Helium Fire](https://inciweb.nwcg.gov/incident/8101/) | 3264 Acres | Texas, USA | 2022-05-10 16:44:45 |
 | [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 59359 Acres | New Mexico, USA | 2022-05-10 15:04:52 |
 | [Tunnel Fire](https://inciweb.nwcg.gov/incident/8068/) | 19088 Acres | Arizona, USA | 2022-05-10 12:52:51 |
 | [San Rafael Fire ](https://inciweb.nwcg.gov/incident/8100/) | 11611 Acres | Arizona, USA | 2022-05-10 12:22:00 |
-| [Bear Trap Fire - Magdalena Ranger Distri](https://inciweb.nwcg.gov/incident/8093/) | 6655 Acres | New Mexico, USA | 2022-05-10 11:11:55 |
 | [Grissom Fire](https://inciweb.nwcg.gov/incident/8099/) | 1552 Acres | Texas, USA | 2022-05-09 22:40:54 |
 | [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 9402 Acres | Arizona, USA | 2022-05-09 19:28:08 |
 | [McBride Fire](https://inciweb.nwcg.gov/incident/8061/) | 6159 Acres | New Mexico, USA | 2022-05-09 16:47:11 |

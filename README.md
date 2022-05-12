@@ -4,10 +4,10 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 43376 Acres | New Mexico, USA | 2022-05-11 19:34:19 |
+| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 236939 Acres | New Mexico, USA | 2022-05-11 22:13:21 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 236939 Acres | New Mexico, USA | 2022-05-11 22:12:26 |
+| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 43376 Acres | New Mexico, USA | 2022-05-11 21:59:44 |
 | [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 59359 Acres | New Mexico, USA | 2022-05-11 17:49:07 |
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 236939 Acres | New Mexico, USA | 2022-05-11 17:30:20 |
-| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 236939 Acres | New Mexico, USA | 2022-05-11 17:29:41 |
 | [McBride Post-Fire BAER](https://inciweb.nwcg.gov/incident/8080/) | 0 Acres | New Mexico, USA | 2022-05-11 17:07:50 |
 | [Nogal Canyon Post-Fire BAER](https://inciweb.nwcg.gov/incident/8072/) | 0 Acres | New Mexico, USA | 2022-05-11 16:57:06 |
 | [Bear Trap Fire - Magdalena Ranger Distri](https://inciweb.nwcg.gov/incident/8093/) | 7249 Acres | New Mexico, USA | 2022-05-11 12:26:24 |

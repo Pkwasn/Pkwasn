@@ -4,12 +4,12 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Bear Trap Fire](https://inciweb.nwcg.gov/incident/8093/) | 9563 Acres | New Mexico, USA | 2022-05-14 20:01:29 |
-| [High Park Fire](https://inciweb.nwcg.gov/incident/8102/) | 1149 Acres | Colorado, USA | 2022-05-14 20:00:11 |
-| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 279868 Acres | New Mexico, USA | 2022-05-14 15:37:11 |
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 279868 Acres | New Mexico, USA | 2022-05-14 15:36:50 |
+| [Bear Trap Fire](https://inciweb.nwcg.gov/incident/8093/) | 9563 Acres | New Mexico, USA | 2022-05-15 07:01:56 |
+| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 45591 Acres | New Mexico, USA | 2022-05-14 20:45:48 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 279868 Acres | New Mexico, USA | 2022-05-14 20:31:19 |
+| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 279868 Acres | New Mexico, USA | 2022-05-14 20:29:16 |
+| [High Park Fire](https://inciweb.nwcg.gov/incident/8102/) | 1149 Acres | Colorado, USA | 2022-05-14 20:08:18 |
 | [Black Fire](https://inciweb.nwcg.gov/incident/8103/) | 1041 Acres | New Mexico, USA | 2022-05-14 14:11:48 |
-| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 45394 Acres | New Mexico, USA | 2022-05-14 12:22:45 |
 | [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 9402 Acres | Arizona, USA | 2022-05-13 19:18:05 |
 | [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 59359 Acres | New Mexico, USA | 2022-05-13 15:11:56 |
 | [San Rafael Fire ](https://inciweb.nwcg.gov/incident/8100/) | 11620 Acres | Arizona, USA | 2022-05-13 11:35:14 |

@@ -4,12 +4,13 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 288942 Acres | New Mexico, USA | 2022-05-15 16:34:36 |
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 288942 Acres | New Mexico, USA | 2022-05-15 16:33:21 |
+| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 288968 Acres | New Mexico, USA | 2022-05-15 23:46:12 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 288968 Acres | New Mexico, USA | 2022-05-15 23:36:57 |
+| [HermitsPeak +Calf Cyn BAER](https://inciweb.nwcg.gov/incident/8104/) | 0 Acres | New Mexico, USA | 2022-05-15 21:27:50 |
+| [High Park Fire](https://inciweb.nwcg.gov/incident/8102/) | 1149 Acres | Colorado, USA | 2022-05-15 21:13:05 |
+| [Bear Trap Fire](https://inciweb.nwcg.gov/incident/8093/) | 11550 Acres | New Mexico, USA | 2022-05-15 20:09:31 |
+| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 45602 Acres | New Mexico, USA | 2022-05-15 19:58:13 |
 | [Black Fire](https://inciweb.nwcg.gov/incident/8103/) | 1174 Acres | New Mexico, USA | 2022-05-15 15:47:24 |
-| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 45602 Acres | New Mexico, USA | 2022-05-15 14:00:30 |
-| [High Park Fire](https://inciweb.nwcg.gov/incident/8102/) | 1149 Acres | Colorado, USA | 2022-05-15 13:08:04 |
-| [Bear Trap Fire](https://inciweb.nwcg.gov/incident/8093/) | 11550 Acres | New Mexico, USA | 2022-05-15 11:55:09 |
 | [San Rafael Fire ](https://inciweb.nwcg.gov/incident/8100/) | 11620 Acres | Arizona, USA | 2022-05-15 11:14:52 |
 | [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 9402 Acres | Arizona, USA | 2022-05-13 19:18:05 |
 | [Cooks Peak](https://inciweb.nwcg.gov/incident/8066/) | 59359 Acres | New Mexico, USA | 2022-05-13 15:11:56 |
@@ -23,4 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [McBride Fire](https://inciweb.nwcg.gov/incident/8061/) | 6159 Acres | New Mexico, USA | 2022-05-09 16:47:11 |
 | [Bitterroot Spring RX Fire 2022](https://inciweb.nwcg.gov/incident/8024/) | 0 Acres | Montana, USA | 2022-05-09 11:07:02 |
 | [Water Fire](https://inciweb.nwcg.gov/incident/8089/) | 520 Acres | New Mexico, USA | 2022-05-07 14:39:16 |
-| [Tunnel Fire BAER](https://inciweb.nwcg.gov/incident/8088/) | 19060 Acres | Arizona, USA | 2022-05-07 08:00:34 |

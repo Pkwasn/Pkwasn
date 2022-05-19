@@ -4,23 +4,23 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Bear Trap Fire](https://inciweb.nwcg.gov/incident/8093/) | 17122 Acres | New Mexico, USA | 2022-05-18 06:51:10 |
-| [Slab Fire](https://inciweb.nwcg.gov/incident/8111/) | 50 Acres | Texas, USA | 2022-05-18 06:38:37 |
-| [Mayfield](https://inciweb.nwcg.gov/incident/8112/) | 1058 Acres | Texas, USA | 2022-05-17 23:07:23 |
-| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 45605 Acres | New Mexico, USA | 2022-05-17 22:26:04 |
-| [Bowman](https://inciweb.nwcg.gov/incident/8108/) | 100 Acres | Texas, USA | 2022-05-17 22:08:27 |
-| [Bowman](https://inciweb.nwcg.gov/incident/8110/) | 100 Acres | Texas, USA | 2022-05-17 22:06:08 |
-| [Coconut Fire](https://inciweb.nwcg.gov/incident/8109/) | 2000 Acres | Texas, USA | 2022-05-17 21:30:36 |
-| [Pope 2 Fire](https://inciweb.nwcg.gov/incident/8106/) | 1000 Acres | Texas, USA | 2022-05-17 21:19:14 |
-| [Johnson Fork Fire](https://inciweb.nwcg.gov/incident/8107/) | 66 Acres | Texas, USA | 2022-05-17 21:07:59 |
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 299565 Acres | New Mexico, USA | 2022-05-17 20:20:09 |
-| [High Park Fire](https://inciweb.nwcg.gov/incident/8102/) | 1573 Acres | Colorado, USA | 2022-05-17 19:48:21 |
-| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 299565 Acres | New Mexico, USA | 2022-05-17 17:17:01 |
-| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 9402 Acres | Arizona, USA | 2022-05-17 15:48:50 |
+| [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 45605 Acres | New Mexico, USA | 2022-05-18 20:00:03 |
+| [Dry Branch Fire](https://inciweb.nwcg.gov/incident/8115/) | 4000 Acres | Texas, USA | 2022-05-18 19:45:20 |
+| [High Park Fire](https://inciweb.nwcg.gov/incident/8102/) | 1573 Acres | Colorado, USA | 2022-05-18 19:35:12 |
+| [Mesquite Heat Fire](https://inciweb.nwcg.gov/incident/8108/) | 1500 Acres | Texas, USA | 2022-05-18 19:05:27 |
+| [Bear Trap Fire](https://inciweb.nwcg.gov/incident/8093/) | 17122 Acres | New Mexico, USA | 2022-05-18 18:39:57 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 301971 Acres | New Mexico, USA | 2022-05-18 18:32:34 |
+| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 301971 Acres | New Mexico, USA | 2022-05-18 18:31:06 |
+| [Coconut Fire](https://inciweb.nwcg.gov/incident/8109/) | 18000 Acres | Texas, USA | 2022-05-18 18:28:36 |
+| [Plumtaw Fire](https://inciweb.nwcg.gov/incident/8113/) | 613 Acres | Colorado, USA | 2022-05-18 18:09:33 |
+| [Bowman Fire](https://inciweb.nwcg.gov/incident/8110/) | 100 Acres | Texas, USA | 2022-05-18 17:49:00 |
+| [Sandstone Mountain Fire](https://inciweb.nwcg.gov/incident/8114/) | 350 Acres | Texas, USA | 2022-05-18 17:48:47 |
+| [Mayfield Fire](https://inciweb.nwcg.gov/incident/8112/) | 1058 Acres | Texas, USA | 2022-05-18 17:48:42 |
+| [Tunnel Fire](https://inciweb.nwcg.gov/incident/8068/) | 19088 Acres | Arizona, USA | 2022-05-18 15:49:21 |
+| [Slab Road Fire](https://inciweb.nwcg.gov/incident/8111/) | 57 Acres | Texas, USA | 2022-05-18 15:04:13 |
+| [Black Fire](https://inciweb.nwcg.gov/incident/8103/) | 77529 Acres | New Mexico, USA | 2022-05-18 14:56:32 |
+| [Crooks Fire](https://inciweb.nwcg.gov/incident/8067/) | 9402 Acres | Arizona, USA | 2022-05-18 11:29:22 |
+| [Johnson Fork Fire](https://inciweb.nwcg.gov/incident/8107/) | 66 Acres | Texas, USA | 2022-05-18 11:06:57 |
+| [Pope 2 Fire](https://inciweb.nwcg.gov/incident/8106/) | 2000 Acres | Texas, USA | 2022-05-18 10:56:02 |
 | [2022 Humboldt-Toiyabe Prescribed Fire](https://inciweb.nwcg.gov/incident/7310/) | 0 Acres | Nevada, USA | 2022-05-17 10:53:59 |
-| [Black Fire](https://inciweb.nwcg.gov/incident/8103/) | 56132 Acres | New Mexico, USA | 2022-05-17 10:52:21 |
 | [HermitsPeak +Calf Cyn BAER](https://inciweb.nwcg.gov/incident/8104/) | 0 Acres | New Mexico, USA | 2022-05-17 10:11:17 |
-| [McBride Post-Fire BAER](https://inciweb.nwcg.gov/incident/8080/) | 0 Acres | New Mexico, USA | 2022-05-16 19:58:40 |
-| [Nogal Canyon Post-Fire BAER](https://inciweb.nwcg.gov/incident/8072/) | 0 Acres | New Mexico, USA | 2022-05-16 19:55:07 |
-| [Tunnel Fire](https://inciweb.nwcg.gov/incident/8068/) | 19088 Acres | Arizona, USA | 2022-05-16 10:36:12 |
-| [San Rafael Fire ](https://inciweb.nwcg.gov/incident/8100/) | 11620 Acres | Arizona, USA | 2022-05-15 11:14:52 |

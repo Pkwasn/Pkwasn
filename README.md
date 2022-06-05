@@ -4,12 +4,12 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Black Fire](https://inciweb.nwcg.gov/incident/8103/) | 278188 Acres | New Mexico, USA | 2022-06-05 07:04:52 |
+| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 317138 Acres | New Mexico, USA | 2022-06-04 20:10:20 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 317138 Acres | New Mexico, USA | 2022-06-04 19:59:27 |
 | [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 45605 Acres | New Mexico, USA | 2022-06-04 19:20:38 |
 | [Menkhaven](https://inciweb.nwcg.gov/incident/8124/) | 242 Acres | Colorado, USA | 2022-06-04 19:17:06 |
 | [Contact Creek Fire](https://inciweb.nwcg.gov/incident/8131/) | 4953 Acres | Alaska, USA | 2022-06-04 18:33:00 |
-| [Black Fire](https://inciweb.nwcg.gov/incident/8103/) | 268218 Acres | New Mexico, USA | 2022-06-04 16:07:42 |
-| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 317138 Acres | New Mexico, USA | 2022-06-04 10:04:11 |
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 317138 Acres | New Mexico, USA | 2022-06-04 10:03:49 |
 | [Foster Fire ](https://inciweb.nwcg.gov/incident/8125/) | 7598 Acres | Arizona, USA | 2022-06-04 08:26:40 |
 | [Cerro Pelado Post-Fire BAER](https://inciweb.nwcg.gov/incident/8118/) | 0 Acres | New Mexico, USA | 2022-06-03 22:31:07 |
 | [Hermits Peak & Calf Canyon BAER](https://inciweb.nwcg.gov/incident/8104/) | 0 Acres | New Mexico, USA | 2022-06-03 22:29:27 |

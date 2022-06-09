@@ -4,6 +4,8 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Black Fire](https://inciweb.nwcg.gov/incident/8103/) | 298440 Acres | New Mexico, USA | 2022-06-09 07:18:35 |
+| [Cypress Mill Road](https://inciweb.nwcg.gov/incident/8137/) | 978 Acres | Texas, USA | 2022-06-08 20:47:06 |
 | [Cerro Pelado](https://inciweb.nwcg.gov/incident/8075/) | 45605 Acres | New Mexico, USA | 2022-06-08 19:47:25 |
 | [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 318599 Acres | New Mexico, USA | 2022-06-08 19:40:06 |
 | [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 318599 Acres | New Mexico, USA | 2022-06-08 19:37:48 |
@@ -12,12 +14,10 @@ This is automatically generated every 12 hours with Github Actions!
 | [Nogal Canyon Post-Fire BAER](https://inciweb.nwcg.gov/incident/8072/) | 0 Acres | New Mexico, USA | 2022-06-08 16:53:51 |
 | [McBride Post-Fire BAER](https://inciweb.nwcg.gov/incident/8080/) | 0 Acres | New Mexico, USA | 2022-06-08 16:52:18 |
 | [Cerro Pelado Post-Fire BAER](https://inciweb.nwcg.gov/incident/8118/) | 0 Acres | New Mexico, USA | 2022-06-08 16:49:56 |
-| [Black Fire](https://inciweb.nwcg.gov/incident/8103/) | 296895 Acres | New Mexico, USA | 2022-06-08 15:02:26 |
 | [Bear Trap Fire](https://inciweb.nwcg.gov/incident/8093/) | 38225 Acres | New Mexico, USA | 2022-06-08 15:00:02 |
 | [Whitworth](https://inciweb.nwcg.gov/incident/8134/) | 17 Acres | Texas, USA | 2022-06-08 14:32:47 |
 | [Gas Plant Road](https://inciweb.nwcg.gov/incident/8136/) | 148 Acres | Texas, USA | 2022-06-08 14:28:15 |
 | [Contact Creek Fire](https://inciweb.nwcg.gov/incident/8131/) | 8127 Acres | Alaska, USA | 2022-06-08 14:27:47 |
-| [Cypress Mill Road](https://inciweb.nwcg.gov/incident/8137/) | 940 Acres | Texas, USA | 2022-06-08 11:24:04 |
 | [Cienegita Fire](https://inciweb.nwcg.gov/incident/8132/) | 37 Acres | New Mexico, USA | 2022-06-07 20:29:39 |
 | [Lost Lake Fire](https://inciweb.nwcg.gov/incident/8122/) | 5856 Acres | Arizona, USA | 2022-06-07 18:12:26 |
 | [Lincoln Smith](https://inciweb.nwcg.gov/incident/8133/) | 119 Acres | Texas, USA | 2022-06-07 17:22:29 |

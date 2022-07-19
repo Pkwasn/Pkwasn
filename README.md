@@ -4,23 +4,23 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Becky Peak Fire](https://inciweb.nwcg.gov/incident/8210/) | 5989 Acres | Nevada, USA | 2022-07-18 19:57:16 |
-| [Nelson Creek Fire](https://inciweb.nwcg.gov/incident/8250/) | 850 Acres | Texas, USA | 2022-07-18 19:56:11 |
-| [Wildcat](https://inciweb.nwcg.gov/incident/8234/) | 21440 Acres | Nevada, USA | 2022-07-18 19:55:14 |
-| [Stanifer Branch Fire](https://inciweb.nwcg.gov/incident/8256/) | 100 Acres | Texas, USA | 2022-07-18 19:45:07 |
-| [1148 Fire](https://inciweb.nwcg.gov/incident/8251/) | 300 Acres | Texas, USA | 2022-07-18 19:44:49 |
-| [Committee Fire](https://inciweb.nwcg.gov/incident/8241/) | 300 Acres | Arizona, USA | 2022-07-18 19:35:58 |
-| [Moose Fire](https://inciweb.nwcg.gov/incident/8249/) | 1000 Acres | Idaho, USA | 2022-07-18 19:34:59 |
-| [Woodtick](https://inciweb.nwcg.gov/incident/8253/) | 25 Acres | Idaho, USA | 2022-07-18 19:00:31 |
-| [Halfway Hill Fire](https://inciweb.nwcg.gov/incident/8215/) | 11773 Acres | Utah, USA | 2022-07-18 18:27:57 |
-| [2022 Humboldt-Toiyabe Initial Attack](https://inciweb.nwcg.gov/incident/8170/) | 1 Acres | Nevada, USA | 2022-07-18 18:17:52 |
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 341735 Acres | New Mexico, USA | 2022-07-18 18:12:45 |
-| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 341735 Acres | New Mexico, USA | 2022-07-18 18:12:16 |
-| [Holly Fire](https://inciweb.nwcg.gov/incident/8242/) | 200 Acres | Texas, USA | 2022-07-18 18:02:18 |
-| [Washburn Fire](https://inciweb.nwcg.gov/incident/8209/) | 4911 Acres | California, USA | 2022-07-18 18:02:01 |
-| [Chalk Mountain](https://inciweb.nwcg.gov/incident/8255/) | 50 Acres | Texas, USA | 2022-07-18 17:58:51 |
-| [Hemple Drive](https://inciweb.nwcg.gov/incident/8254/) | 20 Acres | Texas, USA | 2022-07-18 17:33:44 |
-| [Landua](https://inciweb.nwcg.gov/incident/8248/) | 10 Acres | Texas, USA | 2022-07-18 17:22:37 |
-| [Jellison Fire](https://inciweb.nwcg.gov/incident/8227/) | 5 Acres | Montana, USA | 2022-07-18 17:17:14 |
-| [Dalton Highway Complex](https://inciweb.nwcg.gov/incident/8240/) | 89100 Acres | Alaska, USA | 2022-07-18 16:37:19 |
-| [Hidden Shores](https://inciweb.nwcg.gov/incident/8252/) | 103 Acres | Texas, USA | 2022-07-18 16:33:50 |
+| [Nelson Creek Fire](https://inciweb.nwcg.gov/incident/8250/) | 1500 Acres | Texas, USA | 2022-07-19 06:08:44 |
+| [Bean Complex](https://inciweb.nwcg.gov/incident/8183/) | 193668 Acres | Alaska, USA | 2022-07-19 01:31:09 |
+| [Clear Fire](https://inciweb.nwcg.gov/incident/8178/) | 72157 Acres | Alaska, USA | 2022-07-19 01:08:01 |
+| [Dalton Highway Complex](https://inciweb.nwcg.gov/incident/8240/) | 89100 Acres | Alaska, USA | 2022-07-19 00:51:36 |
+| [Hidden Shores Fire](https://inciweb.nwcg.gov/incident/8252/) | 103 Acres | Texas, USA | 2022-07-18 23:52:34 |
+| [Wilson Canyon Fire](https://inciweb.nwcg.gov/incident/8243/) | 115 Acres | Texas, USA | 2022-07-18 23:51:11 |
+| [Nethery Road Fire](https://inciweb.nwcg.gov/incident/8222/) | 3262 Acres | Texas, USA | 2022-07-18 23:50:57 |
+| [Hemple Drive Fire](https://inciweb.nwcg.gov/incident/8254/) | 15 Acres | Texas, USA | 2022-07-18 23:46:36 |
+| [Landua Fire](https://inciweb.nwcg.gov/incident/8248/) | 10 Acres | Texas, USA | 2022-07-18 23:45:14 |
+| [Honey Creek Fire](https://inciweb.nwcg.gov/incident/8245/) | 350 Acres | Texas, USA | 2022-07-18 23:44:49 |
+| [Washburn Fire](https://inciweb.nwcg.gov/incident/8209/) | 4911 Acres | California, USA | 2022-07-18 23:39:11 |
+| [King Creek Fire](https://inciweb.nwcg.gov/incident/8246/) | 452 Acres | Texas, USA | 2022-07-18 23:38:19 |
+| [Chalk Mountain Fire](https://inciweb.nwcg.gov/incident/8255/) | 1200 Acres | Texas, USA | 2022-07-18 23:35:38 |
+| [Stanifer Branch Fire](https://inciweb.nwcg.gov/incident/8256/) | 200 Acres | Texas, USA | 2022-07-18 23:25:27 |
+| [1148 Fire](https://inciweb.nwcg.gov/incident/8251/) | 500 Acres | Texas, USA | 2022-07-18 23:19:00 |
+| [Lime Complex](https://inciweb.nwcg.gov/incident/8173/) | 865620 Acres | Alaska, USA | 2022-07-18 23:18:51 |
+| [Jacob City](https://inciweb.nwcg.gov/incident/8224/) | 4185 Acres | Utah, USA | 2022-07-18 22:05:43 |
+| [Wildcat](https://inciweb.nwcg.gov/incident/8234/) | 21440 Acres | Nevada, USA | 2022-07-18 21:49:45 |
+| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 341735 Acres | New Mexico, USA | 2022-07-18 21:42:20 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 341735 Acres | New Mexico, USA | 2022-07-18 21:38:57 |

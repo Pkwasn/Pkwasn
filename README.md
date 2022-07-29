@@ -4,23 +4,23 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Moose Fire](https://inciweb.nwcg.gov/incident/8249/) | 40388 Acres | Idaho, USA | 2022-07-28 07:21:11 |
-| [Dodge Springs Fire](https://inciweb.nwcg.gov/incident/8268/) | 5635 Acres | Nevada, USA | 2022-07-28 07:18:36 |
-| [San Gabriel Fire](https://inciweb.nwcg.gov/incident/8271/) | 445 Acres | Texas, USA | 2022-07-28 06:49:19 |
-| [Chalk Mountain Fire](https://inciweb.nwcg.gov/incident/8255/) | 6746 Acres | Texas, USA | 2022-07-28 06:29:56 |
-| [Dalton Highway Complex](https://inciweb.nwcg.gov/incident/8240/) | 89100 Acres | Alaska, USA | 2022-07-28 00:54:36 |
-| [Washburn Fire](https://inciweb.nwcg.gov/incident/8209/) | 4883 Acres | California, USA | 2022-07-28 00:25:35 |
-| [Clear Fire](https://inciweb.nwcg.gov/incident/8178/) | 72188 Acres | Alaska, USA | 2022-07-28 00:13:17 |
-| [Washburn Post-Fire BAER](https://inciweb.nwcg.gov/incident/8272/) | 0 Acres | California, USA | 2022-07-27 23:22:31 |
-| [Bean Complex](https://inciweb.nwcg.gov/incident/8183/) | 196786 Acres | Alaska, USA | 2022-07-27 23:07:09 |
-| [Hog Trough Fire](https://inciweb.nwcg.gov/incident/8258/) | 587 Acres | Montana, USA | 2022-07-27 23:04:25 |
-| [Oak Fire](https://inciweb.nwcg.gov/incident/8280/) | 18824 Acres | California, USA | 2022-07-27 22:51:30 |
-| [Haywire Fire](https://inciweb.nwcg.gov/incident/8155/) | 5575 Acres | Arizona, USA | 2022-07-27 22:31:25 |
-| [Pipeline Fire](https://inciweb.nwcg.gov/incident/8152/) | 26532 Acres | Arizona, USA | 2022-07-27 22:31:09 |
-| [C3](https://inciweb.nwcg.gov/incident/8276/) | 1378 Acres | Arizona, USA | 2022-07-27 22:09:52 |
-| [Long Creek Fire](https://inciweb.nwcg.gov/incident/8282/) | 215 Acres | Texas, USA | 2022-07-27 21:30:47 |
-| [Ameritex](https://inciweb.nwcg.gov/incident/8283/) | 0 Acres | Texas, USA | 2022-07-27 21:25:56 |
-| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 341735 Acres | New Mexico, USA | 2022-07-27 20:08:56 |
-| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 341735 Acres | New Mexico, USA | 2022-07-27 20:08:40 |
-| [Sheep Post-Fire BAER](https://inciweb.nwcg.gov/incident/8261/) | 0 Acres | California, USA | 2022-07-27 19:33:43 |
-| [Halfway Hill Fire](https://inciweb.nwcg.gov/incident/8215/) | 11701 Acres | Utah, USA | 2022-07-27 18:45:46 |
+| [Moose Fire](https://inciweb.nwcg.gov/incident/8249/) | 40388 Acres | Idaho, USA | 2022-07-28 19:48:42 |
+| [Oak Fire](https://inciweb.nwcg.gov/incident/8280/) | 19156 Acres | California, USA | 2022-07-28 19:30:05 |
+| [Dodge Springs Fire](https://inciweb.nwcg.gov/incident/8268/) | 5635 Acres | Nevada, USA | 2022-07-28 18:48:44 |
+| [Ameritex](https://inciweb.nwcg.gov/incident/8283/) | 30 Acres | Texas, USA | 2022-07-28 18:24:04 |
+| [Chalk Mountain Fire](https://inciweb.nwcg.gov/incident/8255/) | 6746 Acres | Texas, USA | 2022-07-28 17:58:04 |
+| [Payette Wilderness Fires](https://inciweb.nwcg.gov/incident/8284/) | 33 Acres | Idaho, USA | 2022-07-28 17:05:22 |
+| [Halfway Hill Fire](https://inciweb.nwcg.gov/incident/8215/) | 11701 Acres | Utah, USA | 2022-07-28 16:42:00 |
+| [Clear Fire](https://inciweb.nwcg.gov/incident/8178/) | 72188 Acres | Alaska, USA | 2022-07-28 16:08:46 |
+| [Pine Peak Fire](https://inciweb.nwcg.gov/incident/8257/) | 1602 Acres | Arizona, USA | 2022-07-28 15:52:18 |
+| [Hog Trough Fire](https://inciweb.nwcg.gov/incident/8258/) | 592 Acres | Montana, USA | 2022-07-28 14:57:00 |
+| [Bean Complex](https://inciweb.nwcg.gov/incident/8183/) | 196786 Acres | Alaska, USA | 2022-07-28 13:29:04 |
+| [Clover Fire](https://inciweb.nwcg.gov/incident/8262/) | 798 Acres | Montana, USA | 2022-07-28 12:29:29 |
+| [Washburn Fire](https://inciweb.nwcg.gov/incident/8209/) | 4883 Acres | California, USA | 2022-07-28 12:13:26 |
+| [Sugarloaf Fire](https://inciweb.nwcg.gov/incident/8279/) | 510 Acres | Wyoming, USA | 2022-07-28 12:01:52 |
+| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 341735 Acres | New Mexico, USA | 2022-07-28 11:53:51 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 341735 Acres | New Mexico, USA | 2022-07-28 11:51:45 |
+| [Wolf Fang Fire](https://inciweb.nwcg.gov/incident/8273/) | 768 Acres | Idaho, USA | 2022-07-28 11:33:12 |
+| [Woodtick](https://inciweb.nwcg.gov/incident/8253/) | 1814 Acres | Idaho, USA | 2022-07-28 10:42:58 |
+| [Dragon Fire ](https://inciweb.nwcg.gov/incident/8266/) | 1375 Acres | Arizona, USA | 2022-07-28 10:22:13 |
+| [Honey Creek Fire](https://inciweb.nwcg.gov/incident/8245/) | 353 Acres | Texas, USA | 2022-07-28 10:16:55 |

@@ -4,23 +4,23 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Big Sky Fire](https://inciweb.nwcg.gov/incident/8296/) | 400 Acres | Texas, USA | 2022-08-02 20:00:03 |
-| [Moose Fire](https://inciweb.nwcg.gov/incident/8249/) | 58168 Acres | Idaho, USA | 2022-08-02 19:51:52 |
-| [Elmo Fire](https://inciweb.nwcg.gov/incident/8289/) | 16226 Acres | Montana, USA | 2022-08-02 19:51:11 |
-| [Bean Complex](https://inciweb.nwcg.gov/incident/8183/) | 197255 Acres | Alaska, USA | 2022-08-02 19:44:37 |
-| [Smoke Rider Fire](https://inciweb.nwcg.gov/incident/8295/) | 600 Acres | Texas, USA | 2022-08-02 19:32:02 |
+| [Moose Fire](https://inciweb.nwcg.gov/incident/8249/) | 58168 Acres | Idaho, USA | 2022-08-03 07:12:18 |
+| [Fish Fire](https://inciweb.nwcg.gov/incident/8294/) | 6476 Acres | Wyoming, USA | 2022-08-03 06:36:01 |
+| [Big Sky Fire](https://inciweb.nwcg.gov/incident/8296/) | 1400 Acres | Texas, USA | 2022-08-03 06:33:05 |
+| [Bean Complex](https://inciweb.nwcg.gov/incident/8183/) | 197255 Acres | Alaska, USA | 2022-08-02 23:36:25 |
+| [Yeti and Alex Fires](https://inciweb.nwcg.gov/incident/8299/) | 2329 Acres | California, USA | 2022-08-02 22:54:09 |
+| [Potter Fire](https://inciweb.nwcg.gov/incident/8291/) | 85 Acres | Oregon, USA | 2022-08-02 22:40:11 |
+| [Elmo Fire](https://inciweb.nwcg.gov/incident/8289/) | 16226 Acres | Montana, USA | 2022-08-02 22:31:00 |
+| [Oak Fire](https://inciweb.nwcg.gov/incident/8280/) | 19244 Acres | California, USA | 2022-08-02 22:28:11 |
+| [Windigo Fire](https://inciweb.nwcg.gov/incident/8292/) | 1200 Acres | Oregon, USA | 2022-08-02 22:24:05 |
+| [Blue Bluff ](https://inciweb.nwcg.gov/incident/8298/) | 60 Acres | Texas, USA | 2022-08-02 22:18:09 |
+| [McKinney Fire](https://inciweb.nwcg.gov/incident/8287/) | 56459 Acres | California, USA | 2022-08-02 22:09:05 |
+| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 341735 Acres | New Mexico, USA | 2022-08-02 21:32:00 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 341735 Acres | New Mexico, USA | 2022-08-02 21:31:47 |
+| [Smoke Rider Fire](https://inciweb.nwcg.gov/incident/8295/) | 800 Acres | Texas, USA | 2022-08-02 21:20:35 |
+| [Clover Fire](https://inciweb.nwcg.gov/incident/8262/) | 955 Acres | Montana, USA | 2022-08-02 20:53:19 |
+| [Sugarloaf Fire](https://inciweb.nwcg.gov/incident/8279/) | 699 Acres | Wyoming, USA | 2022-08-02 20:30:14 |
 | [Black Ranch Fire](https://inciweb.nwcg.gov/incident/8297/) | 13 Acres | Texas, USA | 2022-08-02 19:31:46 |
-| [Windigo Fire](https://inciweb.nwcg.gov/incident/8292/) | 1200 Acres | Oregon, USA | 2022-08-02 19:06:20 |
-| [Potter Fire](https://inciweb.nwcg.gov/incident/8291/) | 85 Acres | Oregon, USA | 2022-08-02 19:04:44 |
 | [Washburn Fire](https://inciweb.nwcg.gov/incident/8209/) | 4886 Acres | California, USA | 2022-08-02 18:52:43 |
-| [Sugarloaf Fire](https://inciweb.nwcg.gov/incident/8279/) | 699 Acres | Wyoming, USA | 2022-08-02 18:18:31 |
-| [McKinney Fire](https://inciweb.nwcg.gov/incident/8287/) | 56165 Acres | California, USA | 2022-08-02 18:12:16 |
 | [Chalk Mountain Fire](https://inciweb.nwcg.gov/incident/8255/) | 6755 Acres | Texas, USA | 2022-08-02 18:01:24 |
 | [Bear Trap Fire](https://inciweb.nwcg.gov/incident/8093/) | 38225 Acres | New Mexico, USA | 2022-08-02 16:59:59 |
-| [Hog Trough Fire](https://inciweb.nwcg.gov/incident/8258/) | 731 Acres | Montana, USA | 2022-08-02 16:40:37 |
-| [Fish Fire](https://inciweb.nwcg.gov/incident/8294/) | 6500 Acres | Wyoming, USA | 2022-08-02 16:14:51 |
-| [Oak Fire](https://inciweb.nwcg.gov/incident/8280/) | 19244 Acres | California, USA | 2022-08-02 16:12:12 |
-| [Payette Wilderness Fires](https://inciweb.nwcg.gov/incident/8284/) | 434 Acres | Idaho, USA | 2022-08-02 16:05:25 |
-| [Diamond Watch Fire](https://inciweb.nwcg.gov/incident/8264/) | 25 Acres | Idaho, USA | 2022-08-02 15:49:32 |
-| [Weasel Fire](https://inciweb.nwcg.gov/incident/8290/) | 150 Acres | Montana, USA | 2022-08-02 15:17:14 |
-| [Redhorn Fire](https://inciweb.nwcg.gov/incident/8293/) | 0 Acres | Montana, USA | 2022-08-02 13:42:22 |

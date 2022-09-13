@@ -4,23 +4,23 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Moose Fire](https://inciweb.nwcg.gov/incident/8249/) | 125925 Acres | Idaho, USA | 2022-09-12 07:25:40 |
-| [Ross Fork](https://inciweb.nwcg.gov/incident/8375/) | 36717 Acres | Idaho, USA | 2022-09-12 07:12:55 |
-| [Four Corners Fire](https://inciweb.nwcg.gov/incident/8331/) | 13717 Acres | Idaho, USA | 2022-09-12 07:08:44 |
-| [Goat Mountain 2 Fire](https://inciweb.nwcg.gov/incident/8380/) | 514 Acres | Oregon, USA | 2022-09-11 23:59:28 |
-| [Sturgill Fire](https://inciweb.nwcg.gov/incident/8364/) | 19543 Acres | Oregon, USA | 2022-09-11 23:57:22 |
-| [Goat Rocks Fire](https://inciweb.nwcg.gov/incident/8415/) | 2842 Acres | Washington, USA | 2022-09-11 23:50:44 |
-| [Van Meter Fire](https://inciweb.nwcg.gov/incident/8405/) | 2539 Acres | Oregon, USA | 2022-09-11 23:30:59 |
-| [NW Pasayten Complex](https://inciweb.nwcg.gov/incident/8397/) | 16181 Acres | Washington, USA | 2022-09-11 23:29:31 |
-| [Chilliwack Complex](https://inciweb.nwcg.gov/incident/8394/) | 5879 Acres | Washington, USA | 2022-09-11 23:24:09 |
-| [Crockets Knob Fire](https://inciweb.nwcg.gov/incident/8355/) | 4337 Acres | Oregon, USA | 2022-09-11 23:14:34 |
-| [Cedar Creek Fire](https://inciweb.nwcg.gov/incident/8307/) | 86734 Acres | Oregon, USA | 2022-09-11 23:00:22 |
-| [Rum Creek Fire](https://inciweb.nwcg.gov/incident/8348/) | 21347 Acres | Oregon, USA | 2022-09-11 22:55:25 |
-| [Kootenai River Complex ](https://inciweb.nwcg.gov/incident/8378/) | 19304 Acres | Idaho, USA | 2022-09-11 22:26:10 |
-| [Williams Creek Fire](https://inciweb.nwcg.gov/incident/8372/) | 12956 Acres | Idaho, USA | 2022-09-11 22:24:53 |
-| [Double Creek Fire](https://inciweb.nwcg.gov/incident/8366/) | 154380 Acres | Oregon, USA | 2022-09-11 22:20:27 |
-| [Barnes Fire](https://inciweb.nwcg.gov/incident/8403/) | 5840 Acres | California, USA | 2022-09-11 22:14:46 |
-| [Nebo Fire](https://inciweb.nwcg.gov/incident/8363/) | 12257 Acres | Oregon, USA | 2022-09-11 22:13:56 |
-| [Mosquito Fire](https://inciweb.nwcg.gov/incident/8398/) | 46587 Acres | California, USA | 2022-09-11 22:07:13 |
-| [Suiattle River Fire](https://inciweb.nwcg.gov/incident/8396/) | 66 Acres | Washington, USA | 2022-09-11 21:41:58 |
-| [Bolt Creek Fire](https://inciweb.nwcg.gov/incident/8417/) | 7660 Acres | Washington, USA | 2022-09-11 21:39:54 |
+| [Ross Fork](https://inciweb.nwcg.gov/incident/8375/) | 37233 Acres | Idaho, USA | 2022-09-12 19:58:58 |
+| [Murray Fire](https://inciweb.nwcg.gov/incident/8389/) | 70 Acres | Montana, USA | 2022-09-12 19:49:55 |
+| [Lemonade Fire](https://inciweb.nwcg.gov/incident/8379/) | 667 Acres | Montana, USA | 2022-09-12 19:47:35 |
+| [Mosquito Fire](https://inciweb.nwcg.gov/incident/8398/) | 46587 Acres | California, USA | 2022-09-12 19:46:23 |
+| [Goat Rocks Fire](https://inciweb.nwcg.gov/incident/8415/) | 2842 Acres | Washington, USA | 2022-09-12 19:45:07 |
+| [Rodgers Fire](https://inciweb.nwcg.gov/incident/8333/) | 2576 Acres | California, USA | 2022-09-12 19:22:42 |
+| [Red Fire](https://inciweb.nwcg.gov/incident/8332/) | 8309 Acres | California, USA | 2022-09-12 19:19:15 |
+| [Six Rivers Lightning Complex](https://inciweb.nwcg.gov/incident/8312/) | 41540 Acres | California, USA | 2022-09-12 18:56:10 |
+| [Calf Canyon](https://inciweb.nwcg.gov/incident/8069/) | 341735 Acres | New Mexico, USA | 2022-09-12 18:49:07 |
+| [Radford](https://inciweb.nwcg.gov/incident/8390/) | 1079 Acres | California, USA | 2022-09-12 18:48:45 |
+| [Hermits Peak Fire](https://inciweb.nwcg.gov/incident/8049/) | 341735 Acres | New Mexico, USA | 2022-09-12 18:44:37 |
+| [Bolt Creek Fire](https://inciweb.nwcg.gov/incident/8417/) | 7660 Acres | Washington, USA | 2022-09-12 18:36:01 |
+| [Wolf Fang Fire](https://inciweb.nwcg.gov/incident/8273/) | 2048 Acres | Idaho, USA | 2022-09-12 18:20:48 |
+| [Chilliwack Complex](https://inciweb.nwcg.gov/incident/8394/) | 5879 Acres | Washington, USA | 2022-09-12 18:18:00 |
+| [Margaret Fire](https://inciweb.nwcg.gov/incident/8393/) | 1077 Acres | Montana, USA | 2022-09-12 18:04:13 |
+| [SR Lightning Complex BAER](https://inciweb.nwcg.gov/incident/8384/) | 0 Acres | California, USA | 2022-09-12 17:58:53 |
+| [Dean Creek Fire](https://inciweb.nwcg.gov/incident/8330/) | 483 Acres | Montana, USA | 2022-09-12 17:56:25 |
+| [Cannon Fire](https://inciweb.nwcg.gov/incident/8326/) | 1872 Acres | Montana, USA | 2022-09-12 17:56:03 |
+| [George Lake Fire](https://inciweb.nwcg.gov/incident/8399/) | 625 Acres | Montana, USA | 2022-09-12 17:55:07 |
+| [Ursus Fire](https://inciweb.nwcg.gov/incident/8367/) | 4174 Acres | Montana, USA | 2022-09-12 17:53:52 |

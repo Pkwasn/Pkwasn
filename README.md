@@ -4,23 +4,23 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Goat Rocks Fire](https://inciweb.nwcg.gov/incident/8415/) | 4114 Acres | Washington, USA | 2022-10-02 23:13:39 |
-| [Cedar Creek Fire](https://inciweb.nwcg.gov/incident/8307/) | 120694 Acres | Oregon, USA | 2022-10-02 22:54:10 |
-| [Bolt Creek Fire](https://inciweb.nwcg.gov/incident/8417/) | 12486 Acres | Washington, USA | 2022-10-02 21:29:47 |
-| [Sturgill Fire](https://inciweb.nwcg.gov/incident/8364/) | 21625 Acres | Oregon, USA | 2022-10-02 21:23:12 |
-| [Nebo Fire](https://inciweb.nwcg.gov/incident/8363/) | 12608 Acres | Oregon, USA | 2022-10-02 21:15:45 |
-| [Goat Mountain 2 Fire](https://inciweb.nwcg.gov/incident/8380/) | 584 Acres | Oregon, USA | 2022-10-02 21:10:59 |
-| [Double Creek Fire](https://inciweb.nwcg.gov/incident/8366/) | 171505 Acres | Oregon, USA | 2022-10-02 20:50:08 |
-| [Kootenai River Complex ](https://inciweb.nwcg.gov/incident/8378/) | 22559 Acres | Idaho, USA | 2022-10-02 20:41:40 |
-| [Mosquito Post-Fire BAER](https://inciweb.nwcg.gov/incident/8430/) | 0 Acres | California, USA | 2022-10-02 20:27:17 |
-| [Moose Fire](https://inciweb.nwcg.gov/incident/8249/) | 130112 Acres | Idaho, USA | 2022-10-02 20:21:49 |
-| [White River (& Irving Peak)](https://inciweb.nwcg.gov/incident/8329/) | 10621 Acres | Washington, USA | 2022-10-02 15:53:01 |
-| [Fairview](https://inciweb.nwcg.gov/incident/8402/) | 28307 Acres | California, USA | 2022-10-02 15:31:07 |
-| [Kalama Fire](https://inciweb.nwcg.gov/incident/8420/) | 443 Acres | Washington, USA | 2022-10-02 12:10:50 |
-| [Mosquito Fire](https://inciweb.nwcg.gov/incident/8398/) | 76788 Acres | California, USA | 2022-10-02 10:51:07 |
-| [Lazy Fire](https://inciweb.nwcg.gov/incident/8431/) | 1800 Acres | Texas, USA | 2022-10-02 10:27:50 |
-| [Mt. Baker-Snoqualmie Post-Fire BAER](https://inciweb.nwcg.gov/incident/8429/) | 0 Acres | Washington, USA | 2022-10-02 09:23:30 |
-| [Bull Gin Complex](https://inciweb.nwcg.gov/incident/8381/) | 4281 Acres | Montana, USA | 2022-10-02 08:32:42 |
-| [Six Rivers Lightning Complex](https://inciweb.nwcg.gov/incident/8312/) | 41596 Acres | California, USA | 2022-10-01 12:25:12 |
-| [Owl Fire](https://inciweb.nwcg.gov/incident/8416/) | 747 Acres | Idaho, USA | 2022-10-01 11:53:20 |
-| [Horse Fire ](https://inciweb.nwcg.gov/incident/8423/) | 397 Acres | Idaho, USA | 2022-10-01 11:53:13 |
+| [Siouxon Fire](https://inciweb.nwcg.gov/incident/8436/) | 306 Acres | Washington, USA | 2022-10-03 20:00:26 |
+| [Mosquito Fire](https://inciweb.nwcg.gov/incident/8398/) | 76788 Acres | California, USA | 2022-10-03 18:39:41 |
+| [Moose Fire](https://inciweb.nwcg.gov/incident/8249/) | 130114 Acres | Idaho, USA | 2022-10-03 18:29:55 |
+| [Goat Rocks Fire](https://inciweb.nwcg.gov/incident/8415/) | 4193 Acres | Washington, USA | 2022-10-03 17:52:15 |
+| [Bolt Creek Fire](https://inciweb.nwcg.gov/incident/8417/) | 12486 Acres | Washington, USA | 2022-10-03 17:30:50 |
+| [No Grass Creek Fire](https://inciweb.nwcg.gov/incident/8421/) | 1145 Acres | Montana, USA | 2022-10-03 17:11:49 |
+| [Mosquito Post-Fire BAER](https://inciweb.nwcg.gov/incident/8430/) | 0 Acres | California, USA | 2022-10-03 17:11:00 |
+| [Solomon Fire](https://inciweb.nwcg.gov/incident/8370/) | 434 Acres | Montana, USA | 2022-10-03 17:02:23 |
+| [Fairview](https://inciweb.nwcg.gov/incident/8402/) | 28307 Acres | California, USA | 2022-10-03 16:33:00 |
+| [Double Creek BAER](https://inciweb.nwcg.gov/incident/8435/) | 171505 Acres | Oregon, USA | 2022-10-03 15:07:44 |
+| [Cedar Creek Fire](https://inciweb.nwcg.gov/incident/8307/) | 120757 Acres | Oregon, USA | 2022-10-03 14:58:32 |
+| [Cedar Creek BAER](https://inciweb.nwcg.gov/incident/8434/) | 0 Acres | Oregon, USA | 2022-10-03 14:56:53 |
+| [Lazy Fire](https://inciweb.nwcg.gov/incident/8431/) | 1800 Acres | Texas, USA | 2022-10-03 14:47:00 |
+| [Owl Fire](https://inciweb.nwcg.gov/incident/8416/) | 747 Acres | Idaho, USA | 2022-10-03 14:18:11 |
+| [Horse Fire ](https://inciweb.nwcg.gov/incident/8423/) | 397 Acres | Idaho, USA | 2022-10-03 14:17:59 |
+| [Norton Fire](https://inciweb.nwcg.gov/incident/8308/) | 9054 Acres | Idaho, USA | 2022-10-03 14:17:40 |
+| [Woodtick Fire](https://inciweb.nwcg.gov/incident/8253/) | 9598 Acres | Idaho, USA | 2022-10-03 14:17:24 |
+| [Wolf Fang Fire](https://inciweb.nwcg.gov/incident/8273/) | 2082 Acres | Idaho, USA | 2022-10-03 14:17:11 |
+| [Quartz Fire](https://inciweb.nwcg.gov/incident/8337/) | 1981 Acres | Montana, USA | 2022-10-03 12:31:09 |
+| [North Camas Fire](https://inciweb.nwcg.gov/incident/8387/) | 71 Acres | Montana, USA | 2022-10-03 12:30:31 |

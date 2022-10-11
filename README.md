@@ -4,12 +4,12 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Cedar Creek Fire](https://inciweb.nwcg.gov/incident/8307/) | 122210 Acres | Oregon, USA | 2022-10-10 18:42:13 |
-| [Goat Rocks Fire](https://inciweb.nwcg.gov/incident/8415/) | 4930 Acres | Washington, USA | 2022-10-10 16:19:59 |
-| [Mosquito Fire](https://inciweb.nwcg.gov/incident/8398/) | 76788 Acres | California, USA | 2022-10-10 15:23:30 |
+| [Mosquito Fire](https://inciweb.nwcg.gov/incident/8398/) | 76788 Acres | California, USA | 2022-10-10 22:31:14 |
+| [Cedar Creek Fire](https://inciweb.nwcg.gov/incident/8307/) | 122210 Acres | Oregon, USA | 2022-10-10 22:04:11 |
+| [Goat Rocks Fire](https://inciweb.nwcg.gov/incident/8415/) | 5040 Acres | Washington, USA | 2022-10-10 20:48:34 |
+| [Kootenai River Complex ](https://inciweb.nwcg.gov/incident/8378/) | 23131 Acres | Idaho, USA | 2022-10-10 20:15:52 |
 | [Bolt Creek Fire](https://inciweb.nwcg.gov/incident/8417/) | 13278 Acres | Washington, USA | 2022-10-10 13:44:14 |
 | [Mosquito Post-Fire BAER](https://inciweb.nwcg.gov/incident/8430/) | 0 Acres | California, USA | 2022-10-10 10:45:58 |
-| [Kootenai River Complex ](https://inciweb.nwcg.gov/incident/8378/) | 23131 Acres | Idaho, USA | 2022-10-10 09:46:27 |
 | [Moose Fire](https://inciweb.nwcg.gov/incident/8249/) | 130130 Acres | Idaho, USA | 2022-10-10 09:18:30 |
 | [Solomon Fire](https://inciweb.nwcg.gov/incident/8370/) | 434 Acres | Montana, USA | 2022-10-10 08:41:53 |
 | [Horse Fire ](https://inciweb.nwcg.gov/incident/8423/) | 397 Acres | Idaho, USA | 2022-10-10 08:11:15 |

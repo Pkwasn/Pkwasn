@@ -4,16 +4,16 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Bolt Creek Fire](https://inciweb.nwcg.gov/incident/8417/) | 14068 Acres | Washington, USA | 2022-10-15 22:39:12 |
+| [Murphy Lake](https://inciweb.nwcg.gov/incident/8445/) | 170 Acres | Washington, USA | 2022-10-15 22:12:30 |
+| [Goat Rocks Fire](https://inciweb.nwcg.gov/incident/8415/) | 5295 Acres | Washington, USA | 2022-10-15 21:23:38 |
+| [Cedar Creek Fire](https://inciweb.nwcg.gov/incident/8307/) | 123861 Acres | Oregon, USA | 2022-10-15 21:19:55 |
+| [Mosquito Fire](https://inciweb.nwcg.gov/incident/8398/) | 76788 Acres | California, USA | 2022-10-15 21:19:43 |
+| [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-10-15 21:17:01 |
 | [Nakia Creek Fire](https://inciweb.nwcg.gov/incident/8443/) | 156 Acres | Washington, USA | 2022-10-15 19:50:08 |
-| [Goat Rocks Fire](https://inciweb.nwcg.gov/incident/8415/) | 5295 Acres | Washington, USA | 2022-10-15 19:28:39 |
-| [Cedar Creek Fire](https://inciweb.nwcg.gov/incident/8307/) | 123861 Acres | Oregon, USA | 2022-10-15 16:32:34 |
-| [Murphy Lake](https://inciweb.nwcg.gov/incident/8445/) | 88 Acres | Washington, USA | 2022-10-15 14:31:21 |
-| [Bolt Creek Fire](https://inciweb.nwcg.gov/incident/8417/) | 13958 Acres | Washington, USA | 2022-10-15 14:18:28 |
-| [Southwest District BLM Prescribed Fire ](https://inciweb.nwcg.gov/incident/7852/) | 0 Acres | Colorado, USA | 2022-10-15 10:42:26 |
 | [Woodtick Fire](https://inciweb.nwcg.gov/incident/8253/) | 9598 Acres | Idaho, USA | 2022-10-15 10:13:10 |
 | [Norton Fire](https://inciweb.nwcg.gov/incident/8308/) | 9069 Acres | Idaho, USA | 2022-10-15 10:12:57 |
 | [Moose Fire](https://inciweb.nwcg.gov/incident/8249/) | 130144 Acres | Idaho, USA | 2022-10-15 10:12:29 |
-| [Mosquito Fire](https://inciweb.nwcg.gov/incident/8398/) | 76788 Acres | California, USA | 2022-10-15 10:05:27 |
 | [Kootenai River Complex ](https://inciweb.nwcg.gov/incident/8378/) | 23970 Acres | Idaho, USA | 2022-10-15 08:56:24 |
 | [Kalama Fire](https://inciweb.nwcg.gov/incident/8420/) | 486 Acres | Washington, USA | 2022-10-14 21:24:43 |
 | [Lemhi Fire](https://inciweb.nwcg.gov/incident/8446/) | 845 Acres | Idaho, USA | 2022-10-14 20:34:09 |

@@ -4,13 +4,13 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Bolt Creek Fire](https://inciweb.nwcg.gov/incident/8417/) | 14208 Acres | Washington, USA | 2022-10-17 07:26:16 |
+| [Goat Rocks Fire](https://inciweb.nwcg.gov/incident/8415/) | 5531 Acres | Washington, USA | 2022-10-16 23:26:51 |
+| [Murphy Lake](https://inciweb.nwcg.gov/incident/8445/) | 220 Acres | Washington, USA | 2022-10-16 23:22:08 |
+| [Nakia Creek Fire](https://inciweb.nwcg.gov/incident/8443/) | 156 Acres | Washington, USA | 2022-10-16 22:43:35 |
+| [Cedar Creek Fire](https://inciweb.nwcg.gov/incident/8307/) | 124447 Acres | Oregon, USA | 2022-10-16 20:49:09 |
 | [Mosquito Fire](https://inciweb.nwcg.gov/incident/8398/) | 76788 Acres | California, USA | 2022-10-16 20:11:51 |
-| [Goat Rocks Fire](https://inciweb.nwcg.gov/incident/8415/) | 5531 Acres | Washington, USA | 2022-10-16 16:08:25 |
-| [Murphy Lake](https://inciweb.nwcg.gov/incident/8445/) | 170 Acres | Washington, USA | 2022-10-16 16:03:33 |
-| [Nakia Creek Fire](https://inciweb.nwcg.gov/incident/8443/) | 156 Acres | Washington, USA | 2022-10-16 15:38:37 |
-| [Bolt Creek Fire](https://inciweb.nwcg.gov/incident/8417/) | 14068 Acres | Washington, USA | 2022-10-16 14:23:30 |
 | [Trail Ridge Fire](https://inciweb.nwcg.gov/incident/8365/) | 17583 Acres | Montana, USA | 2022-10-16 14:11:44 |
-| [Cedar Creek Fire](https://inciweb.nwcg.gov/incident/8307/) | 124447 Acres | Oregon, USA | 2022-10-16 13:25:30 |
 | [Kootenai River Complex ](https://inciweb.nwcg.gov/incident/8378/) | 23970 Acres | Idaho, USA | 2022-10-16 13:24:06 |
 | [Woodtick Fire](https://inciweb.nwcg.gov/incident/8253/) | 9598 Acres | Idaho, USA | 2022-10-16 10:18:34 |
 | [Norton Fire](https://inciweb.nwcg.gov/incident/8308/) | 9069 Acres | Idaho, USA | 2022-10-16 10:18:25 |

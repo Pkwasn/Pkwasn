@@ -4,11 +4,11 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Goat Rocks Fire](https://inciweb.nwcg.gov/incident/8415/) | 6196 Acres | Washington, USA | 2022-10-23 23:23:01 |
+| [Siouxon and Sunset Fires](https://inciweb.nwcg.gov/incident/8436/) | 0 Acres | Washington, USA | 2022-10-23 23:05:22 |
+| [Cedar Creek Fire](https://inciweb.nwcg.gov/incident/8307/) | 127283 Acres | Oregon, USA | 2022-10-23 20:55:01 |
+| [Loch Katrine Fire](https://inciweb.nwcg.gov/incident/8447/) | 1918 Acres | Washington, USA | 2022-10-23 20:51:42 |
 | [Mosquito Fire](https://inciweb.nwcg.gov/incident/8398/) | 76788 Acres | California, USA | 2022-10-23 19:49:30 |
-| [Goat Rocks Fire](https://inciweb.nwcg.gov/incident/8415/) | 6196 Acres | Washington, USA | 2022-10-23 18:51:54 |
-| [Siouxon and Sunset Fires](https://inciweb.nwcg.gov/incident/8436/) | 0 Acres | Washington, USA | 2022-10-23 16:21:39 |
-| [Loch Katrine Fire](https://inciweb.nwcg.gov/incident/8447/) | 1918 Acres | Washington, USA | 2022-10-23 13:03:01 |
-| [Cedar Creek Fire](https://inciweb.nwcg.gov/incident/8307/) | 127283 Acres | Oregon, USA | 2022-10-23 12:39:38 |
 | [8 Road Fire](https://inciweb.nwcg.gov/incident/8448/) | 158 Acres | Washington, USA | 2022-10-23 11:46:49 |
 | [Nakia Creek Fire](https://inciweb.nwcg.gov/incident/8443/) | 1918 Acres | Washington, USA | 2022-10-23 11:41:32 |
 | [Suiattle River Fire](https://inciweb.nwcg.gov/incident/8396/) | 2288 Acres | Washington, USA | 2022-10-22 16:23:43 |

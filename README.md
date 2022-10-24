@@ -4,14 +4,15 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
-| [Siouxon and Sunset Fires](https://inciweb.nwcg.gov/incident/8436/) | 0 Acres | Washington, USA | 2022-10-22 23:43:50 |
-| [Goat Rocks Fire](https://inciweb.nwcg.gov/incident/8415/) | 6196 Acres | Washington, USA | 2022-10-22 23:07:01 |
-| [Cedar Creek Fire](https://inciweb.nwcg.gov/incident/8307/) | 127283 Acres | Oregon, USA | 2022-10-22 21:10:53 |
-| [Loch Katrine Fire](https://inciweb.nwcg.gov/incident/8447/) | 1918 Acres | Washington, USA | 2022-10-22 20:49:33 |
-| [Mosquito Fire](https://inciweb.nwcg.gov/incident/8398/) | 76788 Acres | California, USA | 2022-10-22 19:53:12 |
+| [Mosquito Fire](https://inciweb.nwcg.gov/incident/8398/) | 76788 Acres | California, USA | 2022-10-23 19:49:30 |
+| [Goat Rocks Fire](https://inciweb.nwcg.gov/incident/8415/) | 6196 Acres | Washington, USA | 2022-10-23 18:51:54 |
+| [Siouxon and Sunset Fires](https://inciweb.nwcg.gov/incident/8436/) | 0 Acres | Washington, USA | 2022-10-23 16:21:39 |
+| [Loch Katrine Fire](https://inciweb.nwcg.gov/incident/8447/) | 1918 Acres | Washington, USA | 2022-10-23 13:03:01 |
+| [Cedar Creek Fire](https://inciweb.nwcg.gov/incident/8307/) | 127283 Acres | Oregon, USA | 2022-10-23 12:39:38 |
+| [8 Road Fire](https://inciweb.nwcg.gov/incident/8448/) | 158 Acres | Washington, USA | 2022-10-23 11:46:49 |
+| [Nakia Creek Fire](https://inciweb.nwcg.gov/incident/8443/) | 1918 Acres | Washington, USA | 2022-10-23 11:41:32 |
 | [Suiattle River Fire](https://inciweb.nwcg.gov/incident/8396/) | 2288 Acres | Washington, USA | 2022-10-22 16:23:43 |
 | [Kalama Fire](https://inciweb.nwcg.gov/incident/8420/) | 500 Acres | Washington, USA | 2022-10-22 14:57:54 |
-| [Nakia Creek Fire](https://inciweb.nwcg.gov/incident/8443/) | 1918 Acres | Washington, USA | 2022-10-22 11:05:06 |
 | [Woodtick Fire](https://inciweb.nwcg.gov/incident/8253/) | 9834 Acres | Idaho, USA | 2022-10-22 10:17:09 |
 | [Norton Fire](https://inciweb.nwcg.gov/incident/8308/) | 9278 Acres | Idaho, USA | 2022-10-22 10:17:00 |
 | [Moose Fire](https://inciweb.nwcg.gov/incident/8249/) | 130198 Acres | Idaho, USA | 2022-10-22 10:16:48 |
@@ -23,4 +24,3 @@ This is automatically generated every 12 hours with Github Actions!
 | [Patrol Point](https://inciweb.nwcg.gov/incident/8357/) | 16561 Acres | Idaho, USA | 2022-10-21 15:38:16 |
 | [Dismal Fire](https://inciweb.nwcg.gov/incident/8284/) | 9501 Acres | Idaho, USA | 2022-10-21 15:38:05 |
 | [Lemhi Fire](https://inciweb.nwcg.gov/incident/8446/) | 845 Acres | Idaho, USA | 2022-10-21 15:33:47 |
-| [Strawberry RX Burn](https://inciweb.nwcg.gov/incident/8449/) | 2000 Acres | California, USA | 2022-10-21 14:48:53 |

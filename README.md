@@ -4,14 +4,14 @@ This is automatically generated every 12 hours with Github Actions!
 
  | Incident Name | Acres | State | Date and Time |
 |:---|:---|:---|:---|
+| [Siouxon and Sunset Fires](https://inciweb.nwcg.gov/incident/8436/) | 0 Acres | Washington, USA | 2022-10-25 00:32:59 |
+| [Goat Rocks Fire](https://inciweb.nwcg.gov/incident/8415/) | 6196 Acres | Washington, USA | 2022-10-25 00:18:10 |
+| [Mosquito Fire](https://inciweb.nwcg.gov/incident/8398/) | 76788 Acres | California, USA | 2022-10-24 22:24:45 |
+| [Cedar Creek Fire](https://inciweb.nwcg.gov/incident/8307/) | 127283 Acres | Oregon, USA | 2022-10-24 20:58:01 |
 | [Loch Katrine Fire](https://inciweb.nwcg.gov/incident/8447/) | 1918 Acres | Washington, USA | 2022-10-24 20:15:44 |
 | [Mt. Baker-Snoqualmie Post-Fire BAER](https://inciweb.nwcg.gov/incident/8429/) | 0 Acres | Washington, USA | 2022-10-24 17:59:02 |
-| [Goat Rocks Fire](https://inciweb.nwcg.gov/incident/8415/) | 6196 Acres | Washington, USA | 2022-10-24 17:32:42 |
-| [Mosquito Fire](https://inciweb.nwcg.gov/incident/8398/) | 76788 Acres | California, USA | 2022-10-24 15:56:23 |
 | [Blue Ridge Prescribed Burn](https://inciweb.nwcg.gov/incident/8439/) | 0 Acres | Colorado, USA | 2022-10-24 15:50:17 |
 | [Diamond Watch Fire](https://inciweb.nwcg.gov/incident/8264/) | 1429 Acres | Idaho, USA | 2022-10-24 13:03:31 |
-| [Siouxon and Sunset Fires](https://inciweb.nwcg.gov/incident/8436/) | 0 Acres | Washington, USA | 2022-10-24 12:46:20 |
-| [Cedar Creek Fire](https://inciweb.nwcg.gov/incident/8307/) | 127283 Acres | Oregon, USA | 2022-10-24 12:33:57 |
 | [Trail Ridge Fire](https://inciweb.nwcg.gov/incident/8365/) | 18138 Acres | Montana, USA | 2022-10-24 12:33:17 |
 | [Nakia Creek Fire](https://inciweb.nwcg.gov/incident/8443/) | 1918 Acres | Washington, USA | 2022-10-24 12:06:01 |
 | [Moose Fire](https://inciweb.nwcg.gov/incident/8249/) | 130198 Acres | Idaho, USA | 2022-10-24 11:04:43 |
